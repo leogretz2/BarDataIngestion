@@ -14,6 +14,9 @@
     "fs-extra": "^11.2.0",
     "mammoth": "^1.7.2",
     "openai": "^4.40.2",
-    "poolifier": "^4.0.1"
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^4.2.67",
+    "poolifier": "^4.0.1",
+    "tesseract.js": "^5.0.5"
   }
 }

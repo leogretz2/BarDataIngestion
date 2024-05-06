@@ -5,6 +5,9 @@ const fs = require("fs");
 // const fs = require("fs-extra");
 const path = require("path");
 const mammoth = require("mammoth");
+const pdfParse = require("pdf-parse");
+// const pdfjsLib = require("pdfjs-dist");
+const { createWorker } = require("tesseract.js");
 
 // Part 1 - Data Preprocessing
 /*
@@ -255,16 +258,78 @@ function documentCompleted() {
 
 // PART 1 - IMPLMENTATION
 
-// Function to convert a document (pdf, docx, etc.) to text
+// dynamic import since require is not supported (needs a module for some reason)
+const pdfjsLib = await import('/home/runner/BarDataIngestion/node_modules/pdfjs-dist/build/pdf.mjs');
+
+import('pdfjs-dist').then(pdfjsLib => {
+  async function extractTextFromPDF(pdfBuffer) {
+    const pdf = await pdfjsLib.getDocument({ data: pdfBuffer }).promise;
+    const numPages = pdf.numPages;
+
+    for (let i = 1; i <= numPages; i++) {
+      const page = await pdf.getPage(i);
+      // Render the page (you can use canvas or other rendering options)
+      // Extract text from the rendered page (see next step)
+    }
+  }
+
+  
+
+}
+
+const tesseractWorker = createWorker();
+
+// Function to extract text from a PDF with non-selectable text using pdf.js
+async function extractTextFromPDF(pdfBuffer) {
+  const pdf = await pdfjsLib.getDocument({ data: pdfBuffer }).promise;
+  const numPages = pdf.numPages;
+
+  for (let i = 1; i <= numPages; i++) {
+    const page = await pdf.getPage(i);
+    // Render the page (you can use canvas or other rendering options)
+    // Extract text from the rendered page (see next step)
+  }
+
+  console.log("scanned");
+}
+
+// Function to convert a document (PDF, DOCX, etc.) to text
 async function convertToText(filePath) {
   try {
-    if (filePath.endsWith(".pdf")) {
-      // Use OCR or pdf.js to extract text from PDF (implementation not provided)
-    } else if (filePath.endsWith(".docx")) {
+    const ext = path.extname(filePath).toLowerCase();
+    if (ext === ".pdf") {
+      const dataBuffer = fs.readFileSync(filePath);
+      const data = await pdfParse(dataBuffer);
+
+      // Check if extracted text is minimal
+      if (data.text.trim().length > 50) {
+        return data.text; // Return text if sufficiently extracted by pdf-parse
+      } else {
+        // Use OCR as fallback for scanned PDFs
+        console.log(`needOCR:${filePath}`);
+
+        extractTextFromPDF(dataBuffer);
+
+        // const tesseractWorker2 = await createWorker("eng");
+        // const pdfImagePath =
+        //   "./practice_mbe/Barbri_Released_Questions_MBE_2007.pdf"; // Replace with the actual path to your PDF image
+
+        // const result = await tesseractWorker2.recognize(pdfImagePath);
+        // console.log("res", result.data.text);
+
+        // await tesseractWorker2.terminate();
+        // await tesseractWorker.load();
+        // await tesseractWorker.loadLanguage("eng");
+        // await tesseractWorker.initialize("eng");
+        // const { text } = await tesseractWorker.recognize(dataBuffer);
+        // await tesseractWorker.terminate();
+        return text; // Return OCR-processed text
+      }
+    } else if (ext === ".docx") {
       const result = await mammoth.extractRawText({ path: filePath });
-      return result.value;
+      return result.value; // Extract text from DOCX
     }
-    // Add support for other document types if needed
+    return null; // Return null for unsupported file types
   } catch (error) {
     console.error("Error converting document to text:", error);
     return null;
@@ -292,27 +357,9 @@ async function processSubfolder(subfolderPath) {
     );
     fs.writeFileSync(newFilePath, combinedText);
     // Remove processed subfolder
-    fs.rmdirSync(subfolderPath, { recursive: true });
+    fs.rmSync(subfolderPath, { recursive: true });
   } catch (error) {
     console.error("Error processing subfolder:", error);
-  }
-}
-
-// Function to process solo documents
-async function processSoloDocuments(folderPath) {
-  try {
-    const files = fs.readdirSync(folderPath);
-    for (const file of files) {
-      const filePath = path.join(folderPath, file);
-      const text = await convertToText(filePath);
-      if (text) {
-        const newFilePath = filePath.replace(/\.\w+$/, ".txt"); // Replace extension with .txt
-        fs.writeFileSync(newFilePath, text);
-        fs.unlinkSync(filePath); // Delete original file
-      }
-    }
-  } catch (error) {
-    console.error("Error processing solo documents:", error);
   }
 }
 
@@ -325,11 +372,21 @@ async function preprocessData(workingFolderPath) {
       const stats = fs.statSync(folderPath);
       if (stats.isDirectory()) {
         await processSubfolder(folderPath);
+      } else {
+        // Process individual files in the root of workingFolderPath if needed
+        const text = await convertToText(folderPath);
+        if (text) {
+          const newFilePath = folderPath.replace(
+            path.extname(folderPath),
+            ".txt",
+          );
+          fs.writeFileSync(newFilePath, text);
+          fs.unlinkSync(folderPath); // Delete the original file
+        }
       }
     }
-    await processSoloDocuments(workingFolderPath);
   } catch (error) {
-    console.error("Error preprocessing data:", error); 
+    console.error("Error preprocessing data:", error);
   }
 }
 
@@ -344,7 +401,7 @@ async function main() {
   } catch (error) {
     console.error("Error copying folder:", error);
   }
-  console.log("done")
+  console.log("done");
 }
 
 main();
