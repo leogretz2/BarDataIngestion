@@ -1,13 +1,18 @@
 //Goal: Turn unstructed documents into questions and answers in our database. Note: Some documents have the questions and answers together, and amongst these, some have a majority of other text besides questions. Lastly, others are in seperate documents, and each of these pairs (one question, one answer document) will reside in its own folder. These will then be inside of one master folder that is where the program will pull from to process any data in it and delete after it is processed. Note: this is being done in replit - can we use local folder paths or is there a better way?
 
 // Imports
-const fs = require("fs");
+// const fs = require("fs");
+import fs from "fs";
 // const fs = require("fs-extra");
-const path = require("path");
-const mammoth = require("mammoth");
-const pdfParse = require("pdf-parse");
+// const path = require("path");
+import path from "path";
+// const mammoth = require("mammoth");
+import mammoth from "mammoth";
+// const pdfParse = require("pdf-parse");
+import pdfParse from "pdf-parse";
 // const pdfjsLib = require("pdfjs-dist");
-const { createWorker } = require("tesseract.js");
+// const { createWorker } = require("tesseract.js");
+import { createWorker } from "tesseract.js";
 
 // Part 1 - Data Preprocessing
 /*
@@ -259,25 +264,24 @@ function documentCompleted() {
 // PART 1 - IMPLMENTATION
 
 // dynamic import since require is not supported (needs a module for some reason)
-const pdfjsLib = await import('/home/runner/BarDataIngestion/node_modules/pdfjs-dist/build/pdf.mjs');
+// const pdfjsLib = await import(
+//   "/home/runner/BarDataIngestion/node_modules/pdfjs-dist/build/pdf.mjs"
+// );
 
-import('pdfjs-dist').then(pdfjsLib => {
-  async function extractTextFromPDF(pdfBuffer) {
-    const pdf = await pdfjsLib.getDocument({ data: pdfBuffer }).promise;
-    const numPages = pdf.numPages;
+// import("pdfjs-dist").then((pdfjsLib) => {
+//   async function extractTextFromPDF(pdfBuffer) {
+//     const pdf = await pdfjsLib.getDocument({ data: pdfBuffer }).promise;
+//     const numPages = pdf.numPages;
 
-    for (let i = 1; i <= numPages; i++) {
-      const page = await pdf.getPage(i);
-      // Render the page (you can use canvas or other rendering options)
-      // Extract text from the rendered page (see next step)
-    }
-  }
+//     for (let i = 1; i <= numPages; i++) {
+//       const page = await pdf.getPage(i);
+//       // Render the page (you can use canvas or other rendering options)
+//       // Extract text from the rendered page (see next step)
+//     }
+//   }
+// });
 
-  
-
-}
-
-const tesseractWorker = createWorker();
+// const tesseractWorker = createWorker();
 
 // Function to extract text from a PDF with non-selectable text using pdf.js
 async function extractTextFromPDF(pdfBuffer) {
@@ -391,7 +395,7 @@ async function preprocessData(workingFolderPath) {
 }
 
 // This works to copy practice_mbe to working_folder
-async function main() {
+async function mainer() {
   // Synchronous version to copy practice_mbe to working_folder
   try {
     fs.cpSync("./practice_mbe", "./working_folder", { recursive: true });
@@ -404,4 +408,4 @@ async function main() {
   console.log("done");
 }
 
-main();
+mainer();

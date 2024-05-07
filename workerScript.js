@@ -118,139 +118,99 @@ async function processFile(filePath) {
   ];
 
   // Construct the prompt using template literals
-  const promptContent = `You are an AI designed to assist in the organization and management of bar exam study materials. Your current task is to format, validate, and load various types of legal questions into a structured database. You are a coveted legal expert who is a bar exam master and gets a perfect score on every question
+  const promptContent = `You are an AI designed to assist in the organization and management of bar exam study materials. Your current task is to format, validate, and load various types of legal questions into a structured database. You are a coveted legal expert who is a bar exam master and gets a perfect score on every question.
 
         Operational Guidelines:
         1. Address one question at a time for accuracy.
-        2. Employ the following structured formats for data entry:
-
-        For Multistate Bar Examination (MBE) questions:
-        {
-          "Document title": "${documentTitle}",
-          "Document Date": " Year or NA (integer)",
-          "Publisher": " Name or NA (string)",
-          "question_type": "MBE",
-          "question": "Input question text here (string)",
-          "answers": {
-            "A": "First option (string)",
-            "B": "Second option (string)",
-            "C": "Third option (string)",
-            "D": "Fourth option (string)"
-          },
-          "correct_answer": "Correct option letter (string)",
-          "answer_origin": "Document or Generated (string)",
-          "explanation": "Explanation for the correct answer (string)",
-          "explanation_origin": "Document or Generated (string)",
-          "difficulty_level": "Difficulty from 1 to 100 (integer)",
-          "law_category_tags": ["Specific law category (string)", "Additional tags as applicable (string)"],
-          "topic": ["Specific topic(s) under the law category (string)", "(string)", "(string)"],
-        }
-
-        For Multistate Essay Examination (MEE) questions:
-        {
-          "Document title": "${documentTitle}",
-          "Document Date": " Year or NA (integer)",
-          "Publisher": " Name or NA (string)",
-          "question_type": "MEE",
-          "question": "Input question text here (string)",
-          "possible_answers": ["First option (string)", "Second option (string)", "..."],
-          "answer": "Correct answer (string)",
-          "answer_origin": "Document or Generated (string)",
-          "explanation": "Explanation for the correct answer (string)",
-          "explanation_origin": "Document or Generated (string)",
-          "difficulty_level": "Difficulty from 1 to 100 (integer)",
-          "law_category_tags": ["Specific law category (string)", "Additional tags as applicable (string)"],
-          "topic": ["Specific topic(s) under the law category (string)", "(string)", "(string)"],
-        }
-
-        For Multistate Performance Test (MPT) questions:
-        {
-          "Document title": "${documentTitle}",
-          "Document Date": " Year or NA (integer)",
-          "Publisher": " Name or NA (string)",
-          "question_type": "MPT",
-          "question": "Input question text here (string)",
-          "possible_answers": ["First option (string)", "Second option (string)", "..."],
-          "answer": "Correct answer (string)",
-          "answer_origin": "Document or Generated (string)",
-          "explanation": "Explanation for the correct answer (string)",
-          "explanation_origin": "Document or Generated (string)",
-          "difficulty_level": "Difficulty from 1 to 100 (integer)",
-          "law_category_tags": ["Specific law category (string)", "Additional tags as applicable (string)"],
-          "topic": ["Specific topic(s) under the law category (string)", "(string)", "(string)"],
-        }
+        2. Format your response exactly to fit the structure the functions you want to call require.
+        3. Respond only in JSON and ensure that it is well formatted and valid.
 
         Current Document:
-        ${documentContent}`;
+        Title: ${documentTitle}
+        Content: ${documentContent}
+        
+        Take a deep breath and think step by step to get the best answer.`;
 
   const messages = [{ role: "system", content: promptContent }];
 
   try {
-    const response = await openai.createChatCompletion({
+    const response = await openai.chat.completions.create({
       model: "gpt-4-turbo",
       messages: messages,
+      response_format: { type: "json_object" },
       tools: tools,
       tool_choice: "required",
     });
 
-    // Handle the function call responses
-    handleResponse(response);
-    parentPort.postMessage({ status: "success", result: response.data });
+    const response_message = response.choices[0].message
+    console.log("response_message:", response);
+    
+    const tool_calls = response_message.tool_calls
+    console.log("too_calls:", tool_calls);
+
+    handleResponse(tool_calls);
+    parentPort.postMessage({ status: "success", result: tool_calls });
   } catch (error) {
-    console.error("Error processing file:", filePath, error);
+    console.error("Error:", error);
     parentPort.postMessage({ status: "error", message: error.message });
   }
 }
 
-function handleResponse(response) {
-  // Assuming response structure matches your setup or API documentation
-  const toolCalls = response.choices[0].message.tool_calls;
+async function handleResponse(tool_calls) {
+  console.log("Handling response...");
 
-  if (toolCalls) {
-    toolCalls.forEach((call) => {
-      const functionName = call.function.name;
-      const functionArgs = call.arguments;
-      const handler = availableFunctions[functionName];
+  const availableFunctions = {
+    insert_mbe_question: insertMBEQuestion,
+    insert_mee_question: insertMEEQuestion,
+    insert_mpt_question: insertMPTQuestion,
+    check_end_of_questions: checkEndOfQuestions,
+  };
 
-      if (handler) {
-        handler(functionArgs);
+  try {
+    for (const tool_call of tool_calls) {
+      const functionName = tool_call.function.name;
+      const functionToCall = availableFunctions[functionName];
+      if (functionToCall) {
+        const functionArgs = JSON.parse(tool_call.function.arguments);
+        const functionResponse = await functionToCall(functionArgs);
+        console.log(`Response from ${functionName}:`, functionResponse);
       } else {
-        console.error("Function not found for tool call:", functionName);
+        console.log(`Function ${functionName} not found`);
       }
-    });
+      }
+  } catch (error) {
+    console.error("Error during function call:", error);
   }
 }
 
-const availableFunctions = {
-  insert_mbe_question: insertMBEQuestion,
-  insert_mee_question: insertMEEQuestion,
-  insert_mpt_question: insertMPTQuestion,
-  check_end_of_questions: checkEndOfQuestions,
-};
-
-// Example implementations for the functions
-function insertMBEQuestion(args) {
-  console.log("Inserting MBE question:", args);
+// Example implementation for the functions
+async function insertMBEQuestion(args) {
+  console.log("Inserting MBE question with args:", args);
+  // Example async operation
+  return new Promise(resolve => setTimeout(() => resolve("MBE question inserted"), 1000));
 }
 
-function insertMEEQuestion(args) {
-  console.log("Inserting MEE question:", args);
+async function insertMEEQuestion(args) {
+  console.log("Inserting MEE question with args:", args);
+  return new Promise(resolve => setTimeout(() => resolve("MEE question inserted"), 1000));
 }
 
-function insertMPTQuestion(args) {
-  console.log("Inserting MPT question:", args);
+async function insertMPTQuestion(args) {
+  console.log("Inserting MPT question with args:", args);
+  return new Promise(resolve => setTimeout(() => resolve("MPT question inserted"), 1000));
 }
 
 function checkEndOfQuestions(args) {
-  console.log("End of questions:", args);
+  console.log("Checking end of questions with args:", args);
+  return "End of questions checked";
 }
 
 // Listening for messages from the parent thread
-parentPort.on('message', async (task) => {
-  console.log("Received task:", task); // Debugging the structure of the received task
-  if (!task || !task.filePath) {
-    console.error("No file path provided");
-    return;
+parentPort.on('message', async (filePath) => {
+  try {
+    const result = await processFile(filePath);
+    parentPort.postMessage({ message: result });
+  } catch (error) {
+    parentPort.postMessage({ error: error.message });
   }
-  await processFile(task.filePath);
 });
