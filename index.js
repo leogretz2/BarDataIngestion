@@ -345,7 +345,7 @@ async function processSubfolder(subfolderPath) {
       const filePath = path.join(subfolderPath, file);
       const text = await convertToText(filePath);
       if (text) {
-        combinedText += text + "\n"; // Append text and add newline
+        combinedText += text + "\n\n"; // Append text and add newline
         fs.unlinkSync(filePath); // Delete processed file
       }
     }
