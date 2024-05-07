@@ -23,8 +23,8 @@ async function processFile(filePath) {
         parameters: {
           type: "object",
           properties: {
-            "Document title": { type: "string" },
-            "Document Date": { type: "integer" },
+            Document_title: { type: "string" },
+            Document_Date: { type: "string" },
             Publisher: { type: "string" },
             question_type: { type: "string", const: "MBE" },
             question: { type: "string" },
@@ -45,7 +45,7 @@ async function processFile(filePath) {
             law_category_tags: { type: "array", items: { type: "string" } },
             topic: { type: "array", items: { type: "string" } },
           },
-          required: ["question_type", "question", "answers", "correct_answer"],
+          required: ["Document_title", "Document_Date", "question_type", "question", "answers", "correct_answer", "answer_origin", "explanation", "explanation_origin", "difficulty_level", "law_category_tags", "topic" ],
         },
       },
     },
@@ -58,7 +58,7 @@ async function processFile(filePath) {
           type: "object",
           properties: {
             "Document title": { type: "string" },
-            "Document Date": { type: "integer" },
+            "Document Date": { type: "string" },
             Publisher: { type: "string" },
             question_type: { type: "string", const: "MEE" },
             question: { type: "string" },
@@ -84,7 +84,7 @@ async function processFile(filePath) {
           type: "object",
           properties: {
             "Document title": { type: "string" },
-            "Document Date": { type: "integer" },
+            "Document Date": { type: "string" },
             Publisher: { type: "string" },
             question_type: { type: "string", const: "MPT" },
             question: { type: "string" },
@@ -104,14 +104,14 @@ async function processFile(filePath) {
     {
       type: "function",
       function: {
-        name: "check_end_of_questions",
-        description: "Check if there are no more questions in the document",
+        name: "end_document_processing",
+        description: "Call when there are no more questions in the document to be added to the database",
         parameters: {
           type: "object",
           properties: {
-            end_of_questions: { type: "boolean" },
+              end_document_processing: { type: "boolean" },
           },
-          required: ["end_of_questions"],
+          required: ["end_document_processing"],
         },
       },
     },
@@ -120,11 +120,17 @@ async function processFile(filePath) {
   // Construct the prompt using template literals
   const promptContent = `You are an AI designed to assist in the organization and management of bar exam study materials. Your current task is to format, validate, and load various types of legal questions into a structured database. You are a coveted legal expert who is a bar exam master and gets a perfect score on every question.
 
+You have acess to four tools. Three are for adding questions to the databse: insert_mbe_question, insert_mee_question, and insert_mpt_question. The last tool, end_document_processing, is for ending processing of a document once all questions are gone.
+
         Operational Guidelines:
-        1. Address one question at a time for accuracy.
+        1. Record your data exactly as it in in the source document.
         2. Format your response exactly to fit the structure the functions you want to call require.
         3. Respond only in JSON and ensure that it is well formatted and valid.
+        4. Ensure youn only make a single tool call for each question. You can do questions at once via multiple tools calls if it doesn't decrease quality.
+        5. If there is no clear data on the doucment put 'NA'
+        6. Difficulty score is out of 100 and is in the context of the average bar exam question being a 50.
 
+      
         Current Document:
         Title: ${documentTitle}
         Content: ${documentContent}
@@ -158,35 +164,35 @@ async function processFile(filePath) {
 
 async function handleResponse(tool_calls) {
   console.log("Handling response...");
+  console.log(`Processing ${tool_calls.length} tool calls`);
 
   const availableFunctions = {
     insert_mbe_question: insertMBEQuestion,
     insert_mee_question: insertMEEQuestion,
     insert_mpt_question: insertMPTQuestion,
-    check_end_of_questions: checkEndOfQuestions,
+    end_document_processing: end_document_processing,
   };
 
-  try {
-    for (const tool_call of tool_calls) {
-      const functionName = tool_call.function.name;
-      const functionToCall = availableFunctions[functionName];
-      if (functionToCall) {
-        const functionArgs = JSON.parse(tool_call.function.arguments);
-        const functionResponse = await functionToCall(functionArgs);
-        console.log(`Response from ${functionName}:`, functionResponse);
-      } else {
-        console.log(`Function ${functionName} not found`);
-      }
-      }
-  } catch (error) {
-    console.error("Error during function call:", error);
-  }
-}
+  const tasks = tool_calls.map(tool_call => {
+    const functionName = tool_call.function.name;
+    const functionToCall = availableFunctions[functionName];
+    if (functionToCall) {
+      const functionArgs = JSON.parse(tool_call.function.arguments);
+      cleanUpNewlines(functionArgs);
+      return functionToCall(functionArgs)
+        .then(response => console.log(`Response from ${functionName}:`, response))
+        .catch(error => console.error(`Error during ${functionName} call:`, error));
+    }
+    return Promise.resolve(`Function ${functionName} not found`);
+  });
 
-// Example implementation for the functions
+  await Promise.all(tasks);
+  console.log("All tool calls processed.");
+  }
+
+// Example dummy functions that you can modify accordingly
 async function insertMBEQuestion(args) {
   console.log("Inserting MBE question with args:", args);
-  // Example async operation
   return new Promise(resolve => setTimeout(() => resolve("MBE question inserted"), 1000));
 }
 
@@ -200,9 +206,18 @@ async function insertMPTQuestion(args) {
   return new Promise(resolve => setTimeout(() => resolve("MPT question inserted"), 1000));
 }
 
-function checkEndOfQuestions(args) {
-  console.log("Checking end of questions with args:", args);
+function end_document_processing(args) {
+  console.log("Document Done Processing:", args);
   return "End of questions checked";
+}
+
+// Utility function to remove newline characters
+function cleanUpNewlines(args) {
+  for (const key in args) {
+    if (typeof args[key] === 'string') {
+      args[key] = args[key].replace(/\n/g, ' '); // Replace newline characters with spaces
+    }
+  }
 }
 
 // Listening for messages from the parent thread
