@@ -152,7 +152,7 @@ You have acess to four tools. Three are for adding questions to the databse: ins
     console.log("response_message:", response);
     
     const tool_calls = response_message.tool_calls
-    console.log("too_calls:", tool_calls);
+    console.log("tool_calls:", tool_calls);
 
     handleResponse(tool_calls);
     parentPort.postMessage({ status: "success", result: tool_calls });

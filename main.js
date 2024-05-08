@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const workerScriptPath = resolve(__dirname, 'workerScript.js');
-const numWorkers = 4; // Number of workers
+const maxWorkers = 20; // Maximum number of concurrent workers
 const workers = [];
 const tasks = [];
 const responses = [];
@@ -36,25 +36,19 @@ function createWorker() {
       worker.postMessage(tasks.pop());
     } else {
       worker.terminate();
+      workers.splice(workers.indexOf(worker), 1); // Remove terminated worker from the list
+      if (tasks.length === 0 && workers.length === 0) {
+        console.log('All tasks completed.');
+      }
     }
   });
   worker.on('error', (err) => console.error('Worker error:', err));
-  worker.on('exit', () => console.log('Worker exited.'));
-  return worker;
-}
-
-// Dispatch tasks to workers
-function dispatchTasks() {
-  tasks.forEach(task => {
-    const availableWorker = workers.find(worker => worker.threadId);
-    if (availableWorker) {
-      availableWorker.postMessage(task);
-    } else {
-      const worker = createWorker();
-      workers.push(worker);
-      worker.postMessage(task);
-    }
+  worker.on('exit', (code) => {
+    if (code !== 0) console.error(`Worker stopped with exit code ${code}`);
+    workers.splice(workers.indexOf(worker), 1); // Ensure the worker is removed from the list on exit
   });
+  workers.push(worker);
+  return worker;
 }
 
 // Initialize and process tasks
@@ -67,7 +61,8 @@ function initAndProcessTasks() {
         tasks.push(file);
     });
 
-    for (let i = 0; i < Math.min(numWorkers, tasks.length); i++) {
+    // Create initial workers up to maxWorkers or the number of tasks, whichever is smaller
+    while (tasks.length > 0 && workers.length < maxWorkers) {
         createWorker().postMessage(tasks.pop());
     }
 }
