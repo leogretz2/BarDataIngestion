@@ -11,13 +11,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@bundled-es-modules/pdfjs-dist": "^3.6.172-alpha.1",
     "@types/node": "^18.0.6",
     "fs-extra": "^11.2.0",
     "mammoth": "^1.7.2",
     "openai": "^4.42.0",
-    "pdf-parse": "^1.1.1",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse2": "^1.0.4",
     "pdfjs-dist": "^4.2.67",
+    "pdfjs-lib": "^0.0.149",
     "poolifier": "^4.0.2",
+    "shelljs": "^0.8.5",
     "tesseract.js": "^5.0.5"
   }
 }
