@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@bundled-es-modules/pdfjs-dist": "^3.6.172-alpha.1",
+    "@supabase/supabase-js": "^2.43.1",
     "@types/node": "^18.0.6",
     "fs-extra": "^11.2.0",
     "mammoth": "^1.7.2",
