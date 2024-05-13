@@ -32,14 +32,20 @@ if False:
   extracted_text = extracted_text_question + '\n\n' + extracted_text_answer
   title = 'Torts'
   txt_path = f'./txt_folder/{title}_folder.txt'
+# elif False:
 else:
   # one-off file
-  pdf_path = './working_folder/MBE_Strategies_and_Tactics_II_2C_Second_Edition_28Emanuel_Bar_Review_Ser.pdf'
+  pdf_path = './working_folder/300_MBE_QAs.pdf'
   print('about to extract')
   extracted_text = extract_text_from_pdf(pdf_path)
   print(extracted_text[:100], '\n', extracted_text[-100:])
 
-  txt_path = './txt_folder/MBE_Strategies_and_Tactics_II_2C_Second_Edition_28Emanuel_Bar_Review_Ser.txt'
+  txt_path = './txt_folder/300_MBE_QAs.txt'
+# else:
+#   # OCR
+#   pdf_path = './working_folder/Barbri_Released_Questions_MBE_2007.pdf'
+#   extracted_text = extract_text_from_pdf(pdf_path)
+#   txt_path = './txt_folder/Barbri_Released_Questions_MBE_2007.txt'
 
 with open(txt_path, 'w') as f:
   f.write(extracted_text)
