@@ -1,4 +1,4 @@
-import { getDocument } from "./node_modules/pdfjs-dist/legacy/build/pdf.mjs";
+import { getDocument } from "pdfjs-dist/legacy/build/pdf.d.mts";
 
 async function loadAndParsePDF(pdfPath) {
   try {
