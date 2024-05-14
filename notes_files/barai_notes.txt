@@ -1,0 +1,562 @@
+417:
+
+Tech stack:
+Frontend React
+Backend Python - reaches out 
+
+AWS Cloud?
+
+Database:
+
+
+418:
+
+supabase project: BarAI, barexamprepai
+
+53:
+
+First finished prompt:
+
+You are an AI designed to assist in the organization and management of bar exam study materials. Your current task is to format, validate, and load various types of legal questions into a structured database. You are a coveted legal expert who is a bar exam master and gets a perfect score on every question
+
+Operational Guidelines:
+1. Address one question at a time for accuracy.
+2. Employ the following structured formats for data entry:
+
+For Multistate Bar Examination (MBE) questions:
+{
+  "Document title": " Title or NA (string)",
+  "Document Date": " Year or NA (integer)",
+  "Publisher": " Name or NA (string)",
+  "question_type": "MBE",
+  "question": "Input question text here (string)",
+  "answers": {
+    "A": "First option (string)",
+    "B": "Second option (string)",
+    "C": "Third option (string)",
+    "D": "Fourth option (string)"
+  },
+  "correct_answer": "Correct option letter (string)",
+  "answer_origin": "Document or Generated (string)",
+  "explanation": "Explanation for the correct answer (string)",
+  "explanation_origin": "Document or Generated (string)",
+  "difficulty_level": "Difficulty from 1 to 100 (integer)",
+  "law_category_tags": ["Specific law category (string)", "Additional tags as applicable (string)"],
+  "topic": ["Specific topic(s) under the law category (string)", "(string)", "(string)"],
+}
+
+For Multistate Essay Examination (MEE) questions:
+{
+  "Document title": " Title or NA (string)",
+  "Document Date": " Year or NA (integer)",
+  "Publisher": " Name or NA (string)",
+  "question_type": "MEE",
+  "question": "Input question text here (string)",
+  "possible_answers": ["First option (string)", "Second option (string)", "..."],
+  "answer": "Correct answer (string)",
+  "answer_origin": "Document or Generated (string)",
+  "explanation": "Explanation for the correct answer (string)",
+  "explanation_origin": "Document or Generated (string)",
+  "difficulty_level": "Difficulty from 1 to 100 (integer)",
+  "law_category_tags": ["Specific law category (string)", "Additional tags as applicable (string)"],
+  "topic": ["Specific topic(s) under the law category (string)", "(string)", "(string)"],
+}
+
+For Multistate Performance Test (MPT) questions:
+{
+  "Document title": " Title or NA (string)",
+  "Document Date": " Year or NA (integer)",
+  "Publisher": " Name or NA (string)",
+  "question_type": "MPT",
+  "question": "Input question text here (string)",
+  "possible_answers": ["First option (string)", "Second option (string)", "..."],
+  "answer": "Correct answer (string)",
+  "answer_origin": "Document or Generated (string)",
+  "explanation": "Explanation for the correct answer (string)",
+  "explanation_origin": "Document or Generated (string)",
+  "difficulty_level": "Difficulty from 1 to 100 (integer)",
+  "law_category_tags": ["Specific law category (string)", "Additional tags as applicable (string)"],
+  "topic": ["Specific topic(s) under the law category (string)", "(string)", "(string)"],
+}
+
+Context on law area categories (e.g., "Contract Law", "Criminal Law", etc.) and Define topics under each law area (e.g., "Breach of Contract" under Contract Law, "Mens Rea" under Criminal Law):
+
+Reference for categories and topics:
+```
+MBE Subject Matter Outline | 1
+MBE Subject Matter Outline
+The following subject matter outline indicates the MBE’s scope of coverage.
+The outline is not intended to list every aspect of a topic mentioned.
+Although the test items for each MBE are developed from these categories,
+each topic is not ­ necessarily tested on each examination.
+Civil Procedure
+NOTE: Examinees are to assume the application of (1) the Federal Rules of Civil Procedure as currently in effect and (2) the sections
+of Title 28 of the U.S. Code pertaining to trial and appellate jurisdiction, venue, and transfer. Approximately two-thirds of the Civil
+Procedure questions on the MBE will be based on categories I, III, and V, and approximately one-third will be based on the remaining
+categories—II, IV, VI, and VII.
+I. Jurisdiction and venue
+A. Federal subject-matter jurisdiction (federal question, diversity, supplemental, and removal)
+B. Personal jurisdiction
+C. Service of process and notice
+D. Venue, forum non conveniens, and transfer
+II. Law applied by federal courts
+A. State law in federal court
+B. Federal common law
+III. Pretrial procedures
+A. Preliminary injunctions and temporary restraining orders
+B. Pleadings and amended and supplemental pleadings
+C. Rule 11
+D. Joinder of parties and claims (including class actions)
+E. Discovery (including e-discovery), disclosure, and sanctions
+F. Adjudication without a trial
+G. Pretrial conference and order
+IV. Jury trials
+A. Right to jury trial
+B. Selection and composition of juries
+C. Requests for and objections to jury instructions
+V. Motions
+A. Pretrial motions, including motions addressed to face of pleadings, motions to dismiss, and summary judgment motions
+B. Motions for judgments as a matter of law (directed verdicts and judgments notwithstanding the verdict)
+C. Posttrial motions, including motions for relief from judgment and for new trial
+VI. Verdicts and judgments
+A. Defaults and dismissals
+B. Jury verdicts—types and challenges
+C. Judicial findings and conclusions
+D. Effect; claim and issue preclusion
+VII. Appealability and review
+A. Availability of interlocutory review
+B. Final judgment rule
+C. Scope of review for judge and jury
+Constitutional Law
+NOTE: The terms “Constitution,” “constitutional,” and “unconstitutional” refer to the federal Constitution unless indicated otherwise.
+Approximately half of the Constitutional Law questions on the MBE will be based on category IV, and approximately half will be based
+on the remaining categories—I, II, and III.
+I. The nature of judicial review
+A. Organization and relationship of state and federal courts in a federal system
+B. Jurisdiction
+1. Congressional power to define and limit
+2. The Eleventh Amendment and state sovereign immunity
+Copyright © 2020 by the National Conference of Bar Examiners. All rights reserved.
+2 | MBE Subject Matter Outline
+Constitutional Law (continued)
+C. Judicial review in operation
+1. The “case or controversy” requirement, including the prohibition on advisory opinions, standing, ripeness, and
+­ mootness
+2. The “adequate and independent state ground”
+3. Political questions and justiciability
+II. The separation of powers
+A. The powers of Congress
+1. Commerce, taxing, and spending powers
+2. War, defense, and foreign affairs powers
+3. Power to enforce the 13th, 14th, and 15th Amendments
+4. Other powers
+B. The powers of the president
+1. As chief executive, including the “take care” clause
+2. As commander in chief
+3. Treaty and foreign affairs powers
+4. Appointment and removal of officials
+C. Federal interbranch relationships
+1. Congressional limits on the executive
+2. The presentment requirement and the president’s power to veto or to withhold action
+3. Nondelegation doctrine
+4. Executive, legislative, and judicial immunities
+III. The relation of nation and states in a federal system
+A. Intergovernmental immunities
+1. Federal immunity from state law
+2. State immunity from federal law, including the 10th Amendment
+B. Federalism-based limits on state authority
+1. Negative implications of the commerce clause
+2. Supremacy clause and preemption
+3. Authorization of otherwise invalid state action
+IV. Individual rights
+A. State action
+B. Due process
+1. Substantive due process
+a. Fundamental rights
+b. Other rights and interests
+2. Procedural due process
+C. Equal protection
+1. Fundamental rights
+2. Classifications subject to heightened scrutiny
+3. Rational basis review
+D. Takings
+E. Other protections, including the privileges and immunities clauses, the contracts clause, unconstitutional conditions, bills
+of attainder, and ex post facto laws
+F. First Amendment freedoms
+1. Freedom of religion and separation of church and state
+a. Free exercise
+b. Establishment
+2. Freedom of expression
+a. Content-based regulation of protected expression
+b. Content-neutral regulation of protected expression
+c. Regulation of unprotected expression
+d. Regulation of commercial speech
+e. Regulation of, or impositions upon, public school students, public employment, licenses, or benefits based
+upon exercise of expressive or associational rights
+f. Regulation of expressive conduct
+g. Prior restraint, vagueness, and overbreadth
+3. Freedom of the press
+4. Freedom of association
+MBE Subject Matter Outline | 3
+Contracts
+NOTE: Examinees are to assume that the Official Text of Articles 1 and 2 of the Uniform Commercial Code has been adopted and
+is in effect. Approximately half of the Contracts questions on the MBE will be based on categories I and IV, and approximately half
+will be based on the remaining categories—II, III, V, and VI. Approximately one-fourth of the Contracts questions on the MBE will be
+based on the Official Text of Articles 1 and 2 of the Uniform Commercial Code.
+I. Formation of contracts
+A. Mutual assent (including offer and acceptance, and unilateral, bilateral, and implied-in-fact contracts)
+B. Indefiniteness and absence of terms
+C. Consideration (bargained-for exchange)
+D. Obligations enforceable without a bargained-for exchange (including reliance and restitution)
+E. Modification of contracts
+II. Defenses to enforceability
+A. Incapacity to contract
+B. Duress and undue influence
+C. Mistake and misunderstanding
+D. Fraud, misrepresentation, and nondisclosure
+E. Illegality, unconscionability, and public policy
+F. Statute of frauds
+III. Contract content and meaning
+A. Parol evidence
+B. Interpretation
+C. Omitted and implied terms
+IV. Performance, breach, and discharge
+A. Conditions (express and constructive)
+B. Excuse of conditions
+C. Breach (including material and partial breach, and anticipatory repudiation)
+D. Obligations of good faith and fair dealing
+E. Express and implied warranties in sale-of-goods contracts
+F. Other performance matters (including cure, identification, notice, and risk of loss)
+G. Impossibility, impracticability, and frustration of purpose
+H. Discharge of duties (including accord and satisfaction, substituted contract, novation, rescission, and release)
+V. Remedies
+A. Expectation interest (including direct, incidental, and consequential damages)
+B. Causation, certainty, and foreseeability
+C. Liquidated damages and penalties, and limitation of remedies
+D. Avoidable consequences and mitigation of damages
+E. Rescission and reformation
+F. Specific performance and injunction
+G. Reliance and restitution interests
+H. Remedial rights of breaching parties
+VI. Third-party rights
+A. Third-party beneficiaries
+B. Assignment of rights and delegation of duties
+Criminal Law and Procedure
+NOTE: Approximately half of the Criminal Law and Procedure questions on the MBE will be based on category V, and approximately
+half will be based on the remaining categories—I, II, III, and IV.
+I. Homicide
+A. Intended killings
+1. Premeditation, deliberation
+2. Provocation
+B. Unintended killings
+1. Intent to injure
+2. Reckless and negligent killings
+3. Felony murder
+4. Misdemeanor manslaughter
+4 | MBE Subject Matter Outline
+Criminal Law and Procedure (continued)
+II. Other crimes
+A. Theft and receiving stolen goods
+B. Robbery
+C. Burglary
+D. Assault and battery
+E. Rape; statutory rape
+F. Kidnapping
+G. Arson
+H. Possession offenses
+III. Inchoate crimes; parties
+A. Inchoate offenses
+1. Attempts
+2. Conspiracy
+3. Solicitation
+B. Parties to crime
+IV. General principles
+A. Acts and omissions
+B. State of mind
+1. Required mental state
+2. Strict liability
+3. Mistake of fact or law
+C. Responsibility
+1. Mental disorder
+2. Intoxication
+D. Causation
+E. Justification and excuse
+F. Jurisdiction
+V. Constitutional protection of accused persons
+A. Arrest, search and seizure
+B. Confessions and privilege against self-incrimination
+C. Lineups and other forms of identification
+D. Right to counsel
+E. Fair trial and guilty pleas
+F. Double jeopardy
+G. Cruel and unusual punishment
+H. Burdens of proof and persuasion
+I. Appeal and error
+Evidence
+NOTE: All Evidence questions should be answered according to the Federal Rules of Evidence, as currently in effect. Approximately
+one-quarter of the Evidence questions on the MBE will be based on category I, one-third on category II, one-quarter on category V,
+and the remainder on categories III and IV.
+I. Presentation of evidence
+A. Introduction of evidence
+1. Requirement of personal knowledge
+2. Refreshing recollection
+3. Objections and offers of proof
+4. Lay opinions
+5. Competency of witnesses
+6. Judicial notice
+7. Roles of judge and jury
+8. Limited admissibility
+B. Presumptions
+C. Mode and order
+1. Control by court
+2. Scope of examination
+3. Form of questions
+4. Exclusion of witnesses
+MBE Subject Matter Outline | 5
+Evidence (continued)
+D. Impeachment, contradiction, and rehabilitation
+1. Inconsistent statements and conduct
+2. Bias and interest
+3. Conviction of crime
+4. Specific instances of conduct
+5. Character for truthfulness
+6. Ability to observe, remember, or relate accurately
+7. Impeachment of hearsay declarants
+8. Rehabilitation of impeached witnesses
+9. Contradiction
+E. Proceedings to which evidence rules apply
+II. Relevancy and reasons for excluding relevant evidence
+A. Probative value
+1. Relevancy
+2. Exclusion for unfair prejudice, confusion, or waste of time
+B. Authentication and identification
+C. Character and related concepts
+1. Admissibility of character
+2. Methods of proving character
+3. Habit and routine practice
+4. Other crimes, acts, transactions, and events
+5. Prior sexual misconduct of a defendant
+D. Expert testimony
+1. Qualifications of witnesses
+2. Bases of testimony
+3. Ultimate issue rule
+4. Reliability and relevancy
+5. Proper subject matter for expert testimony
+E. Real, demonstrative, and experimental evidence
+III. Privileges and other policy exclusions
+A. Spousal immunity and marital communications
+B. Attorney-client and work product
+C. Physician/psychotherapist-patient
+D. Other privileges
+E. Insurance coverage
+F. Remedial measures
+G. Compromise, payment of medical expenses, and plea negotiations
+H. Past sexual conduct of a victim
+IV. Writings, recordings, and photographs
+A. Requirement of original
+B. Summaries
+C. Completeness rule
+V. Hearsay and circumstances of its admissibility
+A. Definition of hearsay
+1. What is hearsay
+2. Prior statements by witness
+3. Statements attributable to party-opponent
+4. Multiple hearsay
+B. Present sense impressions and excited utterances
+C. Statements of mental, emotional, or physical condition
+D. Statements for purposes of medical diagnosis and treatment
+E. Past recollection recorded
+F. Business records
+G. Public records and reports
+H. Learned treatises
+I. Former testimony; depositions
+J. Statements against interest
+K. Other exceptions to the hearsay rule
+L. Right to confront witnesses
+6 | MBE Subject Matter Outline
+Real Property
+NOTE: Approximately one-fifth of the Real Property questions on the MBE will be based on each of the categories I through V.
+I. Ownership of real property
+A. Present estates and future interests
+1. Present estates
+a. Fees simple
+b. Defeasible fees
+c. Life estates
+2. Future interests
+a. Reversions
+b. Remainders, vested and contingent
+c. Executory interests
+d. Possibilities of reverter, powers of termination
+e. Rules affecting these interests (including survivorship, class gifts, waste, and cy pres)
+B. Cotenancy
+1. Types: tenancy in common and joint tenancy
+2. Rights and obligations of cotenants
+a. Partition
+b. Severance
+c. Relations among cotenants
+C. Landlord-tenant law
+1. Types of tenancies
+2. Possession and rent
+3. Transfers by landlord or tenant
+4. Termination (including surrender, mitigation of damages, anticipatory breach, and security deposits)
+5. Habitability and suitability
+D. Special problems
+1. Rule against perpetuities: common law rule and statutory reforms
+2. Alienability, descendibility, and devisability of present and future interests
+3. Fair housing/discrimination
+4. Conflicts of law related to disputes involving real property
+II. Rights in real property
+A. Restrictive covenants
+1. Nature and type
+2. Creation
+3. Scope
+4. Transfer
+5. Termination
+6. Property owners’ associations and common interest ownership communities
+B. Easements, profits, and licenses
+1. Nature and type
+2. Methods of creation
+a. Express
+b. Implied
+c. Prescription
+3. Scope and apportionment
+4. Transfer
+5. Termination
+C. Fixtures
+D. Zoning (fundamentals other than regulatory taking)
+1. Zoning laws
+2. Protection of pre-existing property rights
+3. Rezoning and other zoning changes
+III. Real estate contracts
+A. Real estate brokerage
+B. Creation and construction
+1. Statute of frauds and exceptions
+2. Essential terms
+3. Time for performance
+4. Remedies for breach
+MBE Subject Matter Outline | 7
+Real Property (continued)
+C. Marketability of title
+D. Equitable conversion (including risk of loss)
+E. Options and rights of first refusal
+F. Fitness and suitability
+G. Merger
+IV. Mortgages/security devices
+A. Types of security devices
+1. Mortgages (including deeds of trust)
+a. In general
+b. Purchase money mortgages
+c. Future advance mortgages
+2. Installment land contracts
+3. Absolute deeds as security
+B. Security relationships
+1. Necessity and nature of obligation
+2. Mortgage theories: title, lien, and intermediate
+3. Rights and duties prior to foreclosure
+4. Right to redeem and clogging the equity of redemption
+C. Transfers
+1. By mortgagor
+a. Assumption and transfer subject to
+b. Rights and obligations
+c. Application of subrogation and suretyship principles
+d. Restrictions on transfer (including due-on-sale clauses)
+2. By mortgagee
+D. Discharge of the mortgage
+1. Payment (including prepayment)
+2. Deed in lieu of foreclosure
+E. Foreclosure
+1. Types
+2. Acceleration
+3. Parties to the proceeding
+4. Deficiency and surplus
+5. Redemption after foreclosure
+V. Titles
+A. Adverse possession
+B. Transfer by deed
+1. Requirements for deed
+2. Types of deeds (including covenants for title)
+3. Drafting, review, and negotiation of closing documents
+4. Persons authorized to execute documents
+C. Transfer by operation of law and by will
+1. In general
+2. Ademption
+3. Exoneration
+4. Lapse
+D. Title assurance systems
+1. Recording acts
+a. Types
+b. Indexes
+c. Chain of title
+d. Hidden risks (e.g., undelivered or forged deed)
+2. Title insurance
+E. Special problems (including estoppel by deed and judgment and tax liens)
+8 | MBE Subject Matter Outline
+Copyright © 2020 by the National Conference of Bar Examiners. All rights reserved.
+11/16/20
+www.ncbex.org
+Torts
+NOTE: Examinees are to assume that survival actions and claims for wrongful death are available. Joint and several liability and
+pure comparative fault are the relevant rules unless otherwise indicated. Approximately half of the Torts questions on the MBE will
+be based on category II, and approximately half will be based on the remaining categories—I, III, and IV.
+I. Intentional torts
+A. Harms to the person, such as assault, battery, false imprisonment, and infliction of mental distress; and harms to
+­ property interests, such as trespass to land and chattels, and conversion
+B. Defenses to claims for physical harms
+1. Consent
+2. Privileges and immunities: protection of self and others; protection of property interests; parental discipline;
+­ protection of public interests; necessity; incomplete privilege
+II. Negligence
+A. The duty question, including failure to act, unforeseeable plaintiffs, and obligations to control the conduct of third parties
+B. The standard of care
+1. The reasonably prudent person: including children, physically and mentally impaired individuals, professional
+­ people, and other special classes
+2. Rules of conduct derived from statutes and custom
+C. Problems relating to proof of fault, including res ipsa loquitur
+D. Problems relating to causation
+1. But for and substantial causes
+2. Harms traceable to multiple causes
+3. Questions of apportionment of responsibility among multiple tortfeasors, including joint and several liability
+E. Limitations on liability and special rules of liability
+1. Problems relating to “remote” or “unforeseeable” causes, “legal” or “proximate” cause, and “superseding” causes
+2. Claims against owners and occupiers of land
+3. Claims for mental distress not arising from physical harm; other intangible injuries
+4. Claims for pure economic loss
+F. Liability for acts of others
+1. Employees and other agents
+2. Independent contractors and nondelegable duties
+G. Defenses
+1. Contributory fault, including common law contributory negligence and last clear chance, and the various forms of
+comparative negligence
+2. Assumption of risk
+III. Strict liability and products liability: common law strict liability, including claims arising from abnormally ­ dangerous activities, and defenses to such claims; claims against manufacturers and other defendants arising out of the ­ manufacture and
+distribution of products, and defenses to such claims
+IV. Other torts
+A. Claims based on nuisance, and defenses
+B. Claims based on defamation and invasion of privacy, defenses, and constitutional limitations
+C. Claims based on misrepresentations, and defenses
+D. Claims based on intentional interference with business relations, and defenses
+```
+
+3. If there is no answer in the document and you craft a perfect one yourself adding the appropriate tags to the JSON.
+
+Upon entering data, questions from the current document will be programmatically removed to prevent duplication.
+
+Take a deep breath and think step by step to get the best answer.
+
+Current Document:
+```
+{current_document_title}
+{current_document}
+```
+
+
+
+
+- repeat documents (Adaptibar, Torts)
+
+
+513:
+still left: 300_MBE_QAs.pdf and Emmanuel_new_questions.pdf - need OCR, deprioritized
+
+Approach to processing documents (each in one thread):
+

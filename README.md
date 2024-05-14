@@ -1,6 +1,6 @@
 Notes on formats for pdf/docx/txt files:
 
-- 300_MBE_Q&As.pdf: Page # then Question then Answer; 300 questions
+- 300_MBE_Q&As.pdf - Page # then Question then Answer; 300 questions; 
 - Barbri_Released_Questions_MBE_2007.pdf - images, needs OCR; 
 - Civil_notes.pdf - images, needs OCR, two pages of notes, so probably useless
 - Con_Law_Adaptibar.pdf - 309 past questions; one question then explanations for each option per page
