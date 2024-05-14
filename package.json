@@ -22,7 +22,9 @@
     "pdfjs-dist": "^4.2.67",
     "pdfjs-lib": "^0.0.149",
     "poolifier": "^4.0.2",
+    "progress": "^2.0.3",
     "shelljs": "^0.8.5",
-    "tesseract.js": "^5.0.5"
+    "tesseract.js": "^5.0.5",
+    "tokenizers": "^0.13.3"
   }
 }

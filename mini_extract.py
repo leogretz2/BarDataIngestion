@@ -4,10 +4,11 @@ import os
 from pdfminer.high_level import extract_text
 import docx
 
-
 def add_line_numbers(text):
     lines = text.split('\n')
-    numbered_lines = [(f"(Line_{index:04}): {line}" if line else line) for index, line in enumerate(lines, 1)]
+    max_line_number = len(lines)
+    padding = len(str(max_line_number))
+    numbered_lines = [(f"(Line_{str(index).zfill(padding)}): {line}" if line else line) for index, line in enumerate(lines, 1)]
     return "\n".join(numbered_lines)
 
 def extract_text_from_docx(file_path):
