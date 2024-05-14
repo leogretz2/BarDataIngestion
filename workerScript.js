@@ -3,6 +3,10 @@ import fs from "fs";
 import path from "path";
 import OpenAI from "openai";
 import { createClient } from '@supabase/supabase-js';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // const supabaseUrl = 'https://gpazmihhssffmeyfmsey.supabase.co';
 // const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdwYXptaWhoc3NmZm1leWZtc2V5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM1MDIzMjEsImV4cCI6MjAyOTA7ODMyMX0.a8nrDdTF5pVh_LKmSAZNCcq83CjIMIf7gO0dH1nMnj0';
@@ -494,26 +498,26 @@ async function handleResponse(tool_calls, filePath) {
 }
 
 async function end_document_processing({ end_document_processing }) {
-  try {
-    if (!end_document_processing) {
-      throw new Error("Invalid argument: end_document_processing must be true to signify the end of document processing.");
+    try {
+        if (!end_document_processing) {
+            throw new Error("Invalid argument: end_document_processing must be true to signify the end of document processing.");
+        }
+
+        // Log the completion
+        console.log("Document processing completed.");
+
+        // Perform any necessary cleanup
+        const logFilePath = path.resolve(__dirname, "processing_log.txt");
+        fs.appendFileSync(logFilePath, `Document processed at ${new Date().toISOString()}\n`);
+
+        // Optional: Notify any other systems or admins if necessary (e.g., send an email or webhook)
+
+        console.log('Document processing logged successfully');
+        return "Document processing logged successfully";
+    } catch (error) {
+        console.error("Error in end_document_processing:", error);
+        throw error;
     }
-
-    // Log the completion
-    console.log("Document processing completed.");
-
-    // Perform any necessary cleanup
-    const logFilePath = path.resolve(__dirname, "processing_log.txt");
-    fs.appendFileSync(logFilePath, `Document processed at ${new Date().toISOString()}\n`);
-
-    // Optional: Notify any other systems or admins if necessary (e.g., send an email or webhook)
-
-    console.log('Document processing logged successfully');
-    return "Document processing logged successfully";
-  } catch (error) {
-    console.error("Error in end_document_processing:", error);
-    throw error;
-  }
 }
 
 function cleanUpNewlines(args) {

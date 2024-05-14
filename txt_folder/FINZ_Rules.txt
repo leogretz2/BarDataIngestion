@@ -1,0 +1,1140 @@
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+
+Strategies & Tactics 
+for the 
+Finz Multistate Method
+Fourth Edition
+
+STEVEN R. FINZ
+
+This Edition Edited by
+Alex Ruskell, Esq.
+Director of Academic Success and Bar Preparation
+University of South Carolina School of Law
+
+2
+
+Copyright © 2016 CCH Incorporated. All Rights Reserved.
+
+Published by Wolters Kluwer in New York.
+
+Wolters Kluwer Legal & Regulatory US serves customers worldwide with CCH, Aspen
+Publishers, and Kluwer Law International products. (www.WKLegaledu.com)
+
+No  part  of  this  publication  may  be  reproduced  or  transmitted  in  any  form  or  by  any
+means,  electronic  or  mechanical,  including  photocopy,  recording,  or  utilized  by  any
+information storage or retrieval system, without written permission from the publisher.
+For  information  about  permissions  or  to  request  permissions  online,  visit  us  at
+www.WKLegaledu.com,  or  a  written  request  may  be  faxed  to  our  permissions
+department at 212-771-0803.
+
+To contact Customer Service, e-mail customer.service@wolterskluwer.com, call 1-800-
+234-1660, fax 1-800-901-9075, or mail correspondence to:
+
+Wolters Kluwer
+Attn: Order Department
+PO Box 990
+Frederick, MD 21705
+
+eISBN: 978-1-4548-7888-9
+
+3
+
+ 
+ 
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+
+About Wolters Kluwer Legal & Regulatory
+US
+
+Wolters  Kluwer  Legal  &  Regulatory  US  delivers  expert  content  and
+solutions  in  the  areas  of  law,  corporate  compliance,  health  compliance,
+reimbursement,  and  legal  education.  Its  practical  solutions  help  customers
+successfully navigate the demands of a changing environment to drive their
+daily activities, enhance decision quality and inspire confident outcomes.
+
+Serving  customers  worldwide,  its  legal  and  regulatory  portfolio  includes
+products  under  the  Aspen  Publishers,  CCH  Incorporated,  Kluwer  Law
+International,  ftwilliam.com  and  MediRegs  names.  They  are  regarded  as
+exceptional  and  trusted  resources  for  general  legal  and  practice-specific
+knowledge, compliance and risk management, dynamic workflow solutions,
+and expert commentary.
+
+4
+
+Dedication
+
+To Iris
+
+To Jimmy and Mary Frances
+
+5
+
+TABLE OF CONTENTS
+
+How to Use This Book
+Strategies & Tactics — Playing the MBE Game to Win
+
+Sections by Subject
+Civil Procedure
+Questions
+Answers
+
+Constitutional Law
+
+Questions
+Answers
+Contracts
+
+Questions
+Answers
+Criminal Law
+Questions
+Answers
+
+Evidence
+
+Questions
+Answers
+
+Property
+
+Questions
+Answers
+
+Torts
+
+Questions
+Answers
+
+Practice Multistate Bar Exam
+Questions — A.M. Exam
+Questions — P.M. Exam
+Answers — A.M. Exam
+Answers — P.M. Exam
+
+6
+
+ 
+ 
+ 
+How to Use This Book
+This  book  contains  a  collection  of  questions  (called  “items”)  in  the
+Multistate  Bar  Exam  format,  accompanied  by  answers  (called  “options”)
+and  explanations.  Each  of  the  explanations  is  intended  to  be  a  mini-
+dissertation on the topic involved.
+
+The chapter entitled Strategies & Tactics: Playing the MBE Game to
+Win (what we call the Multistate Method) sets forth a detailed method for
+approaching  and  dealing  with  items  in  this  format.  You  should  study  the
+chapter diligently before beginning to practice with the items that follow it.
+By the time you have worked your way through 50 or 60 items, you should
+have become so familiar with this Multistate Method that its use is second
+nature.
+
+The  questions  are  divided  into  the  seven  subject  areas  tested  on  the
+Multistate  Bar  Examination:  Civil  Procedure,  Constitutional  Law,
+Contracts, Criminal Law, Evidence, Real Property, and Torts. If you are still
+in law school, you can use the separate sections to review the material that
+you are studying in each of the subject areas. Each section is accompanied
+by a subject matter outline and a question index. Using the question index,
+you can look for questions dealing with the particular topics and subtopics
+that you wish to review.
+
+The items that appear in this book are similar in content and form to the
+questions  that  appear  on  the  Multistate  Bar  Examination  (MBE).  On  the
+MBE,  each  item  tests  only  one  general  subject  area  but  is  likely  to  cover
+several topics and subtopics within that area. A Torts question, for example,
+may test knowledge of intentional torts, negligence, nuisance, and proximate
+cause, all in the same set of answers (options).
+
+For  this  reason,  most  questions  (items)  in  this  book  may  be  listed  in
+several  different  places  in  the  question  index.  If  you  have  just  completed
+your  study  of  intentional  torts  and  wish  to  field  questions  that  test  your
+newly acquired knowledge, you can find them by looking at the appropriate
+place in the Torts question index. You may discover, however, that the same
+questions also test knowledge of topics that you have not yet studied. This
+need not prevent the questions from being useful to you.
+
+The Multistate Method game plan suggests that, in answering Multistate
+items, you treat each option (i.e., proposed answer) as a separate true-false
+question. Using this approach, you can choose to deal only with the options
+
+7
+
+for  which  your  studies  have  prepared  you.  The  explanation  accompanying
+each item analyzes why the answer we pick is correct and why each of the
+incorrect  options  is  incorrect.  You  can  use  these  analyses  to  check  your
+responses to the options.
+
+If you are preparing for the MBE, you should work on the items in each
+of  the  subject  areas  after  completing  your  review  of  those  areas.  If  your
+review has not prepared you for all the options, you will know what areas
+need further review. The explanations can help you complete your study.
+
+In  addition,  this  book  contains  a  200-question  practice  exam  in  which
+the items are shuffled, as they are on the MBE, so that the seven subjects are
+tested in random order. If you need additional questions to review, or want
+Strategies & Tactics on each MBE subject, you should purchase a copy of
+Strategies & Tactics for the MBE, also published by Aspen and available
+at your local bookstore. For each MBE subject, Strategies & Tactics for the
+MBE delivers detailed advice on what to study and what traps to watch for,
+as well as actual released MBE questions with detailed answers.
+
+For substantive MBE review, you should check out the Law in a Flash
+MBE Set, which contains flash cards on all MBE subjects (Civil Procedure,
+Constitutional Law, Contracts, Criminal Law, Criminal Procedure [tested on
+the MBE as part of Criminal Law], Evidence, Future Interests [tested as part
+of Property], Real Property, Sales [tested as part of Contracts], and Torts)
+as  well  as  a  copy  of  Strategies  &  Tactics  for  the  MBE.  The  MBE  Set  is
+available at your local bookstore.
+
+If  you  are  preparing  for  the  bar  exam,  you  should  wait  until  you  have
+completed  your  review  of  all  seven  Multistate  subjects  before  taking  the
+practice  exam  contained  in  this  book.  It  may  be  a  good  idea  to  simulate
+examination conditions when taking it. Turn off your phone, lock your door,
+tell the rest of the world to go away, and give yourself three uninterrupted
+hours for each half of the exam.
+
+GOOD LUCK!
+
+8
+
+Strategies 
+
+& Tactics®—Playing the MBE Game
+to Win
+
+TERROR AND THE MBE
+
+It's given on the last Wednesday of February and July in almost every
+
+one of the 50 states, and it has become a significant factor in the bar
+admitting standards of most states. It evokes loathing and paranoia from the
+souls of embryonic attorneys across the land. It's the Multistate Bar
+Examination (the MBE), an all-day challenge consisting of 200 questions on
+seven important subjects. It scares the devil out of most of us.
+
+The reason it's so frightening to us is that our profession attracts people
+who learned as they were growing up that they could talk their way into and
+argue their way out of most situations. I'm one of these people. You
+probably are, too. Much of the time, people like us treat life as a game. The
+trouble with the MBE is that it doesn't give us a chance to talk or argue,
+which is what we believe we do best. We find it too structured, too
+restrictive. There's not enough game in it. It cramps our style.
+
+When we think that, though, we're forgetting that the people who create
+
+the MBE are cut from the same cloth as we are. They are law professors
+and practitioners who have argued their way into and out of trouble all their
+lives. They've been playing the same game with their lives that we've been
+playing with ours. The ideas that appeal to them also appeal to us. The only
+difference is that they specialize in testing and finding out what other
+lawyers are made of. Their exam does a pretty good job of it, but we have
+to approach it the way we approach other problems in our lives—as a game
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+that must be played from a position of strength.
+
+It helps to realize that, by its very nature, the MBE has certain aspects
+that work in our favor. First, because it is given in most of the states, it can
+test only general principles of law—no petty details. Second, because its
+multiple choice format eliminates the options of argument or explanation,
+each issue must be so precisely drawn that only one of the four possible
+answers satisfies the requirements of the question. Most important, because
+it is given to budding lawyers, the most argumentative and litigious people
+
+9
+
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+
+in the world, it must be scrupulously fair and unassailable.
+
+To assure that the exam will be just and to protect it against attack, the
+creators of the MBE have developed a method for constructing questions.
+They stick to a policy that requires that there be no trick questions and no
+trick answers. No problem will be solved on the basis of a subtle turn of
+word or phrase. They even have rules to assure the effective use of
+apostrophes and to eliminate the confusing misuse of pronouns. Questions
+are screened repeatedly before they are used, and then screened again.
+
+After the exam has been given, the answers are analyzed. Questions that
+
+proved too tricky to be fair are invalidated and eliminated from further
+consideration. Questions that show themselves to have no correct answer or
+more than one correct answer are also invalidated. Applicants are not
+supposed to be asked to select the best of four bad answers or four good
+answers. There is only one demonstrably correct answer to each question.
+The others are clearly incorrect. That is, it's clear if we follow the right
+analytical steps.
+
+Since they have a method for creating the exam, we need a method for
+taking it. This chapter provides a unique Multistate Method. To develop our
+method, we must begin by understanding theirs.
+
+STRUCTURE OF QUESTIONS
+
+Questions, or “items,” as the examiners call them, can be broken into
+
+three distinct parts: the root, the stem, and the options.
+
+The root is the part of the item containing the underlying facts.
+
+The stem is the part of the item containing the call of the options or
+assigning a task. Sometimes it is in the form of a question; sometimes it calls
+for the completion of a sentence.
+
+The options are the answer choices. Sometimes they state conclusions
+and nothing more; sometimes they link a conclusion with a reason to support
+it. Sometimes two or more of the options seem to be related to each other;
+sometimes each of the four is independent of the other three. One of them is
+always the correct option; three of them are always incorrect.
+
+Exhibit A shows a typical item.
+
+DISTRACTORS AND FOILS
+
+The examiners spend a lot of time and energy creating three wrong
+
+10
+
+options for each item. They call the incorrect options “distractors” or
+“foils.” In using those names, they have unwittingly tipped their hand.
+According to Webster, a “distractor” is something that compellingly and
+confusingly attracts in the wrong direction. A “foil” is something that serves
+to set off another thing to advantage or disadvantage by contrasting with it.
+By definition, some of the incorrect options are there to make the others
+look good, and some of them are there to make the correct option seem bad.
+
+Here, again, the nature of the exam works in our favor. The examination
+
+is supposed to be a test of knowledge. The correct choice must be
+somewhere among the four options, but it can't be left exposed for everyone
+to see; it has to be hidden. According to their own rules, the examiners can't
+use tricky devices or puzzling language, so they have to hide it behind a
+screen of distractors and foils. Like a magician's banter, these are designed
+to make us look away from the real action. That's how the game is played.
+
+Many of the people who create the MBE are law professors or former
+law professors. In creating distractors and foils, they use insight that comes
+from their experience with law students. After all, the main purpose of the
+exam is to find out whether we are finished studying the law and ready to
+start practicing it. Their foils and distractors are usually based on
+anticipating the errors that law students are likely to make.
+
+11
+
+Their method gives all the options a look of superficial plausibility. At
+first glance, every option appears to be correct. Our response to their bag of
+tricks must therefore include a careful reading of the language that they use.
+
+Incomplete definitions and arguments
+
+No one needs to be more precise in the use of language than a lawyer.
+
+Learning to communicate precisely is one of the goals of a law school
+education. A first-semester law student may define “murder” as the
+unjustified killing of a human being, but a lawyer knows that an
+unjustified killing isn't murder unless it's an unjustified killing of another
+human being with malice aforethought.
+
+Some of the foils and distractors that appear on the MBE consist of
+incomplete or imprecise statements, like those made by beginners in the
+classroom. An option that says, “John is guilty of murder because he
+committed the unjustified killing of a human being,” is wrong because it
+is based on an incomplete definition. Don't assume that the examiners left
+out the rest of the definition by mistake, or that they expect you to know
+what they really mean. Don't allow yourself to complete the argument or
+definition in your mind and conclude that it is correct.
+
+Dealing with the facts
+
+Lawyers must be very careful with facts. They must assume nothing in
+
+addition to what has been established or given. In summing up to a jury,
+for example, trial counsel may not refer to any facts that have not been
+proven. Frequently, distractors and foils are designed to find out whether
+we have the ability to play the game the way a lawyer plays it. If a
+prosecutor proved only that the defendant shot the victim and that the
+victim died an hour later, the defendant's prosecution for murder would
+have to be dismissed unless the prosecutor had also proven that the
+defendant's bullet caused the victim's death. If the facts in the root of the
+item do not say that the victim died as a result of the defendant's bullet,
+don't assume or infer that she did. Only a medical expert is competent to
+draw such a conclusion, and you are probably not a doctor. Without such
+proof, we must conclude that the defendant's guilt has not been
+established.
+
+On the other hand, lawyers can't get away with ignoring facts that
+have been established. In arguing appeals, for example, lawyers may not
+claim that the facts proven at the trial should be ignored. They are
+restricted to making arguments about the legal effects of the proven facts.
+
+12
+
+Since examiners are out to determine whether we can do a lawyer's job,
+they are likely to fill the root with implausible facts in an effort to trick us
+into rejecting or disbelieving them. Falling for their ploy can be
+disastrous. In taking the MBE, we must accept the facts that are given to
+us, no matter how unlikely or implausible they may seem.
+
+We may have been taught, for example, that an intoxicated person is
+
+not capable of driving her car in a reasonable manner. If, however, an
+item's root tells us that after the defendant drank two quarts of whiskey,
+she was driving her car in a reasonable manner when she collided with
+the plaintiff, we must accept this as true. Since negligence is
+unreasonable conduct, and since we are told that the defendant was
+driving her car in a reasonable manner, we must conclude that she was
+not negligent.
+
+Common errors
+
+Some areas of the law are so confusing to law students that they
+furnish the examiners with a fertile field in which to cultivate foils and
+distractors. The literature distributed by the examiners indicates that
+incorrect options contained in MBE items are frequently based on
+common errors made by law students. Often, these common errors result
+from misunderstandings about the significance of legal expressions that
+have different meanings for lawyers than for laypersons.
+
+The doctrine of “last clear chance” is an example of how this
+common confusion can be used to create an effective foil or distractor.
+“Last clear chance” is a doctrine that can be raised only by a plaintiff; its
+only effect is to eliminate the consequence of the plaintiff's contributory
+negligence. Thus, even in a jurisdiction that applies the “all-or-nothing”
+rule of contributory negligence, a plaintiff who goes to sleep in the
+middle of the road and is struck by a defendant who sees her in time but
+fails to take reasonable steps to avoid striking her may still win her case.
+In finding for the plaintiff, the court is likely to say that the plaintiff's
+negligence does not bar her recovery because the defendant had the “last
+clear chance” to avoid the accident.
+
+Knowing that many students are confused about this doctrine, the
+examiners may create a distractor that says, “The defendant wins because
+the plaintiff had the last clear chance to avoid the accident.” It sounds
+logical, but not to someone who understands that “last clear chance” is a
+doctrine available only to plaintiffs.
+
+13
+
+Similarly, a foil or distractor may be based on the “dead man's rule,”
+
+which excludes evidence of certain conversations with a person now
+deceased. Although the “dead man's rule” sometimes keeps evidence out,
+it never justifies the admission of evidence. Thus, an option that says,
+“The evidence is admissible under the dead man's rule” has to be
+incorrect, even though at first glance it sounds logical.
+
+Overlooking the obvious
+
+Some lawyers lose cases because they overlook the obvious. Perhaps
+
+that's why the examiners occasionally create an option that is so
+obviously correct that there is no rational excuse for missing it. It's
+amazing how many applicants reject such an option in the belief that
+nothing so important could possibly be so easy.
+
+Items regarding the sufficiency of a deed description are good
+examples of this technique. The general rule is that a description in a
+deed is sufficient if it adequately identifies the realty conveyed. Usually,
+it is impossible to decide whether a description satisfies this requirement
+without knowing something about surveying in general and the
+geographical area involved in particular. Since the MBE is not a test of
+surveying or geographical knowledge, however, its creators cannot
+expect us to determine the validity of a particular description. Instead,
+they are likely to give the language of a deed description, tell you that it
+adequately identifies the realty conveyed, ask whether it is valid, and then
+create an option that says, “The description is valid because it adequately
+identifies the realty conveyed.” Can anything be more obviously correct?
+Don't miss a gift like that one.
+
+Plausible creations
+
+Some applicants are so intimidated by the examination process that
+they are sure the correct options will involve concepts they never heard
+of before. This not only leads them to reject options that are obviously
+correct, it causes them to select options that consist of meaningless
+garbage. Knowing this, the examiners occasionally indulge their sense of
+whimsy by building foils and distractors around Latin words or phrases
+that sound momentous but are used in a context that makes them
+meaningless.
+
+Post hoc ergo propter hoc is an example of a Latin phrase that may
+
+be at the core of one of these seemingly plausible creations. The
+expression translates as “after which, therefore because of which,” and is
+
+14
+
+a name given to the error in reasoning that leads people to offer such
+arguments as “It always rains after I wash my car, so washing my car
+makes it rain” (i.e., it rains after (and, therefore, because) I wash my car).
+This is likely to show up as a foil or distractor in an option that says
+something like, “John will win under the doctrine of post hoc ergo
+propter hoc.”
+
+If that kind of bluff fools us, we will end up at the examiners' mercy.
+In a question that actually appeared on a past MBE, many applicants were
+taken in by a double-talk option that stated that a plaintiff could not be the
+holder of a certain easement because “an incorporeal hereditament lies
+only in grant.” One way to avoid falling for such seemingly plausible
+creations is to remember that after passing all your law school finals,
+taking a bar review course, and cramming for the exam, you probably are
+familiar with any rule of law that will matter to the examiners. If an
+option cites a doctrine or rule that you never heard of, it's probably
+incorrect.
+
+Unfamiliar phrases
+
+This doesn't mean that all the correct options will use familiar
+
+language. One of the goals of the exam is to determine whether we really
+understand the law that we've learned or whether we've just been trained
+like parrots to spout phrases. To accomplish this goal, the examiners may
+describe familiar concepts in nontraditional words. Instead of saying, for
+example, that the defendant owed the plaintiff a duty of reasonable care
+because he created a foreseeable risk to her, they may say, “The
+defendant owed an obligation to the plaintiff because it appeared that the
+defendant's conduct would injure her.” Instead of saying that strict
+liability is imposed on one who engages in an ultra-hazardous activity,
+they may say that “a defendant is liable without regard to fault because
+his or her occupation is extremely dangerous.” Remember that there are
+many ways of saying anything, and that substance is far more important
+than form.
+
+PLAYING THE RIGHT ROLE
+
+In the real world, lawyers play various roles. Sometimes they are
+judges, deciding the outcome of an issue or selecting the winner of a case.
+Sometimes they are advocates, making the best argument possible for one of
+the parties, even though there's no telling whether that party is going to win.
+Sometimes they are scholars, unconcerned about who wins or loses,
+
+15
+
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+
+interested only in seeing the legal significance of a fact or in selecting the
+most applicable rule of law, without caring whose interest will be served. It
+is natural that the items appearing in the MBE game should cast us in each of
+these three roles. This makes knowing how to act in each of the roles an
+important part of our Multistate Method.
+
+Acting as the judge
+
+[Typical stem: If the plaintiff sues the defendant for battery, the court
+
+should find in favor of . . . ]
+
+In the real world, the judge starts out with no particular result or
+conclusion in mind. He or she does not decide questions of fact but is
+always alert for misstatements about the facts in lawyers' arguments. If an
+argument does not accurately characterize the facts, is based on an
+inference not justified by the facts, or is based on a rule of law that is not
+correctly stated, the judge rejects it. He or she rules in favor of the
+argument in which accurate statements about the facts and law are
+consistent with the conclusion with which they are coupled.
+
+When you are asked to act as judge, do not decide questions of fact.
+
+Do not try to determine who should win or how the issue should be
+resolved until you have considered all the arguments presented in the
+options. Examine each option in turn. First, see whether the facts and law
+are accurately stated. If not, reject the option. See whether the conclusion
+offered is consistent with the argument advanced. If not, reject the option.
+There will be only one option in which the argument advanced is based
+on accurate statements of fact and law and is consistent with the
+conclusion offered. This is the correct choice. Select it, even though you
+may not like the result. After all, you're a judge.
+
+Acting as the advocate
+
+[Typical stem: Which of the following is the most effective argument
+
+in favor of the defendant's position?]
+
+Unlike the judge, the advocate works toward a particular result—the
+
+one he or she's been paid or assigned to accomplish. It doesn't matter
+whether he or she believes that the client will win. So long as there is any
+question at all for either the judge or jury, he or she understands that a
+client is entitled to representation. The advocate assumes that the client
+can win and then makes the argument that is most likely to bring about the
+victory. He or she doesn't invent facts but presents and interprets in the
+light most favorable to the client those facts that have been established.
+
+16
+
+When an item asks you to be an advocate, examine each of the options
+
+in turn to see whether the law is accurately stated and whether the
+inferences on which the option is based are justified by the facts that are
+given. If not, reject it. See whether the option presented could possibly
+result in victory for the client the stem has assigned you to represent. If
+not, reject it. There will be only one option in which the argument
+advanced is based on accurate statements of law and fact and which
+supports your client's position. Choose it, even if you don't really believe
+that your client can win. After all, you're an advocate.
+
+Acting as the scholar
+
+[Typical stem: The interest in the land that the son had on the day after
+
+the landowner's death is best described as a . . . ]
+
+The scholar doesn't try to decide or influence the outcome of a case.
+The scholar uses his or her knowledge of the law to recognize the legal
+significance of a particular fact or to select the most applicable rule. He
+or she sees an intellectual challenge and nothing more. Like a professor
+asking a question in the classroom, he or she doesn't care who wins or
+loses. He or she focuses on a specific and limited issue, listens to each of
+the options chosen by the students, and then smiles at the student whose
+choice comes closest to the one he or she had in mind when he or she
+asked the question.
+
+Do the same with an item that casts you in the role of a scholar. Forget
+
+about who will win or lose. Don't worry whether the option you select
+will result in justice. Just focus on the specific issues involved and try to
+resolve them in your mind. Then examine each of the options carefully
+and select the one that comes closest to the selection you have already
+formulated.
+
+TIMING
+
+Our Multistate Method must teach the most efficient possible use of
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+time. Most people barely manage to answer all the items in the allotted time.
+You probably will not have an opportunity to go back and check your
+choices. It's wise to get them right on the first pass because that's probably
+the only chance you will get.
+
+According to the Examiners, seven subjects are tested. The test presents
+
+200 questions total—28 questions in Contracts, and 27 questions each in
+Constitutional Law, Criminal Law, Evidence, Real Property, Torts, and
+
+17
+
+Civil Procedure (10 questions are being “tested” by the Examiners that do
+not form part of your score, but you won't be able to distinguish these
+questions). You should recognize, however, that in reality, 10 law school
+subjects are tested—the section on Contracts includes questions on Sales,
+the section on Property includes questions on Future Interests, and the
+section on Criminal Law includes questions on Criminal Procedure.
+
+There are usually two or more versions of each exam so that, although
+everyone gets the same questions, the questions are not in the same order.
+They are randomly shuffled in each version. Therefore, you may see two
+real property items in a row and then not see another until 10 or 20 items
+later.
+
+Everyone feels stronger in some of the subjects than in others, and there
+
+will be a powerful temptation to go looking for those questions that deal
+with your best subjects. Resist that temptation. Answer the questions in the
+order in which they appear.
+
+There are three good reasons why you should take this advice. First, the
+
+tough ones aren't going to get any easier with the passage of time. If
+anything, fatigue will make them seem even tougher, so there's no point in
+putting them off. Second, if you read item #3, for example, and decide not to
+answer it until later, part of your mind will still be working on it when you
+try to answer subsequent items. This will keep you from devoting all your
+energy to the item before you and may even cause you to base a choice in
+one question on facts that you still remember from item #3. Third and most
+important, if you skip item #3, there will be a blank space on your answer
+sheet, and you may become confused into putting the answer to item #4 in
+the space for item #3. Once you do that, every choice that follows will be
+written in the wrong space.
+
+This potential pitfall alone makes it better to guess than to leave a blank
+space. But there's more. The examiners give you one point for every correct
+choice and don't subtract any points for a wrong choice. This means that a
+wrong choice is certainly no worse than a blank space. In most states, you
+can get 60 or more wrong and still pass the exam. If you can't come up with
+the correct option, guess and move ahead. You have at least a 25 percent
+chance of guessing correctly.
+
+After the exam is over, the examiners usually determine that some of the
+
+items—sometimes as many as 10—were invalid. When this happens, they
+often give credit for any option chosen. This means that you may receive a
+point even if you guessed wrong. If you left it blank, though, you'll get
+
+18
+
+nothing.
+
+You won't really be guessing anyway, because a “guess” is a choice that
+
+is based on no real knowledge. By the time you get to the bar exam, your
+head will be so filled with information that there won't be any item that you
+don't know at least something about. Even if it's buried deep in the
+unconscious recesses of your mind, this knowledge will increase the
+probability that the option you choose is correct.
+
+Time is not on your side. You'll have two three-hour sessions with 100
+items in each. That breaks down to 33.3 items per hour, about 17 items per
+half hour, or 1.8 minutes per item. It is important to stay on schedule. Each
+item is worth one point. You don't get anything extra for the ones you spend
+extra time on. Every extra second you spend on one item is a second less
+that you'll have to spend on the next.
+
+THE TEST BECOMES A GAME
+
+After observing a courtroom proceeding for the first time, the layperson
+
+typically scratches his or her temple and says, “It's a game. Nothing but a
+game.” We, on the other hand, say it's serious business. But when we reflect
+on the origins of the adversary system, we see knights in armor jousting on a
+field of battle in the belief that the righteous was assured of winning the
+contest.
+
+It started out as a game, and we're kidding ourselves if we try to believe
+that there isn't any game left in it. In a way, the phrase “adversary system” is
+a euphemism for a complex and exciting game that society plays, with
+lawyers as its game pieces. It is fitting, therefore, that the bar examination,
+which tests competency to practice law, is, itself, a kind of game, testing,
+among other things, the applicant's ability to play.
+
+All games involve a combination of knowledge and strategy. A craps
+shooter has no control over the numbers that come up on the dice; he or she
+wins or loses by making bets based on his or her knowledge of the odds. A
+card player decides “when to hold 'em and when to fold 'em” by knowing
+what cards are in the deck and remembering which ones have already been
+dealt. Trivial Pursuit champions win by moving their game pieces in the
+most advantageous way, but they don't get to move them at all unless they
+know the answers to the questions that appear on the game cards.
+
+The MBE is a game that can't be won without knowledge but knowledge
+isn't everything. Given enough time, any decent lawyer who approaches the
+MBE seriously enough to prepare for it adequately can get a passing score.
+
+19
+
+But the exam is long and the hours are short. Without an effective strategy,
+an applicant is likely to be cut down by the clock. Ding dong. Game over.
+
+To avoid running out of time, move through every item as swiftly as
+
+possible. To avoid being foiled and distracted, however, read every
+relevant word patiently and carefully. At first, these goals seem to be
+inconsistent with each other. By beginning with an orientation, our
+Multistate Method provides us with a strategy for accomplishing both of
+them.
+
+ORIENTATION
+
+The fact pattern in an item's root may raise dozens of issues, some of
+which can be resolved and some of which won't ever be resolved. Usually,
+however, the stem is more narrowly drawn to eliminate all but one or two of
+the possible issues. If we waste time answering questions that weren't
+asked, we won't have a chance of answering the ones that were.
+
+To avoid being drawn in to a series of false directions, always begin
+
+with a quick reading of the stem to determine the call of the question.
+Look for the role that each stem assigns and the task that it sets before you. It
+may specify a particular cause of action, it may name a crime, it may point
+to a clause of the United States Constitution, or it may designate the parties,
+plaintiff, and defendant.
+
+After the stem, quickly read the root. We're still not ready to begin
+choosing among the options, so we aren't sure what we're looking for, even
+though the stem gave us a pretty good idea. This first reading of the root is
+part of our orientation.
+
+Don't struggle too hard at this point to understand all the facts. Don't
+worry about keeping the chronology straight. Don't begin drawing those
+little diagrams you learned about in law school or bar review. Some facts in
+the root may not even be relevant to the options, and attempting to deal with
+them at this point may turn out to be a waste of time. If necessary, you can
+always return to the root to check the facts again.
+
+MAKING THE PLAY
+
+Our first reading of the stem and root was an orientation, designed to
+find out what role we've been assigned to play and what task we've been
+asked to accomplish. Now it's time to accomplish it. Read the stem again,
+more carefully this time.
+
+20
+
+Basic game plan
+
+Because the examiners' game plan includes options that make us look
+in the wrong direction, our Multistate Method must adopt a game plan that
+will keep us from being foiled and distracted. Since the wrong options
+are supposed to make the other options look either good or bad by
+comparison, don't compare one option to the others. Treat each as a
+separate option and as if it were the only one before you. Recall that,
+according to the examiners' policy, only one can be correct. To play it
+safe, even if you have found one that you think is true, don't stop until you
+have checked all four options.
+
+With pencil in hand, examine each option carefully, returning to the
+root to confirm facts if necessary. Mark the option with a “T” if it is true,
+with an “F” if it is false, and with a “?” if you can't make up your mind.
+When you're done, you should have three “F”s and one “T.” So long as
+you have a good clear “T,” count “?”s as “F”s. If you have no “T”s at all,
+treat a “?” as a “T.” The option with the “T” next to it is the correct
+answer.
+
+Although this basic game plan works for all MBE item types, there
+are a few variations that may help us deal more efficiently with particular
+kinds of items.
+
+Negative response
+
+Occasionally a stem asks for a “reverse” response, such as “Which of
+
+the following is LEAST likely to violate the Fourteenth Amendment?”
+When that happens, restate the stem in the reverse: “Would the following
+violate the Fourteenth Amendment?” You should end up with three “T”s
+(yes) and one “F” (no). Choose the one that got the “F.”
+
+Overlapping options
+
+Sometimes some of the options contain parts of others. Typical
+
+options:
+
+The defendant is guilty of
+(A) Burglary only.
+(B) Robbery only.
+(C) Burglary and Robbery.
+(D) Neither Burglary nor Robbery.
+
+Instead of trying to deal with these overlapping options in
+combination, break them down into the individual components (e.g.,
+
+21
+
+Burglary and Robbery). Give each of the individual choices a “T” or “F,”
+and then find the option that contains the correct combination of choices.
+
+Three-to-one options
+
+In some items, three of the options offer one conclusion coupled with
+
+different reasons for it, while the fourth offers the opposite conclusion
+with no reason at all. A typical question:
+
+The defendant will
+(A) lose.
+(B) win, because . . . .
+(C) win, because . . . .
+(D) win, because . . . .
+
+Since the odd option is unaccompanied by a reason, it is impossible
+to select it without eliminating the other three first. For this reason, when
+confronted by a three-to-one options item, always consider the odd option
+last. Then choose it only if all of the others have received “F”s.
+
+What-if options
+
+Sometimes the options offer additional facts and the stem calls for
+selection of the fact pattern that would be most likely to bring about a
+particular result. This kind of item is like the classroom game in which
+the professor changes the facts in a case under discussion by saying,
+“Now, what if . . . ?”
+
+[Typical stem: Which of the following additional facts or inferences,
+
+if it was the only one true, would be most likely to result in a judgment
+for the plaintiff?]
+
+It is important to remember that this kind of item does not require you
+to decide whether the additional fact or inference in the “what if” option
+is true; it directs you to assume that it is. If you encounter one of these,
+combine the stem with each “what-if” option in turn, accepting as true the
+facts that it contains. In assigning a “T” or “F,” don't ask whether the facts
+are true or the inference is justified; assume that they are. Then decide
+whether the existence of these additional facts or inferences would be
+likely to bring about the particular result (e.g., in the previous item, ask,
+“If this fact were true or this inference were justified, would it result in a
+judgment for the plaintiff?”).
+
+SELECTING THE CORRECT OPTION
+
+22
+
+Selecting the correct option is easy once you've placed three “F”s and
+one “T” next to the given options. The hard part is deciding whether to give
+an option a “T” or “F.” This becomes easier if an appropriate strategy is
+applied. Although the MBE will present you with 800 options (i.e., four for
+each question), all options fall into only two categories. Our Multistate
+Method provides a strategy to use for each of the categories.
+
+Simple options
+
+Some options only state possible conclusions. These are called
+
+“simple options.” Here's a typical simple-option item:
+
+A man took a diamond ring to a pawnshop and borrowed $20 on it. It
+was agreed that the loan was to be repaid within 60 days, and if it was
+not, the pawnshop owner, the defendant, could sell the ring. A week
+before the expiration of the 60 days, the defendant had an opportunity to
+sell the ring to a customer for $125. He did so, thinking it was unlikely
+that the man would repay the loan and that if he did, the defendant would
+be able to handle him somehow, even by paying for the ring if necessary.
+Two days later, the man came in with the money to reclaim his ring. The
+defendant told him that it had been stolen when his shop was burglarized
+one night and that therefore he was not responsible for its loss. 
+Larceny, embezzlement, and false pretenses are separate crimes in the
+jurisdiction.
+
+Which of the following crimes has the defendant most likely committed?
+
+(A) Larceny.
+(B) Embezzlement.
+(C) Larceny by trick.
+(D) Obtaining by false pretenses.
+
+These options are “simple” rather than “complex,” but not “simple”
+
+rather than “difficult.” Since nothing is given but a bare conclusion,
+simple options usually require the most work. In dealing with each simple
+option, it is necessary to remember the essential elements of whatever
+rule of law is applicable and to check the root to see whether every one
+of those elements is satisfied by the facts given.
+
+In the previous example, to decide whether to mark option (A) with a
+
+“T” or “F,” it is first necessary to remember that larceny is the
+trespassory taking and carrying off of personal property known to be
+another's with the intent to permanently deprive. Then it is necessary to
+return to the root to see whether the defendant trespassorily took the ring,
+whether he carried it off, whether he knew that the ring belonged to
+another, and whether he had the intent to permanently deprive. The option
+
+23
+
+can receive a “T” only if all the elements of the crime are satisfied by the
+facts.
+
+In the real world, it is likely that some of these elements will raise
+
+questions of fact for a jury to determine or questions of law that
+ultimately will be decided by an appellate court. Different juries may
+come up with different answers to the questions of fact, and different
+appellate courts may come up with different answers to the questions of
+law. An MBE item must have three options that are clearly incorrect,
+however, and one that is clearly correct. This means that the facts must be
+structured so as to make it clear that at least one of the elements of the
+rule applicable in each option is unsatisfied.
+
+In the previous example, the defendant's act cannot be larceny (option
+
+A) because there was clearly no trespassory taking. A defendant
+trespassorily takes when he or she receives possession contrary to the
+rights of the owner. Since the defendant received possession of the ring
+lawfully, with the man's consent, and with no improper purpose, he did
+not trespassorily take it and cannot be guilty of larceny. Larceny by trick
+(option C) is committed by fraudulently obtaining temporary possession
+of personal property known to be another's. Since the defendant was not
+planning to do so when he obtained the ring from the man, he cannot be
+guilty of larceny by trick. Obtaining by false pretenses (option D) is
+committed by fraudulently inducing another to transfer title to a chattel.
+Since the man never transferred title to the ring, the defendant cannot be
+guilty of obtaining it by false pretenses. As can be seen, options A, C, and
+D are clearly incorrect.
+
+At the same time, the facts must establish that all the elements of the
+rule supporting the correct option are satisfied. Embezzlement (option B)
+is committed by criminally converting property of which the defendant
+has lawful custody. Since the man delivered the ring to the defendant
+before the defendant developed the intent to steal it, the defendant's
+custody was clearly lawful. Because only a person with the right to do so
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+is entitled to sell a chattel, and because the defendant did not have the
+right to sell it, his sale of the ring was clearly a criminal conversion.
+Since all the elements of embezzlement are clearly satisfied, (B) must be
+the correct option.
+
+Complex options
+
+Most of the time, an option will consist of two parts: a conclusion and a
+
+24
+
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+
+reason giving rise to the conclusion. Here's a typical complex-option item:
+
+The plaintiff was eating in a restaurant when he began to choke on a
+piece of food that had lodged in his throat. The defendant, a physician
+who was dining at a nearby table, did not wish to become involved and
+did not render any assistance, although prompt medical attention would
+have been effective in removing the obstruction from the plaintiff's
+throat. Because of the failure to obtain prompt medical attention, the
+plaintiff suffered severe brain injury from lack of oxygen. The
+jurisdiction had a statute that relieved physicians of malpractice liability
+for emergency first aid. When the defendant saw the plaintiff choking, he
+knew the plaintiff was substantially certain to sustain serious injury.
+
+If the plaintiff asserts a claim against the defendant for his injuries, the
+court should find for
+
+(A) the defendant, because the defendant did not cause the piece of
+
+food to lodge in the plaintiff's throat.
+
+(B)  the  plaintiff,  because  a  reasonably  prudent  person  with  the
+defendant's  experience,  training,  and  knowledge  would  have
+assisted the plaintiff.
+
+(C)  the  plaintiff,  because  the  jurisdiction  has  a  statute  which
+relieves physicians of malpractice liability for emergency first
+aid.
+
+(D) the defendant, because the defendant knew that the plaintiff was
+
+substantially certain to sustain serious injury.
+
+“Because” as a conjunction
+
+It is important to understand what an option built around the
+
+conjunction “because” or its synonym “since” means. An option of this
+kind actually makes two statements. If I say, “The street is wet because it
+is raining,” my conclusion is “the street is wet,” and my reason is “it is
+raining.” If it isn't raining, my whole statement is false. Even if it is
+raining, my statement is true only if the rain is what is making the street
+wet.
+
+To decide whether to give the option a “T” or “F,” we must first
+determine whether the reason given is based on an accurate statement. In
+the real world, we can find out whether it is raining by looking out the
+window. In an MBE option, if the reason given involves a statement about
+the facts, we must return to the root to see whether the facts are accurate.
+If the reason involves a statement about the law, we must search our bank
+of knowledge to see whether it states the law accurately. If the reason is
+based on an inaccurate statement of either facts or law, the option gets an
+
+25
+
+“F.”
+
+But even if the reason given is based on an accurate statement of the
+facts or law (i.e., it is actually raining), we cannot give the option a “T”
+unless the reason logically justifies the conclusion. Since rain does make
+the street wet, the reason given in the previous statement (i.e., it is
+raining) justifies the conclusion (i.e., the street is wet), and the entire
+statement is correct. If the statement is, “The street is wet because the sun
+is shining,” the statement is incorrect even if the sun is shining, because
+sunshine does not make the street wet.
+
+Option (A) in the previous item says that the court should find for “the
+defendant, because the defendant did not cause the piece of food to lodge
+in the plaintiff's throat.” Since the reason given (i.e., the defendant did not
+cause the piece of food to lodge in the plaintiff's throat) is a statement
+about the facts, we must return to the root to see whether it is accurate.
+According to the root, the defendant happened to be dining at a nearby
+table when the plaintiff began choking on food. Since there is no fact
+indicating that the defendant had anything to do with the food in the
+plaintiff's throat, the reason is based on an accurate statement about the
+facts. So far, option A is valid.
+
+Next, we must decide whether the fact that the defendant did not cause
+
+the food to lodge in the plaintiff's throat justifies the conclusion that the
+court should find for the defendant. Here, of course, it is necessary to rely
+on our knowledge of the law. Under the law of negligence, a defendant is
+generally not under a duty to assist a plaintiff in peril unless the defendant
+did something to cause that peril. Since the defendant did not cause the
+food to lodge in the plaintiff's throat, the defendant had no obligation to
+help remove it, and his failure to do so cannot result in liability. Since the
+reason is an accurate statement, and since it logically justifies the
+conclusion with which it is coupled, option A should receive a “T.”
+
+If option A states the reason as follows: “The court should find for the
+
+defendant because the plaintiff's brain injury resulted from a lack of
+oxygen,” the option would be incorrect. The root states that the plaintiff's
+brain injury was caused by a lack of oxygen, and this establishes that the
+reason is based on an accurate statement of the facts. But the medical
+cause of an injury does not necessarily determine whether a particular
+defendant is liable. Thus, the reason given does not justify the conclusion
+to which it is coupled, and the option should receive an “F.”
+
+Option (B) is incorrect because it is a misstatement of the law. Since
+
+26
+
+a defendant is generally not under a duty to assist a plaintiff in peril
+unless the defendant did something to cause the peril in the first place, the
+defendant's liability is not measured by what any other person would
+have done. Since the fact that a reasonably prudent person with the
+defendant's experience, training, and knowledge would have assisted the
+plaintiff would not justify the conclusion that the court should find for the
+plaintiff, option (B) should receive an “F.” Option (C) references a
+statute that is in effect in the jurisdiction (a common distractor in MBE
+questions). Here, the question tells you that the jurisdiction has a statute
+that relieves physicians of malpractice liability for emergency first aid.
+Where they exist, statutes of the kind described (i.e., Good Samaritan
+laws) protect a physician who renders aid, but they do not require that he
+or she render aid. For this reason, the existence of such a statute would
+not impose a duty on the defendant and would not be relevant to the
+defendant's liability. Its existence would not make him or her liable. For
+this reason, this option should receive an “F.” Option (D) also relies upon
+our knowledge of the law. A defendant who performs a voluntary act with
+the knowledge that it is substantially certain to result in injury intends that
+injury and may be liable for causing it. Intentional tort liability cannot be
+based on a failure to act, however, unless there was an obligation to act
+in the first place. Because of the rule that provides that a defendant has no
+duty to assist a plaintiff in peril unless the defendant caused that peril, the
+defendant had no obligation to assist the plaintiff. Thus, even if he was
+substantially certain that his failure to do so would result in injury, he is
+not liable for the injury. The option should receive an “F.”
+
+PRACTICE MAKES BETTER
+
+Anyone who says that practice makes perfect is telling a tall tale; no one
+
+and nothing can be perfect. Practice does lead to improvement, though. No
+matter how good you are at answering Multistate-type questions now, the
+more you practice, the better you'll get at it. If you know your law,
+practicing our Multistate Method will equip you with a strategy for
+achieving success on the MBE.
+
+People who think that there is a way to get the actual MBE questions in
+
+advance are dreaming. It's true that each MBE contains 50 questions that
+have been used before. But the examiners publish only the ones that they
+will not use again. So if you have a compilation of released questions, such
+as Strategies & Tactics for the MBE, don't expect to see any of them on
+your exam.
+
+27
+
+Some publishers and bar reviewers take the exam every time it is given
+and tell you that their books contain verbatim copies of all the questions that
+were on it. This is an empty promise. There's no such thing as a fully
+photographic memory. Nobody can take a six-hour exam and come out of it
+remembering even a single question word for word. MBE questions are
+written so precisely that even a slight change of wording alters the effect of
+the entire question.
+
+Instead of trying to find out what the questions are going to be,
+
+concentrate on mastering the Method so that you'll be ready for whatever
+comes. The questions in this book are similar to those that the Multistate Bar
+Examiners use.
+
+Try to deal with each item by using the Method outlined in this chapter.
+Start by orienting yourself to the item with a quick reading of the stem and
+root, paying careful attention to the role that each assigns to you. Then apply
+the basic game plan, treating each option as a separate true-false choice and
+marking it with a “T,” “F,” or “?.”
+
+The MBE is a very special game because it's a game played only by
+prospective lawyers. Some will be winners, and others will be losers.
+Decide in advance which you intend to be and build your whole attitude
+from that basic decision. When you've learned to think of the MBE as a
+game, you may even find that you look forward to playing it. Afterwards,
+you may hear yourself saying that it was fun. Nevertheless, it's a game you
+don't want to play more than once. So practice, practice, practice.
