@@ -8,21 +8,7 @@
 (Line_1376): On May 15 at 1 a.m., the Coast Guard had issued offshore "heavy weather" warnings and prohibited all small vessels the size of the woman's from leaving the harbor. This prohibition remained in effect throughout the day. The father did not appear at all on May 15, because he had heard the weather warnings on his radio.
 
 (Line_1383):  
-(Line_1390):  
-(Line_1391): 165. X-- In a signed writing, a retired general contracted to purchase a 25-foot travel trailer from a trailer company for $15,000, cash on delivery no later than June 1. The general arrived at the trailer company's sales lot on Sunday, May 31, to pay for and take delivery of the trailer, but refused to do so when he discovered that the spare tire was missing.
-(Line_1392): The trailer company offered to install a spare tire on Monday when its service department would open, but the general replied that he did not want the trailer and would purchase another one elsewhere.
-(Line_1393): Which of the following is accurate?
-(Line_1394): A. The general had a right to reject the trailer, but the trailer company was entitled to a reasonable opportunity to cure the defect.
-(Line_1395): B. The general had a right to reject the trailer and terminate the contract under the perfect tender rule.
-(Line_1396): C. The general was required to accept the trailer, because the defect could be readily cured.
-(Line_1397): D. The general was required to accept the trailer, because the defect did not substantially impair its value.
 (Line_1398):  
-(Line_1399): 166. X-- A buyer faxed the following signed message to his long-time widget supplier: "Urgently need blue widgets. Ship immediately three gross at your current list price of $600." Upon receipt of the fax, the supplier shipped three gross of red widgets to the buyer, and faxed to the buyer the following message: "Temporarily out of blue. In case red will help, am shipping three gross at the same price. Hope you can use them."
-(Line_1400): Upon the buyer's timely receipt of both the shipment and the supplier's fax, which of the following best describes the rights and duties of the buyer and the supplier?
-(Line_1401): A. The buyer may accept the shipment, in which case he must pay the supplier the list price, or he must reject the shipment and recover from the supplier for total breach of contract.
-(Line_1402): B. The buyer may accept the shipment, in which case he must pay the supplier the list price, or he may reject the shipment, in which case he has no further rights against the supplier.
-(Line_1403): C. The buyer may accept the shipment, in which case he must pay the supplier the list price, less any damages sustained because of the nonconforming shipment, or he may reject the shipment and recover from the supplier for total breach of contract, subject to the supplier's right to cure.
-(Line_1404): D. The buyer may accept the shipment, in which case he must pay the supplier the list price, less any damages sustained because of the nonconforming shipment, or he may reject the shipment provided that he promptly covers by obtaining conforming widgets from another supplier.
 (Line_1405):  
 (Line_1406): 167. A flour wholesaler contracted to deliver to a producer of fine baked goods her flour requirements for a one-year period. Before delivery of the first scheduled installment, the flour wholesaler sold its business and "assigned" all of its sale contracts to Miller, Inc., another reputable and long-time flour wholesaler. The original flour wholesaler informed the baked goods producer of this transaction.
 (Line_1407): Assume that when Miller tendered the first installment to the baked goods producer in compliance with the flour wholesaler-baked goods contract, the baked goods producer refused to accept the goods.

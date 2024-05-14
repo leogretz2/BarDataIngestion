@@ -48,81 +48,87 @@ function deleteProcessedContent(filePath, linesToDelete) {
 
 
 async function insertMBEQuestion(args, filePath) {
-  try {
-    console.log('Inserting MBE question with args:', args);
-    const parsedArgs = typeof args === 'string' ? JSON.parse(args) : args;
+    try {
+        console.log('Inserting MBE question with args:', args);
+        const parsedArgs = typeof args === 'string' ? JSON.parse(args) : args;
 
-    const {
-      Document_title,
-      Doc_Lines_to_Delete,
-      Document_Date,
-      Publisher,
-      question_type,
-      question,
-      answers,
-      correct_answer,
-      answer_origin,
-      explanation,
-      explanation_origin,
-      difficulty_level,
-      law_category_tags,
-      topic,
-    } = parsedArgs;
+        const {
+            Document_title = '',
+            Doc_Lines_to_Delete = [],
+            Document_Date = 'NA',
+            Publisher = 'NA',
+            question_type = 'MBE',
+            question = '',
+            answers = {},
+            correct_answer = '',
+            answer_origin = 'Generated',
+            explanation = '',
+            explanation_origin = 'Generated',
+            difficulty_level = 50,
+            law_category_tags = [],
+            topic = []
+        } = parsedArgs;
 
-    cleanUpNewlines(parsedArgs);
+        // Check if required fields are not null or undefined
+        if (!Document_title || !question || !correct_answer) {
+            throw new Error("Missing required fields: Document_title, question, or correct_answer.");
+        }
 
-    console.log('Calling Supabase function with:', {
-      _answer_origin: answer_origin,
-      _answers: answers,
-      _correct_answer: correct_answer,
-      _difficulty_level: difficulty_level,
-      _document_date: Document_Date,
-      _document_title: Document_title,
-      _explanation: explanation,
-      _explanation_origin: explanation_origin,
-      _law_category_tags: law_category_tags,
-      _publisher: Publisher,
-      _question: question,
-      _question_type: question_type,
-      _topic: topic,
-    });
+        console.log('Calling Supabase function with:', {
+            _Document_title: Document_title,
+            _Document_Date: Document_Date,
+            _Publisher: Publisher,
+            _question_type: question_type,
+            _question: question,
+            _answers: answers,
+            _correct_answer: correct_answer,
+            _answer_origin: answer_origin,
+            _explanation: explanation,
+            _explanation_origin: explanation_origin,
+            _difficulty_level: difficulty_level,
+            _law_category_tags: law_category_tags,
+            _topic: topic,
+        });
 
-    const { data, error } = await supabase.rpc('insert_mbe_question', {
-      _answer_origin: answer_origin,
-      _answers: answers,
-      _correct_answer: correct_answer,
-      _difficulty_level: difficulty_level,
-      _document_date: Document_Date,
-      _document_title: Document_title,
-      _explanation: explanation,
-      _explanation_origin: explanation_origin,
-      _law_category_tags: law_category_tags,
-      _publisher: Publisher,
-      _question: question,
-      _question_type: question_type,
-      _topic: topic,
-    });
+        const { data, error } = await supabase.rpc('insert_mbe_question', {
+            _Document_title: Document_title,
+            _Document_Date: Document_Date,
+            _Publisher: Publisher,
+            _question_type: question_type,
+            _question: question,
+            _answers: answers,
+            _correct_answer: correct_answer,
+            _answer_origin: answer_origin,
+            _explanation: explanation,
+            _explanation_origin: explanation_origin,
+            _difficulty_level: difficulty_level,
+            _law_category_tags: law_category_tags,
+            _topic: topic,
+        });
 
-    if (error) {
-      console.error('Error inserting MBE question:', error);
-      throw error;
+        if (error) {
+            console.error('Error inserting MBE question:', error);
+            throw error;
+        }
+
+        console.log('MBE question inserted successfully');
+
+        // Remove processed content from the file only after a successful insert
+        deleteProcessedContent(filePath, Doc_Lines_to_Delete);
+
+        // If there are still questions left, indicate the need to reprocess the file
+        if (data && data.length > 0) {
+            parentPort.postMessage({ status: 'reprocess', filePath });
+        } else {
+            parentPort.postMessage({ status: 'success' });
+        }
+
+        return data;
+    } catch (error) {
+        console.error('Error processing MBE question args:', error);
+        parentPort.postMessage({ status: 'error', message: error.message });
+        throw error;
     }
-
-    console.log('MBE question inserted successfully');
-
-    // Remove processed content from the file only after a successful insert
-    deleteProcessedContent(filePath, Doc_Lines_to_Delete);
-
-    // If there are still questions left, indicate the need to reprocess the file
-    if (data.length > 0) {
-      parentPort.postMessage({ status: 'reprocess', filePath });
-    }
-
-    return data;
-  } catch (error) {
-    console.error('Error processing MBE question args:', error);
-    throw error;
-  }
 }
 
 async function insertMEEQuestion(args, filePath) {
