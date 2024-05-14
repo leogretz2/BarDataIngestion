@@ -1,3 +1,6 @@
+
+
+// main.js
 import { Worker } from "worker_threads";
 import fs from "fs";
 import { dirname, resolve, join } from "path";
@@ -5,14 +8,14 @@ import { fileURLToPath } from "url";
 import ProgressBar from "progress";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const workerScriptPath = resolve(__dirname, "workerScript.js");
-const maxWorkers = 20; // Maximum number of concurrent workers
+const workerScriptPath = resolve(__dirname, "worker", "workerScript.js");
+const maxWorkers = 20;
 const workers = [];
 const tasks = [];
 const responses = [];
-const progressBars = {}; // Store progress bars for each file
+const progressBars = {};
 
-// Read files recursively and prepare tasks
+// Read Files Recursively
 function readFilesRecursively(dir, filelist = []) {
     const files = fs.readdirSync(dir);
     files.forEach((file) => {
@@ -27,7 +30,34 @@ function readFilesRecursively(dir, filelist = []) {
     return filelist;
 }
 
+
 // Create worker and handle messaging
+function createWorker() {
+    const worker = new Worker(workerScriptPath);
+    worker.on("message", (result) => {
+        console.log("Response from worker:", result);
+        responses.push(result);
+        if (tasks.length > 0) {
+            worker.postMessage(tasks.pop());
+        } else {
+            worker.terminate();
+            workers.splice(workers.indexOf(worker), 1); // Remove terminated worker from the list
+            if (tasks.length === 0 && workers.length === 0) {
+                console.log("All tasks completed.");
+            }
+        }
+    });
+    worker.on("error", (err) => console.error("Worker error:", err));
+    worker.on("exit", (code) => {
+        if (code !== 0) console.error(`Worker stopped with exit code ${code}`);
+        workers.splice(workers.indexOf(worker), 1); // Ensure the worker is removed from the list on exit
+    });
+    workers.push(worker);
+    return worker;
+}
+
+
+// Create Worker
 function createWorker() {
     const worker = new Worker(workerScriptPath);
     worker.on("message", (message) => {
@@ -46,7 +76,7 @@ function createWorker() {
                 worker.postMessage(tasks.pop());
             } else {
                 worker.terminate();
-                workers.splice(workers.indexOf(worker), 1); // Remove terminated worker from the list
+                workers.splice(workers.indexOf(worker), 1);
                 if (tasks.length === 0 && workers.length === 0) {
                     console.log("All tasks completed.");
                 }
@@ -65,7 +95,7 @@ function createWorker() {
     return worker;
 }
 
-// Initialize and process tasks
+// Initialize and Process Tasks
 function initAndProcessTasks() {
     const mainFolder = "./pre-processed_folder_test";
     const filesToProcess = readFilesRecursively(mainFolder);
@@ -89,8 +119,12 @@ function initAndProcessTasks() {
 
 initAndProcessTasks();
 
+// Handle Process Exit
 process.on("SIGINT", async () => {
     console.log("Shutting down workers...");
     workers.forEach((worker) => worker.terminate());
     console.log("All workers have been terminated.");
 });
+
+
+

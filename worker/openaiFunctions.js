@@ -1,302 +1,16 @@
-import { parentPort } from "worker_threads";
-import fs from "fs";
-import path from "path";
-import OpenAI from "openai";
-import { createClient } from '@supabase/supabase-js';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-// const supabaseUrl = 'https://gpazmihhssffmeyfmsey.supabase.co';
-// const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdwYXptaWhoc3NmZm1leWZtc2V5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTM1MDIzMjEsImV4cCI6MjAyOTA7ODMyMX0.a8nrDdTF5pVh_LKmSAZNCcq83CjIMIf7gO0dH1nMnj0';
-
-const SUPABASE_PROJECT_URL = process.env.SUPABASE_PROJECT_URL
-
-const SUPABASE_API_KEY = process.env.SUPABASE_API_KEY
-
-const supabase = createClient(SUPABASE_PROJECT_URL, SUPABASE_API_KEY);
-
-function deleteProcessedContent(filePath, linesToDelete) {
-  try {
-    let fileContent = fs.readFileSync(filePath, "utf8");
-    let fileLines = fileContent.split('\n');
-
-    // Calculate the required padding based on the maximum line number
-    const maxLineNumber = Math.max(...linesToDelete);
-    const padding = String(maxLineNumber).length;
-
-    // Convert linesToDelete to a set for efficient lookup
-    const linesToDeleteSet = new Set(linesToDelete.map(line => `(Line_${String(line).padStart(padding, '0')}):`));
-
-    // Filter out lines that need to be deleted
-    const originalLength = fileLines.length;
-    fileLines = fileLines.filter(line => {
-      const lineNumber = line.match(/^\(Line_(\d+)\):/);
-      return !lineNumber || !linesToDeleteSet.has(lineNumber[0]);
-    });
-
-    // Send progress update
-    const progress = (originalLength - fileLines.length) / originalLength;
-    parentPort.postMessage({ status: "progress", filePath, progress });
-
-    // Join the lines back into a single string
-    fileContent = fileLines.join('\n');
-    fs.writeFileSync(filePath, fileContent, "utf8");
-    console.log(`Processed content removed from file: ${filePath}`);
-  } catch (error) {
-    console.error(`Error removing processed content from file: ${error.message}`);
-    throw error;
-  }
-}
-
-
-async function insertMBEQuestion(args, filePath) {
-    try {
-        console.log('Inserting MBE question with args:', args);
-        const parsedArgs = typeof args === 'string' ? JSON.parse(args) : args;
-
-        const {
-            Document_title = '',
-            Doc_Lines_to_Delete = [],
-            Document_Date = 'NA',
-            Publisher = 'NA',
-            question_type = 'MBE',
-            question = '',
-            answers = {},
-            correct_answer = '',
-            answer_origin = 'Generated',
-            explanation = '',
-            explanation_origin = 'Generated',
-            difficulty_level = 50,
-            law_category_tags = [],
-            topic = []
-        } = parsedArgs;
-
-        // Check if required fields are not null or undefined
-        if (!Document_title || !question || !correct_answer) {
-            throw new Error("Missing required fields: Document_title, question, or correct_answer.");
-        }
-
-        console.log('Calling Supabase function with:', {
-            _Document_title: Document_title,
-            _Document_Date: Document_Date,
-            _Publisher: Publisher,
-            _question_type: question_type,
-            _question: question,
-            _answers: answers,
-            _correct_answer: correct_answer,
-            _answer_origin: answer_origin,
-            _explanation: explanation,
-            _explanation_origin: explanation_origin,
-            _difficulty_level: difficulty_level,
-            _law_category_tags: law_category_tags,
-            _topic: topic,
-        });
-
-        const { data, error } = await supabase.rpc('insert_mbe_question', {
-            _Document_title: Document_title,
-            _Document_Date: Document_Date,
-            _Publisher: Publisher,
-            _question_type: question_type,
-            _question: question,
-            _answers: answers,
-            _correct_answer: correct_answer,
-            _answer_origin: answer_origin,
-            _explanation: explanation,
-            _explanation_origin: explanation_origin,
-            _difficulty_level: difficulty_level,
-            _law_category_tags: law_category_tags,
-            _topic: topic,
-        });
-
-        if (error) {
-            console.error('Error inserting MBE question:', error);
-            throw error;
-        }
-
-        console.log('MBE question inserted successfully');
-
-        // Remove processed content from the file only after a successful insert
-        deleteProcessedContent(filePath, Doc_Lines_to_Delete);
-
-        // If there are still questions left, indicate the need to reprocess the file
-        if (data && data.length > 0) {
-            parentPort.postMessage({ status: 'reprocess', filePath });
-        } else {
-            parentPort.postMessage({ status: 'success' });
-        }
-
-        return data;
-    } catch (error) {
-        console.error('Error processing MBE question args:', error);
-        parentPort.postMessage({ status: 'error', message: error.message });
-        throw error;
-    }
-}
-
-async function insertMEEQuestion(args, filePath) {
-  try {
-    console.log('Inserting MEE question with args:', args);
-    const parsedArgs = typeof args === 'string' ? JSON.parse(args) : args;
-
-    const {
-      Document_title,
-      Doc_Lines_to_Delete,
-      Document_Date,
-      Publisher,
-      question_type,
-      question,
-      possible_answers,
-      answer,
-      answer_origin,
-      explanation,
-      explanation_origin,
-      difficulty_level,
-      law_category_tags,
-      topic,
-    } = parsedArgs;
-
-    cleanUpNewlines(parsedArgs);
-
-    console.log('Calling Supabase function with:', {
-      _answer_origin: answer_origin,
-      _answers: possible_answers,
-      _correct_answer: answer,
-      _difficulty_level: difficulty_level,
-      _document_date: Document_Date,
-      _document_title: Document_title,
-      _explanation: explanation,
-      _explanation_origin: explanation_origin,
-      _law_category_tags: law_category_tags,
-      _publisher: Publisher,
-      _question: question,
-      _question_type: question_type,
-      _topic: topic,
-    });
-
-    const { data, error } = await supabase.rpc('insert_mee_question', {
-      _answer_origin: answer_origin,
-      _answers: possible_answers,
-      _correct_answer: answer,
-      _difficulty_level: difficulty_level,
-      _document_date: Document_Date,
-      _document_title: Document_title,
-      _explanation: explanation,
-      _explanation_origin: explanation_origin,
-      _law_category_tags: law_category_tags,
-      _publisher: Publisher,
-      _question: question,
-      _question_type: question_type,
-      _topic: topic,
-    });
-
-    if (error) {
-      console.error('Error inserting MEE question:', error);
-      throw error;
-    }
-
-    console.log('MEE question inserted successfully');
-
-    // Remove processed content from the file only after a successful insert
-    deleteProcessedContent(filePath, Doc_Lines_to_Delete);
-
-    // If there are still questions left, indicate the need to reprocess the file
-    if (data.length > 0) {
-      parentPort.postMessage({ status: 'reprocess', filePath });
-    }
-
-    return data;
-  } catch (error) {
-    console.error('Error processing MEE question args:', error);
-    throw error;
-  }
-}
-
-async function insertMPTQuestion(args, filePath) {
-  try {
-    console.log('Inserting MPT question with args:', args);
-    const parsedArgs = typeof args === 'string' ? JSON.parse(args) : args;
-
-    const {
-      Document_title,
-      Doc_Lines_to_Delete,
-      Document_Date,
-      Publisher,
-      question_type,
-      question,
-      possible_answers,
-      answer,
-      answer_origin,
-      explanation,
-      explanation_origin,
-      difficulty_level,
-      law_category_tags,
-      topic,
-    } = parsedArgs;
-
-    cleanUpNewlines(parsedArgs);
-
-    console.log('Calling Supabase function with:', {
-      _answer_origin: answer_origin,
-      _answers: possible_answers,
-      _correct_answer: answer,
-      _difficulty_level: difficulty_level,
-      _document_date: Document_Date,
-      _document_title: Document_title,
-      _explanation: explanation,
-      _explanation_origin: explanation_origin,
-      _law_category_tags: law_category_tags,
-      _publisher: Publisher,
-      _question: question,
-      _question_type: question_type,
-      _topic: topic,
-    });
-
-    const { data, error } = await supabase.rpc('insert_mpt_question', {
-      _answer_origin: answer_origin,
-      _answers: possible_answers,
-      _correct_answer: answer,
-      _difficulty_level: difficulty_level,
-      _document_date: Document_Date,
-      _document_title: Document_title,
-      _explanation: explanation,
-      _explanation_origin: explanation_origin,
-      _law_category_tags: law_category_tags,
-      _publisher: Publisher,
-      _question: question,
-      _question_type: question_type,
-      _topic: topic,
-    });
-
-    if (error) {
-      console.error('Error inserting MPT question:', error);
-      throw error;
-    }
-
-    console.log('MPT question inserted successfully');
-
-    // Remove processed content from the file only after a successful insert
-    deleteProcessedContent(filePath, Doc_Lines_to_Delete);
-
-    // If there are still questions left, indicate the need to reprocess the file
-    if (data.length > 0) {
-      parentPort.postMessage({ status: 'reprocess', filePath });
-    }
-
-    return data;
-  } catch (error) {
-    console.error('Error processing MPT question args:', error);
-    throw error;
-  }
-}
+// openaiFunctions.js
+import fs from 'fs';
+import path from 'path';
+import OpenAI from 'openai';
+import { insertMBEQuestion, insertMEEQuestion, insertMPTQuestion, end_document_processing } from "./supabaseFunctions.js";
+import { deleteProcessedContent, cleanUpNewlines } from "./helperFunctions.js";
 
 const openai = new OpenAI({
   organization: "org-1KxJHVsv6ro52UhvmhR8wPPp",
   project: "proj_rLFJj3uw05jwmSk3e1jwz96v",
 });
 
-async function processFile(filePath) {
+export async function processFile(filePath) {
   console.log("Received file path:", filePath);
   const documentTitle = path.basename(filePath, ".txt");
   const documentContent = fs.readFileSync(filePath, "utf8");
@@ -304,39 +18,39 @@ async function processFile(filePath) {
   // Defining the tools for the LLM
   const tools = [
     {
-      type: "function",
-      function: {
-        name: "insert_mbe_question",
-        description: "Insert MBE question into the database",
-        parameters: {
-          type: "object",
-          properties: {
-            Document_title: { type: "string" },
-            Doc_Lines_to_Delete: { type: "array", items: { type: "integer" } },
-            Document_Date: { type: "string" },
-            Publisher: { type: "string" },
-            question_type: { type: "string", const: "MBE" },
-            question: { type: "string" },
-            answers: {
-              type: "object",
-              properties: {
-                A: { type: "string" },
-                B: { type: "string" },
-                C: { type: "string" },
-                D: { type: "string" },
-              },
+    type: "function",
+    function: {
+      name: "insert_mbe_question",
+      description: "Insert MBE question into the database",
+      parameters: {
+        type: "object",
+        properties: {
+          Document_title: { type: "string" },
+          Doc_Lines_to_Delete: { type: "array", items: { type: "integer" } },
+          Document_Date: { type: "string" },
+          Publisher: { type: "string" },
+          question_type: { type: "string", const: "MBE" },
+          question: { type: "string" },
+          answers: {
+            type: "object",
+            properties: {
+              A: { type: "string" },
+              B: { type: "string" },
+              C: { type: "string" },
+              D: { type: "string" },
             },
-            correct_answer: { type: "string" },
-            answer_origin: { type: "string" },
-            explanation: { type: "string" },
-            explanation_origin: { type: "string" },
-            difficulty_level: { type: "integer" },
-            law_category_tags: { type: "array", items: { type: "string" } },
-            topic: { type: "array", items: { type: "string" } },
           },
-          required: ["Document_title", "Doc_Lines_to_Delete", "Document_Date", "question_type", "question", "answers", "correct_answer", "answer_origin", "explanation", "explanation_origin", "difficulty_level", "law_category_tags", "topic" ],
+          correct_answer: { type: "string" },
+          answer_origin: { type: "string" },
+          explanation: { type: "string" },
+          explanation_origin: { type: "string" },
+          difficulty_level: { type: "integer" },
+          law_category_tags: { type: "array", items: { type: "string" } },
+          topic: { type: "array", items: { type: "string" } },
         },
+        required: ["Document_title", "Doc_Lines_to_Delete", "Document_Date", "question_type", "question", "answers", "correct_answer", "answer_origin", "explanation", "explanation_origin", "difficulty_level", "law_category_tags", "topic" ],
       },
+    },
     },
     {
       type: "function",
@@ -406,7 +120,7 @@ async function processFile(filePath) {
     },
   ];
 
-  
+
   // Construct the prompt using template literals
   const promptContent = `You are a coveted AI legal expert who is a bar exam master and gets a perfect score on every question. You have been designed to assist in the organization and management of bar exam study materials. Your current task is to format, validate, and load various types of legal questions into a structured database.
 
@@ -435,6 +149,7 @@ Content: ${documentContent}
 
 Take a deep breath and think step by step to get the best answer.`;
 
+
 const messages = [{ role: "system", content: promptContent }];
 
   try {
@@ -460,7 +175,7 @@ const messages = [{ role: "system", content: promptContent }];
   }
 }
 
-async function handleResponse(tool_calls, filePath) {
+export async function handleResponse(tool_calls, filePath) {
   console.log("Handling response...");
   console.log(`Processing ${tool_calls.length} tool calls`);
 
@@ -496,45 +211,3 @@ async function handleResponse(tool_calls, filePath) {
   await Promise.all(tasks);
   console.log('All tool calls processed.');
 }
-
-async function end_document_processing({ end_document_processing }) {
-    try {
-        if (!end_document_processing) {
-            throw new Error("Invalid argument: end_document_processing must be true to signify the end of document processing.");
-        }
-
-        // Log the completion
-        console.log("Document processing completed.");
-
-        // Perform any necessary cleanup
-        const logFilePath = path.resolve(__dirname, "processing_log.txt");
-        fs.appendFileSync(logFilePath, `Document processed at ${new Date().toISOString()}\n`);
-
-        // Optional: Notify any other systems or admins if necessary (e.g., send an email or webhook)
-
-        console.log('Document processing logged successfully');
-        return "Document processing logged successfully";
-    } catch (error) {
-        console.error("Error in end_document_processing:", error);
-        throw error;
-    }
-}
-
-function cleanUpNewlines(args) {
-  for (const key in args) {
-    if (typeof args[key] === 'string') {
-      args[key] = args[key].replace(/\n/g, ' '); // Replace newline characters with spaces
-    }
-  }
-}
-
-parentPort.on('message', async (filePath) => {
-  try {
-    const result = await processFile(filePath);
-    parentPort.postMessage({ status: 'success', result: result });
-  } catch (error) {
-    parentPort.postMessage({ status: 'error', message: error.message });
-  }
-});
-
- 

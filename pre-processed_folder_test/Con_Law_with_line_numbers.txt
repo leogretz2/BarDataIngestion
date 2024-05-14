@@ -6,30 +6,10 @@
 
 
 
-(Line_0054): Until 1954, a state required segregation in all public and private schools, but all public schools are now desegregated. Other state laws, enacted before 1954 and continuing to the present, provide for free distribution of the same textbooks on secular subjects to students in all public and private schools. In addition, the state accredits schools and certifies teachers. A private school offers elementary and secondary education in the state, but denies admission to all non-Caucasians. Another private school offers religious instruction. Which of the following is the strongest argument in favor of the constitutionality of free distribution of textbooks to these students at the school offering religious instruction?
-(Line_0055): A. Private religious schools, like public nonsectarian schools, fulfill an important educational function.
-(Line_0056): B. Religious instruction in private schools is not constitutionally objectionable.
-(Line_0057): C. The purpose and effect of the free distribution of these textbooks is secular and does not entangle church and state.
-(Line_0058): D. The free exercise clause requires identical treatment by the state of students in public and private schools.
 
-(Line_0060): A police officer stopped the defendant for speeding late one night. Noting that the defendant was nervous, he ordered him from the car and placed him under arrest for speeding. By state law, the officer was empowered to arrest the defendant and take him to the nearest police station for booking. He searched the defendant's person and discovered a package of heroin in his jacket pocket. The defendant is charged with possession of heroin. At trial, the defendant's motion to prevent introduction of the heroin into evidence, on the ground that the search violated his federal constitutional rights, will most probably be
-(Line_0061): A. denied, because the search was incident to a valid custodial arrest.
-(Line_0062): B. denied, because the officer acted under a reasonable suspicion and legitimate concern for his own personal safety.
-(Line_0063): C. granted, because there was no reasonable or proper basis upon which to justify conducting the search.
-(Line_0064): D. granted if the officer was not in fear and had no suspicion that the defendant was transporting narcotics.
 
-(Line_0066): An assistant professor was hired by a college to teach mathematics and he is now in his third consecutive one-year contract. Under state law he cannot acquire tenure until after five consecutive annual contracts. In his third year, the assistant professor was notified that he was not being rehired for the following year. Applicable state law and college rules did not require either a statement of reasons or a hearing, and in fact neither was offered to the assistant professor. Which of the following, if established, most strongly supports the college in refusing to give the assistant professor a statement of reasons or an opportunity for a hearing?
 
-(Line_0068): A. His academic performance had been substandard.
-(Line_0069): B. A speech he made that was critical of administration policies violated a college regulation concerning teacher behavior.
-(Line_0070): C. He worked at the college for less than five years.
-(Line_0071): D. He could be replaced with a more competent teacher.
 
-(Line_0073): National regulation of predatory wild animals on federal lands is most likely
-(Line_0074): A. constitutional, because the protection of wild animals is important to the general welfare.
-(Line_0075): B. constitutional, because Congress has authority to make regulations respecting federal property.
-(Line_0076): C. unconstitutional, because wild animals as defined by state common law are not federal property.
-(Line_0077): D. unconstitutional, because regulation and control of wild animals is retained by the states under the Tenth Amendment.
 (Line_0078):  
 (Line_0079): A child was the illegitimate, unacknowledged child of the decedent. The decedent died intestate, leaving neither spouse nor any children other than the illegitimate child. The state's law of intestate succession provides that an unacknowledged illegitimate child may not inherit his father's property. The spouse, all other blood relations, and the state are preferred as heirs over the unacknowledged illegitimate child. The illegitimate child filed suit in an appropriate court alleging that the state statute barring an illegitimate child from sharing in a parent's estate is invalid, and that he should be declared a lawful heir to his father's estate. In challenging the validity of the state statute, the illegitimate child's strongest argument would be that
 (Line_0080): A. there is no rational basis for preferring as heirs collateral relatives and even the state over unacknowledged children, and, therefore, the law violates the equal protection clause.
