@@ -4,61 +4,11 @@
 (Line_1334):  
 
 (Line_1343):  
-(Line_1350):  
-(Line_1351): 160. The owner of a fleet of taxis contracted with a dealer in petroleum products for the purchase and sale of the taxi fleet owner's total requirements of gasoline and oil for one year. As part of that agreement, the petroleum dealer also agreed with the taxi fleet owner that for one year the petroleum dealer would place all his advertising with the taxi fleet owner's wife who owned her own small advertising agency. When the wife was informed of the owner-dealer contract, she declined to accept an advertising account from the a soap company because she could not handle both the petroleum dealer and the soap company accounts during the same year.
-(Line_1352): During the first month of the contract, the taxi fleet owner purchased substantial amounts of his gasoline from a supplier other than the petroleum dealer, and the petroleum dealer thereupon notified the wife that he would no longer place his advertising with her agency.
-(Line_1353): In an action against the petroleum dealer for breach of contract, the wife probably will
-(Line_1354): A. succeed, because she is a third-party beneficiary of the owner-dealer contract.
-(Line_1355): B. succeed, because the taxi fleet owner was acting as the wife's agent when he contracted with the petroleum dealer.
-(Line_1356): C. not succeed, because the failure of a constructive condition precedent excused the petroleum dealer's duty to place his advertising with the wife.
-(Line_1357): D. not succeed, because the wife did not provide any consideration to support the petroleum dealer's promise to place his advertising with her.
 (Line_1358):  
-(Line_1359): 161. The owner of a fleet of taxis contracted with a dealer in petroleum products for the purchase and sale of the taxi fleet owner's total requirements of gasoline and oil for one year. As part of that agreement, the petroleum dealer also agreed with the taxi fleet owner that for one year the petroleum dealer would place all his advertising with the taxi fleet owner's wife who owned her own small advertising agency. When the wife was informed of the owner-dealer contract, she declined to accept an advertising account from the a soap company because she could not handle both the petroleum dealer and the soap company accounts during the same year.
-(Line_1360): The wife was an intended beneficiary under the owner-dealer contract. The taxi fleet owner performed his contract with the petroleum dealer for six months, and during that time the petroleum dealer placed his advertising with the wife. At the end of the six months, the taxi fleet owner and the wife were divorced, and the taxi fleet owner then told the petroleum dealer that he had no further obligation to place his advertising with the wife. The petroleum dealer thereupon notified the wife that he would no longer place his advertising with her.
-(Line_1361): In an action against the petroleum dealer for breach of contract, the wife will probably
-(Line_1362): A. succeed, because, on the facts of this case, the petroleum dealer and the taxi fleet owner could not, without the wife's consent, modify their contract so as to discharge the petroleum dealer's duties to the wife.
-(Line_1363): B. succeed, because the taxi fleet owner acted in bad faith in releasing the petroleum dealer from his duty with respect to the wife.
-(Line_1364): C. not succeed, because, absent a provision in the contract to the contrary, the promisor and promisee of a third-party beneficiary contract retain by law the right to modify or terminate the contract.
-(Line_1365): D. not succeed, because the agency relationship, if any, between the taxi fleet owner and the wife terminated upon their divorce.
-(Line_1366):  
-(Line_1367): 162. A woman owns an exceptionally seaworthy boat that she charters for sport fishing at a $500 daily rate. The fee includes the use of the boat with the woman as the captain, and one other crew member, as well as fishing tackle and bait. On May 1, a father agreed with the woman that the father would have the full-day use of the boat on May 15 for himself and his family for $500. The father paid an advance deposit of $200 and signed an agreement that the deposit could be retained by the woman as liquidated damages in the event the father canceled or failed to appear.
-(Line_1368): At the time of contracting, the woman told the father to be at the dock at 5 a.m. on May 15. The father and his family, however, did not show up on May 15 until noon. In the meantime, the owner of the boat agreed at 10 a.m. to take a woman and her family out fishing for the rest of the day. The woman had happened to come by and inquire about the possibility of such an outing. In view of the late hour, the owner of the boat charged the woman $400 and stayed out two hours beyond the customary return time. The father's failure to appear until noon was due to the fact that he had been trying to charter another boat across the bay at a lower rate and had gotten lost after he was unsuccessful in getting such a charter.
-(Line_1369): Which of the following is an accurate statement concerning the rights of the parties?
-(Line_1370): A. The woman can retain the $200 paid by the father, because it would be difficult for the woman to establish her actual damages and the sum appears to have been a reasonable forecast in light of anticipated loss of profit from the charter.
-(Line_1371): B. The woman is entitled to retain only $50 (10% of the contract price) and must return $150 to the father.
-(Line_1372): C. The woman must return $100 to the father in order to avoid her own unjust enrichment at the father's expense.
-(Line_1373): D. The woman must return $100 to the father, because the liquidated-damage clause under the circumstances would operate as a penalty.
-(Line_1374):  
-(Line_1375): 163. A woman owns an exceptionally seaworthy boat that she charters for sport fishing at a $500 daily rate. The fee includes the use of the boat with the woman as the captain, and one other crew member, as well as fishing tackle and bait. On May 1, a father agreed with the woman that the father would have the full-day use of the boat on May 15 for himself and his family for $500. The father paid an advance deposit of $200 and signed an agreement that the deposit could be retained by the woman as liquidated damages in the event the father canceled or failed to appear.
 (Line_1376): On May 15 at 1 a.m., the Coast Guard had issued offshore "heavy weather" warnings and prohibited all small vessels the size of the woman's from leaving the harbor. This prohibition remained in effect throughout the day. The father did not appear at all on May 15, because he had heard the weather warnings on his radio.
 
-(Line_1378): Which of the following is an accurate statement?
-(Line_1379): A. The contract is discharged because of impossibility, and the father is entitled to return of his deposit.
-(Line_1380): B. The contract is discharged because of mutual mistake concerning an essential fact, and the father is entitled to return of his deposit.
-(Line_1381): C. The contract is not discharged, because its performance was possible in view of the exceptional seaworthiness of the woman's boat, and the father is not entitled to return of his deposit.
-(Line_1382): D. The contract is not discharged and the father is not entitled to return of his deposit because the liquidated-damage clause in effect allocated the risk of bad weather to the father.
 (Line_1383):  
-(Line_1384): 164. The manager of a state fair contracted with a renowned hog breeder to exhibit the breeder's world champion animal for the three weeks of the annual fair, at the conclusion of which the breeder would receive an honorarium of $300. Two days before the opening of the fair, the champion animal took sick with boarsitis, a communicable disease among swine, and, under the applicable state quarantine law, very probably could not be exhibited for at least a month.
-(Line_1385): Upon learning this, the manager can legally pursue which of the following courses of action with respect to his contract with the breeder?
-(Line_1386): A. Suspend his own performance, demand assurances from the breeder, and treat a failure by the breeder to give them as an actionable repudiation.
-(Line_1387): B. Suspend his own performance and recover damages from the breeder for breach of contract unless the breeder at once supplies an undiseased hog of exhibition quality as a substitute for the champion animal.
-(Line_1388): C. Terminate his own performance and treat the animal's illness as discharging all remaining duties under the contract.
-(Line_1389): D. Terminate the contract, but only if he (the manager) seeks promptly to obtain for the exhibit a suitable substitute for the champion animal from another hog owner.
-(Line_1390):  
-(Line_1391): 165. X-- In a signed writing, a retired general contracted to purchase a 25-foot travel trailer from a trailer company for $15,000, cash on delivery no later than June 1. The general arrived at the trailer company's sales lot on Sunday, May 31, to pay for and take delivery of the trailer, but refused to do so when he discovered that the spare tire was missing.
-(Line_1392): The trailer company offered to install a spare tire on Monday when its service department would open, but the general replied that he did not want the trailer and would purchase another one elsewhere.
-(Line_1393): Which of the following is accurate?
-(Line_1394): A. The general had a right to reject the trailer, but the trailer company was entitled to a reasonable opportunity to cure the defect.
-(Line_1395): B. The general had a right to reject the trailer and terminate the contract under the perfect tender rule.
-(Line_1396): C. The general was required to accept the trailer, because the defect could be readily cured.
-(Line_1397): D. The general was required to accept the trailer, because the defect did not substantially impair its value.
 (Line_1398):  
-(Line_1399): 166. X-- A buyer faxed the following signed message to his long-time widget supplier: "Urgently need blue widgets. Ship immediately three gross at your current list price of $600." Upon receipt of the fax, the supplier shipped three gross of red widgets to the buyer, and faxed to the buyer the following message: "Temporarily out of blue. In case red will help, am shipping three gross at the same price. Hope you can use them."
-(Line_1400): Upon the buyer's timely receipt of both the shipment and the supplier's fax, which of the following best describes the rights and duties of the buyer and the supplier?
-(Line_1401): A. The buyer may accept the shipment, in which case he must pay the supplier the list price, or he must reject the shipment and recover from the supplier for total breach of contract.
-(Line_1402): B. The buyer may accept the shipment, in which case he must pay the supplier the list price, or he may reject the shipment, in which case he has no further rights against the supplier.
-(Line_1403): C. The buyer may accept the shipment, in which case he must pay the supplier the list price, less any damages sustained because of the nonconforming shipment, or he may reject the shipment and recover from the supplier for total breach of contract, subject to the supplier's right to cure.
-(Line_1404): D. The buyer may accept the shipment, in which case he must pay the supplier the list price, less any damages sustained because of the nonconforming shipment, or he may reject the shipment provided that he promptly covers by obtaining conforming widgets from another supplier.
 (Line_1405):  
 (Line_1406): 167. A flour wholesaler contracted to deliver to a producer of fine baked goods her flour requirements for a one-year period. Before delivery of the first scheduled installment, the flour wholesaler sold its business and "assigned" all of its sale contracts to Miller, Inc., another reputable and long-time flour wholesaler. The original flour wholesaler informed the baked goods producer of this transaction.
 (Line_1407): Assume that when Miller tendered the first installment to the baked goods producer in compliance with the flour wholesaler-baked goods contract, the baked goods producer refused to accept the goods.

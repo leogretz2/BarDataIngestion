@@ -1,13 +1,18 @@
 Notes on formats for pdf/docx/txt files:
 
-- 300_MBE_Q&As.pdf - Page # then Question then Answer; 300 questions; 
-- Barbri_Released_Questions_MBE_2007.pdf - images, needs OCR; 
+- 300_MBE_QAs.pdf - Each page has Question then Answer; 300 questions; 301 pages -> split into 2
+- Barbri_Released_Questions_MBE_2007.pdf - images, needs OCR; 309 pages -> split into 2
 - Civil_notes.pdf - images, needs OCR, two pages of notes, so probably useless
-- Con_Law_Adaptibar.pdf - 309 past questions; one question then explanations for each option per page
-- Contracts_Adaptibar.pdf - 304 past questions; one question then explanations for each option per page
-- Crim_Law_Adaptibar.pdf - 239 past questions; one question then explanations for each option per page
+- Con_Law.txt (from docx) - ~2000lines, 80,000 tokens -> keep one file
+- Contract.txt (from docx) - ~2600 lines, 126,000 tokens, 287 questions -> integrate into 2 (140 questions each)
+- Con_Law_Adaptibar.pdf - 309 questions; one question then explanations for each option per page; split into 2
+- Contracts_Adaptibar.pdf - 304 questions; one question then explanations for each option per page; split into 3
+- Crim_Law_Adaptibar.pdf - 239 questions, ~160,000 tokens; one question then explanations for each option per page; split into 2
+- Crim_Law.txt (from docx) - 231 questions, ~2000 lines, 81,000 tokens -> keep one file
 - Emmanuel_new_questions.pdf - images, needs OCR; 100 questions
-- Evidence_Adaptibar.pdf - 267 past questions; one question then explanations for each option per page
+- Evidence_Adaptibar.pdf - 267 questions, ~14,000 lines, 140,000 tokens; question then explanations for each option per page; split into 2
+- Evidence.txt (from docx) - 243 questions, ~2000 lines, 60,000 tokens; all questions then all answers, keep one file
+- FINZ_Multistate_Method_Strategies_Tactics_28Emmanuel_Bar_Review_29.pdf - ~64,000 lines,
 - Flemings_Multistate_Examination_Workbook_Volume_1.pdf - 540 questions; seem easier; big beginning and end txt (trim - probably not, just information about the questions which might be helpful for LLM. Put rules in separate document though) - rules at the beginning (good for storage?); organized categories (contracts, crim_law, torts, simulated MBE, professional responsibility)
 - Flemings_Multistate_Examination_Workbook_Volume_2.pdf - 536 questions; seem easier; big beginning and end txt (trim?) - rules repeated; organized categories (civil_proc, con_law, crim_proc, evidence, property)
 - MBE_Sample_Test_Questions_New_2023.pdf - 21 questions; released from NCBE so good quality
