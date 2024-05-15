@@ -33,7 +33,8 @@ export async function insertMBEQuestion(args, filePath) {
     // Remove processed content from the file
     deleteProcessedContent(filePath, Doc_Lines_to_Delete);
 
-    console.log('Calling Supabase function with:', {
+    // Construct the payload as a single JSON object
+    const payload = {
       _answer_origin: answer_origin,
       _answers: answers,
       _correct_answer: correct_answer,
@@ -47,23 +48,11 @@ export async function insertMBEQuestion(args, filePath) {
       _question: question,
       _question_type: question_type,
       _topic: topic,
-    });
+    };
 
-    const { data, error } = await supabase.rpc('insert_mbe_question', {
-      _answer_origin: answer_origin,
-      _answers: answers,
-      _correct_answer: correct_answer,
-      _difficulty_level: difficulty_level,
-      _document_date: Document_Date,
-      _document_title: Document_title,
-      _explanation: explanation,
-      _explanation_origin: explanation_origin,
-      _law_category_tags: law_category_tags,
-      _publisher: Publisher,
-      _question: question,
-      _question_type: question_type,
-      _topic: topic,
-    });
+    console.log('Calling Supabase function with payload:', payload);
+
+    const { data, error } = await supabase.rpc('insert_mbe_question', payload);
 
     if (error) {
       console.error('Error inserting MBE question:', error);
@@ -77,6 +66,7 @@ export async function insertMBEQuestion(args, filePath) {
     throw error;
   }
 }
+
 
 export async function insertMEEQuestion(args, filePath) {
   try {

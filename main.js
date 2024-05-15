@@ -30,7 +30,6 @@ function readFilesRecursively(dir, filelist = []) {
     return filelist;
 }
 
-
 // Create worker and handle messaging
 function createWorker() {
     const worker = new Worker(workerScriptPath);
@@ -51,45 +50,6 @@ function createWorker() {
     worker.on("exit", (code) => {
         if (code !== 0) console.error(`Worker stopped with exit code ${code}`);
         workers.splice(workers.indexOf(worker), 1); // Ensure the worker is removed from the list on exit
-    });
-    workers.push(worker);
-    return worker;
-}
-
-
-// Create Worker
-function createWorker() {
-    const worker = new Worker(workerScriptPath);
-    worker.on("message", (message) => {
-        if (message.status === "progress") {
-            const { filePath, progress } = message;
-            if (progressBars[filePath]) {
-                progressBars[filePath].update(progress);
-            }
-        } else if (message.status === "reprocess") {
-            tasks.push(message.filePath);
-        } else {
-            console.log("Response from worker:", message);
-            responses.push(message);
-
-            if (message.status === "success" && tasks.length > 0) {
-                worker.postMessage(tasks.pop());
-            } else {
-                worker.terminate();
-                workers.splice(workers.indexOf(worker), 1);
-                if (tasks.length === 0 && workers.length === 0) {
-                    console.log("All tasks completed.");
-                }
-            }
-        }
-    });
-    worker.on("error", (err) => console.error("Worker error:", err));
-    worker.on("exit", (code) => {
-        if (code !== 0) console.error(`Worker stopped with exit code ${code}`);
-        workers.splice(workers.indexOf(worker), 1); // Ensure the worker is removed from the list on exit
-        if (tasks.length > 0 && workers.length < maxWorkers) {
-            createWorker().postMessage(tasks.pop()); // Create a new worker to replace the terminated one
-        }
     });
     workers.push(worker);
     return worker;

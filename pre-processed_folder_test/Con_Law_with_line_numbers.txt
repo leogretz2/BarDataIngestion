@@ -11,153 +11,45 @@
 
 
 (Line_0078):  
-(Line_0079): A child was the illegitimate, unacknowledged child of the decedent. The decedent died intestate, leaving neither spouse nor any children other than the illegitimate child. The state's law of intestate succession provides that an unacknowledged illegitimate child may not inherit his father's property. The spouse, all other blood relations, and the state are preferred as heirs over the unacknowledged illegitimate child. The illegitimate child filed suit in an appropriate court alleging that the state statute barring an illegitimate child from sharing in a parent's estate is invalid, and that he should be declared a lawful heir to his father's estate. In challenging the validity of the state statute, the illegitimate child's strongest argument would be that
-(Line_0080): A. there is no rational basis for preferring as heirs collateral relatives and even the state over unacknowledged children, and, therefore, the law violates the equal protection clause.
-(Line_0081): B. he has been deprived of property without due process because his fundamental right to inherit has been compromised without a compelling state need.
-(Line_0082): C. it violates the privileges and immunities clause of the Fourteenth Amendment.
-(Line_0083): D. it is a denial of procedural due process because it does not give the unacknowledged illegitimate child an opportunity to prove paternity.
 
-(Line_0085): A child was the illegitimate, unacknowledged child of the decedent. The decedent died intestate, leaving neither spouse nor any children other than the illegitimate child. The state's law of intestate succession provides that an unacknowledged illegitimate child may not inherit his father's property. The spouse, all other blood relations, and the state are preferred as heirs over the unacknowledged illegitimate child. The illegitimate child filed suit in an appropriate court alleging that the state statute barring an illegitimate child from sharing in a parent's estate is invalid, and that he should be declared a lawful heir to his father's estate. The state's strongest defense of the statute would be that
 
-(Line_0087): A. the authority of a state over the disposition of decedents' property located in the state is not affected by the Constitution of the United States.
-(Line_0088): B. a statute prescribing the means of disposing of the property of intestate decedents does not constitute invidious discrimination.
-(Line_0089): C. inheritance under intestate succession laws is a privilege, not a right, and therefore is not protected as property under the due process clause.
-(Line_0090): D. its interest in promoting family life and in encouraging the formal acknowledgment of paternity is an important governmental interest.
 
-(Line_0092): In an effort to relieve serious and persistent unemployment in an industrialized state, its legislature enacted a statute requiring every business with annual sales in the state of over one million dollars to purchase goods and/or services in the state equal in value to at least half of the annual sales in the state of the business. Which of the following constitutional provisions is the strongest basis on which to attack this statue?
-(Line_0093): A. The due process clause of the Fourteenth Amendment
-(Line_0094): B. The equal protection clause
-(Line_0095): C. The commerce clause
-(Line_0096): D. The privileges and immunities clause of the Fourteenth Amendment
 (Line_0097):  
 (Line_0098): The owner of a milk container manufacturing firm sought to focus public attention on the milk packaging law of a certain state in order to have it repealed. On a weekday at 12:00 noon, he delivered an excited, animated, and loud harangue on the steps of the State Capitol in front of the main entryway. An audience of 200 onlookers, who gathered on the steps, heckled him and laughed as he delivered his tirade. The owner of the manufacturing firm repeatedly stated, gesturing expressively and making faces, that "the g-ddamned milk packaging law is stupid," and that "I will strangle every one of those g-ddamned legislators I can get hold of because this law they created proves they are all too dumb to live." After about fifteen minutes the owner of the manufacturing firm stopped speaking, and the amused crowd dispersed.
 
 (Line_0100): There is one relevant statute of the state which prohibits "all speech making, picketing, and public gatherings of every sort on the Capitol steps in front of the main entryway between 7:45 a.m.-8:15 a.m., 11:45 a.m.-12:15 p.m., 12:45 p.m.-1:15 p.m., and 4:45 p.m.-5:15 p.m. on Capitol working days."
 
-(Line_0102): If the owner of the milk container manufacturing firm is prosecuted under the "Capitol Steps" statute and defends on constitutional grounds, which of the following best describes the proper burden of proof?
-(Line_0103): A. The challenger would have to prove that the state did not have a rational basis for enacting this statute.
-(Line_0104): B. The challenger would have to prove that the state did not have a compelling need for this statute or that it had less restrictive means by which it could satisfy that need.
-(Line_0105): C. The state would have to prove that it had a rational basis for enacting this statute.
-(Line_0106): D. The state would have to prove that it had an important government interest for enacting this statute and that the means by which the statute satisfied that interest were narrowly tailored.
 
 (Line_0108): The owner of a milk container manufacturing firm sought to focus public attention on the milk packaging law of a certain state in order to have it repealed. On a weekday at 12:00 noon, he delivered an excited, animated, and loud harangue on the steps of the State Capitol in front of the main entryway. An audience of 200 onlookers, who gathered on the steps, heckled him and laughed as he delivered his tirade. The owner of the manufacturing firm repeatedly stated, gesturing expressively and making faces, that "the g-ddamned milk packaging law is stupid," and that "I will strangle every one of those g-ddamned legislators I can get hold of because this law they created proves they are all too dumb to live." After about fifteen minutes the owner of the milk container manufacturing firm stopped speaking, and the amused crowd dispersed.
 
 (Line_0110): There is one relevant statute of the state which prohibits "all speech making, picketing, and public gatherings of every sort on the Capitol steps in front of the main entryway between 7:45 a.m.-8:15 a.m., 11:45 a.m.-12:15 p.m., 12:45 p.m.-1:15 p.m., and 4:45 p.m.-5:15 p.m. on Capitol working days."
-(Line_0111): Which of the following possible plaintiffs other than the owner of the milk container manufacturing firm would be most likely to obtain adjudication in a federal court on the validity of the "Capitol Steps" statute?
-(Line_0112): A. A state taxpayer in the highest tax bracket
-(Line_0113): B. A politician intending to make a campaign speech on the Capitol steps during a prohibited time
-(Line_0114): C. A legislator who voted against the statute because he thought it unconstitutional
-(Line_0115): D. An organization whose purpose was "to seek judicial invalidation of unconstitutional laws"
 
-(Line_0117): The owner of a milk container manufacturing firm sought to focus public attention on the milk packaging law of a certain state in order to have it repealed. On a weekday at 12:00 noon, he delivered an excited, animated, and loud harangue on the steps of the State Capitol in front of the main entryway. An audience of 200 onlookers, who gathered on the steps, heckled him and laughed as he delivered his tirade. The owner of the manufacturing firm repeatedly stated, gesturing expressively and making faces, that "the g-ddamned milk packaging law is stupid," and that "I will strangle every one of those g-ddamned legislators I can get hold of because this law they created proves they are all too dumb to live." After about fifteen minutes the owner of the milk container manufacturing firm stopped speaking, and the amused crowd dispersed.There is one relevant statute of the state which prohibits "all speech making, picketing, and public gatherings of every sort on the Capitol steps in front of the main entryway between 7:45 a.m.-8:15 a.m., 11:45 a.m.-12:15 p.m., 12:45 p.m.-1:15 p.m., and 4:45 p.m.-5:15 p.m. on Capitol working days."The "Capitol Steps" statute is probably
-(Line_0118): A. constitutional both on its face and as applied to the owner of the milk container manufacturing firm.
-(Line_0119): B. constitutional on its face, but unconstitutional as applied to the owner of the milk container manufacturing firm.
-(Line_0120): C. unconstitutional on its face, because it applied to all working days.
-(Line_0121): D. unconstitutional on its face, because it concerns the State Capitol.
 (Line_0122):  
 (Line_0123): X-- The owner of a milk container manufacturing firm sought to focus public attention on the milk packaging law of a certain state in order to have it repealed. On a weekday at 12:00 noon, he delivered an excited, animated, and loud harangue on the steps of the State Capitol in front of the main entryway. An audience of 200 onlookers, who gathered on the steps, heckled him and laughed as he delivered his tirade. The owner of the manufacturing firm repeatedly stated, gesturing expressively and making faces, that "the g-ddamned milk packaging law is stupid," and that "I will strangle every one of those g-ddamned legislators I can get hold of because this law they created proves they are all too dumb to live." After about fifteen minutes the owner of the milk container manufacturing firm stopped speaking, and the amused crowd dispersed.There are two relevant statutes of the state. The first statute prohibits "all speech making, picketing, and public gatherings of every sort on the Capitol steps in front of the main entryway between 7:45 a.m.-8:15 a.m., 11:45 a.m.-12:15 p.m., 12:45 p.m.-1:15 p.m., and 4:45 p.m.-5:15 p.m. on Capitol working days."
 
-(Line_0125): A second state statute punished "any person who shall intentionally threaten the life or safety of any public official for any act which he performed as part of his public office." Which of the following statements is correct concerning the possible punishment of the owner of the milk container manufacturing firm under the second statute?
-(Line_0126): A. The statute is unconstitutional on its face.
-(Line_0127): B. The statute is constitutional on its face, but the owner of the manufacturing firm could not constitutionally be punished under it for this speech.
-(Line_0128): C. The owner of the manufacturing firm could constitutionally be punished under the statute for his speech.
-(Line_0129): D. The owner of the manufacturing firm could constitutionally be punished under the statute for his speech, but only if one or more legislators were actually present when he delivered it.
 (Line_0130):  
 (Line_0131): X-- The owner of a milk container manufacturing firm sought to focus public attention on the milk packaging law of a certain state in order to have it repealed. On a weekday at 12:00 noon, he delivered an excited, animated, and loud harangue on the steps of the State Capitol in front of the main entryway. An audience of 200 onlookers, who gathered on the steps, heckled him and laughed as he delivered his tirade. The owner of the manufacturing firm repeatedly stated, gesturing expressively and making faces, that "the g-ddamned milk packaging law is stupid," and that "I will strangle every one of those g-ddamned legislators I can get hold of because this law they created proves they are all too dumb to live." After about fifteen minutes the owner of the milk container manufacturing firm stopped speaking, and the amused crowd dispersed. There are three relevant statutes of the state. The first statute prohibits "all speech making, picketing, and public gatherings of every sort on the Capitol steps in front of the main entryway between 7:45 a.m.-8:15 a.m., 11:45 a.m.-12:15 p.m., 12:45 p.m.-1:15 p.m., and 4:45 p.m.-5:15 p.m. on Capitol working days."
 
-(Line_0133): A second state statute punishes "any person who shall intentionally threaten the life or safety of any public official for any act which he performed as part of his public office."
 
-(Line_0135): A third state statute, enacted in 1880, makes criminal "the utterance in any public place of any blasphemy or sacrilege." Assume that there have been only a few recorded prosecutions under the 1880 statute. The milk container manufacturing firm owner is charged with violating its proscriptions. The charge is based wholly on the speech he delivered on the steps of the State Capitol. 
 
-(Line_0137): Which of the following constitutional defenses to this prosecution under the 1880 statute would be the LEAST likely to succeed?
 
-(Line_0139): A. This statute is vague and, therefore, violates the due process clause of the Fourteenth Amendment.
-(Line_0140): B. This statute is an establishment of religion and, therefore, violates the due process clause of the Fourteenth Amendment.
-(Line_0141): C. Application of this statute to the owner of the manufacturing firm denies him equal protection of the laws in violation of the Fourteenth Amendment.
-(Line_0142): D. Application of this statute to the owner of the manufacturing firm denies him freedom of speech in violation of the Fourteenth Amendment.
 (Line_0143):  
-(Line_0144): A real estate company acquired a large tract of land upon which the company developed a mobile home subdivision. The tract was divided into 60 lots, appropriate utilities were installed, and a plat of the entire tract, including a Declaration of Restrictions, was properly drawn and recorded. The Declaration of Restriction included the following: "3. Ownership and/or occupancy are restricted to persons 21 years of age or over, one family per lot." As the separate lots were sold, the deed to each lot included the following provision: "As shown on recorded plat [properly identified by page and plat book reference] and subject to the restrictions therein contained." One of the lots was purchased by a man, who now resides in a mobile home on the lot together with his wife and two children, aged 11 and 13. Other lot owners in the subdivision brought action against the man to enjoin further occupancy by the children under 21 years of age. If judgment is for the man, the issue that most likely will determine the case will be whether
-(Line_0145): A. the mobile home is treated as personalty or realty.
-(Line_0146): B. the restriction constitutes an unlawful restraint on alienation.
-(Line_0147): C. enforcement of the restriction is considered a violation of the equal protection clause of the Fourteenth Amendment of the United States Constitution.
-(Line_0148): D. the terms of the restriction are expressly repeated verbatim in the man's deed.
 
-(Line_0150): The Federal Automobile Safety Act established certain safety and performance standards for all automobiles manufactured in the United States. The Act creates a five-member "Automobile Commission" to investigate automobile safety, to make recommendations to Congress for new laws, to make further rules establishing safety and performance standards, and to prosecute violations of the act. The chairman is appointed by the President, two members are selected by the President pro tempore of the Senate, and two by the Speaker of the House of Representatives. A minor United States car manufacturer seeks to enjoin enforcement of the Commission's rules.
-(Line_0151): The best argument that the car manufacturer can make is that
-(Line_0152): A. legislative power may not be delegated by Congress to an agency in the absence of clear guidelines.
-(Line_0153): B. the commerce power does not extend to the manufacture of automobiles not used in interstate commerce.
-(Line_0154): C. the car manufacturer is denied due process of law because it is not represented on the Commission.
-(Line_0155): D. the Commission lacks authority to enforce its standards because not all of its members were appointed by the President.
 (Line_0156):  
-(Line_0157): X-- The Federal Automobile Safety Act established certain safety and performance standards for all automobiles manufactured in the United States. The Act creates a five-member "Automobile Commission" to investigate automobile safety, to make recommendations to Congress for new laws, to make further rules establishing safety and performance standards, and to prosecute violations of the act. The chairman is appointed by the President, two members are selected by the President pro tempore of the Senate, and two members are selected by the Speaker of the House of Representatives.
-(Line_0158): A minor United States car manufacturer seeks to enjoin enforcement of the Commission's rules.
-(Line_0159): The appropriate decision for the court is to
-(Line_0160): A. allow the Commission to continue to investigating automobile safety and making recommendations to Congress.
-(Line_0161): B. allow the Commission to prosecute violations of the act but not allow it to issue rules.
-(Line_0162): C. forbid the Commission to take any action under the act.
-(Line_0163): D. order that all members of the Commission be appointed by the President by and with the advice and consent of the Senate.
 (Line_0164):  
-(Line_0165): In 1993 a woman was appointed to a tribunal established pursuant to a congressional act. The tribunal's duties were to review claims made by veterans and to make recommendations to the Veterans Administration on their merits. Congress later abolished the tribunal and established a different format for review of such claims. The woman was offered a federal administrative position in the same bureau at a lower salary. She thereupon sued the government on the ground that Congress may not remove a federal judge from office during good behavior nor reduce her compensation during her continuance in office. Government attorneys filed a motion to dismiss the action. The court should
-(Line_0166): A. deny the motion because of the independence of the federal judiciary constitutionally guaranteed by Article III.
-(Line_0167): B. deny the motion, because the woman has established a property right to her federal employment on the tribunal.
-(Line_0168): C. grant the motion, because the woman lacked standing to raise the question.
-(Line_0169): D. grant the motion, because the woman was not a judge under Article III and is not entitled to life tenure.
 (Line_0170):  
-(Line_0171): A member of the legislature of a state is prosecuted in federal court for a violation of the Federal Securities Act arising out of the activities of a state-owned corporation. The legislator's defense includes a claim that the alleged wrongful acts were committed in the course of legislative business and are immune from scrutiny. Which of the following is the strongest constitutional argument supporting the legislator?
-(Line_0172): A. Because of doctrines of federalism, federal law generally cannot be applied to state legislators acting in the course of their official duties.
-(Line_0173): B. State legislators enjoy the protection of the speech and debate clause of the United States Constitution.
-(Line_0174): C. A federal court must follow state law respecting the scope of legislative immunity.
-(Line_0175): D. To apply the Federal Securities Act to state legislators would violate the due process clause.
 
-(Line_0177): X-- A member of the state legislature prosecuted in federal court for a violation of the Federal Securities Act arising out of the activities of a state-owned corporation. A legislator's defense includes a claim that the alleged wrongful acts were committed in the course of legislative business and are immune from scrutiny. Which of the following is the strongest argument against the legislator's constitutional defense?
-(Line_0178): A. Congress has plenary power under the commerce clause.
-(Line_0179): B. Congress may impose liability on state legislators as a means of guaranteeing a republican form of government.
-(Line_0180): C. Congress does not significantly interfere with state government by applying this law to state legislators.
-(Line_0181): D. Congress may impose liability on state legislators by virtue of the necessary and proper clause.
 
-(Line_0183): X-- A newly-enacted state criminal statute provides, in its entirety, "No person shall utter to another person in a public place any annoying, disturbing or unwelcome language." The defendant followed an elderly woman for three blocks down a public street, yelling in her ear offensive four-letter words. The woman repeatedly asked the defendant to leave her alone, but he refused. In the subsequent prosecution of the defendant, the first under this statute, the defendant
-(Line_0184): A. can be convicted.
-(Line_0185): B. cannot be convicted, because speech of the sort described here may not be punished by the state because of the First and Fourteenth Amendments.
-(Line_0186): C. cannot be convicted, because, though his speech here may be punished by the state, the state may not do so under this statute.
-(Line_0187): D. cannot be convicted, because the average user of a public street would think his speech/action here was amusing and ridiculous rather than "annoying," etc.
 
-(Line_0189): Congressional legislation authorizing marriages and divorces as a matter of federal law on prescribed terms and conditions could most easily be upheld if it
-(Line_0190): A. applied only to marriages and divorces in which at least one of the parties is a member of the armed forces.
-(Line_0191): B. applied only to marriages performed by federal judges and to divorces granted by federal courts.
-(Line_0192): C. implemented an executive agreement seeking to define basic human rights.
-(Line_0193): D. applied only to marriages and divorces in the District of Columbia.
 (Line_0194):  
-(Line_0195): X--Assume you are counsel to the state legislative committee that is responsible for real estate laws in your state.
-(Line_0196): The committee wants you to draft legislation to make all restrictions on land use imposed by deeds (now or hereafter recorded) unenforceable in the future so that public landuse planning through zoning will have exclusive control in matters of land use. Which of the following is LEAST likely to be a consideration in the drafting of such legislation?
-(Line_0197): A. Compensation for property rights taken by public authority
-(Line_0198): B. Impairment of contract
-(Line_0199): C. Sovereign immunity
-(Line_0200): D. Police power
 (Line_0201):  
-(Line_0202): X-- Congress provides by statute that any state that fails to prohibit automobile speeds of over 55 miles per hour on highways within the state shall be denied all federal highway construction funding. One of the richest and most highway-oriented states in the country refuses to enact such a statute. Which of the following potential plaintiffs is most likely to be able to obtain a judicial determination of the validity of this federal statute?
-(Line_0203): A. A taxpayer of the United States and the state, who wants his state to get its fair share of federal tax monies for highways, and fears that, if it does not, his state taxes will be increased to pay for the highway construction in the highway-oriented state that federal funds would have financed.
-(Line_0204): B. Contractors who have been awarded contracts by the highway-oriented state for specific highway construction projects, which contracts are contingent on payment to the state of federal highway construction funds to which it would otherwise be entitled.
-(Line_0205): C. An automobile owner who lives in the state and regularly uses its highway system.
-(Line_0206): D. An organization dedicated to keeping the federal government within the powers granted it by the Constitution.
 (Line_0207):  
-(Line_0208): X-- Congress provides by statute that any state that fails to prohibit automobile speeds of over 55 miles per hour on highways within the state shall be denied all federal highway construction funding. One of the richest and most highway-oriented states in the country refuses to enact such a statute. The strongest argument that can be made in support of the constitutionality of this federal statute is that
 (Line_0209): A. the states ceded their authority over highways to the national government when the states accepted federal grants to help finance their highways.
 (Line_0210): B. the federal government can regulate the use of the state highways without limitation because the federal government paid for some of their construction costs.
-(Line_0211): C. Congress could reasonably believe that the 55 mile-an-hour speed limit will assure that the federal money spent on highways results in greater benefit than harm to the public.
 (Line_0212): D. a recent public opinion survey demonstrated that 90 percent of the people in this country support a 55 mile-an-hour speed limit.
-(Line_0213):  
-(Line_0214): X-- Congress provides by statute that any state that fails to prohibit automobile speeds of over 55 miles per hour on highways within the state shall be denied all federal highway construction funding. One of the richest and most highway-oriented states in the country refuses to enact such a statute. The federal statute relating to disbursement of highway funds conditioned on the 55 mile-an-hour speed limit is probably
 
-(Line_0216): A. unconstitutional.
-(Line_0217): B. constitutional only on the basis of the spending power.
-(Line_0218): C. constitutional only on the basis of the commerce power.
 (Line_0219): D. constitutional on the basis of both the spending power and the commerce power.
 (Line_0220):  
-(Line_0221): X-- A city adopted an ordinance providing that street demonstrations involving more than 15 persons may not be held in commercial areas during "rush" hours. "Exceptions" may be made to the prohibition "upon 24-hour advance application for an approval by the police department." The ordinance also imposes sanctions on any person "who shall, without provocation, use to or of another, and in his presence, opprobrious words or abusive language tending to cause a breach of the peace." The ordinance has not yet had either judicial or administrative interpretation. Which of the following is the strongest argument for the unconstitutionality of both parts of the ordinance on their face?
-(Line_0222): A. No type of prior restraint may be imposed on speech in public places.
-(Line_0223): B. Laws regulating, by their terms, expressive conduct or speech may not be overbroad or unduly vague.
-(Line_0224): C. The determination as to whether public gatherings may be lawfully held cannot be vested in the police.
-(Line_0225): D. The right of association in public places without interference is assured by the First and Fourteenth Amendments.
 (Line_0226):  
 (Line_0227): X-- While the defendant was in jail on a pending charge, his landlord called the police because rent had not been paid and because he detected a disagreeable odor coming from the defendant's apartment into the hallways. The police officer who responded to the call knew that the defendant was in jail. He recognized the stench coming from the defendant's apartment as that of decomposing flesh and, without waiting to obtain a warrant and using the landlord's passkey, entered the apartment with the landlord's consent. The lease to these premises gave the landlord a right of entry, at any reasonable hour, for the purpose of making repairs. The police officer found a large trunk in the bedroom which seemed to be the source of the odor. Upon breaking it open, he found the remains of the defendant's former mistress.
 (Line_0228): If the defendant undertakes to challenge the search of his apartment, he has
@@ -2094,29 +1986,16 @@
 
 (Line_2175): B is the correct answer. The supremacy clause provides that federal law will override inconsistent state laws. So in a supremacy clause analysis of this statute, the most important consideration among these four choices are the treaties and immigration laws of the United States. If they conflict with this statute, they will override it. A is incorrect because only federal laws prevail, not federal conditions. C is incorrect because the need of the state for this statute is irrelevant if it conflicts with validly enacted federal law. D is incorrect because federal laws are the only relevant consideration.
 
-(Line_2177): B is the correct answer. 
-(Line_2178): C is the correct answer. 
-(Line_2179): A is the correct answer.
 
-(Line_2181): C is the correct answer. The federal courts abstain from deciding political questions, which are disputes that present issues committed by the Constitution to a coordinate branch of government. Here, the Constitution vests the power to conduct foreign relations to the President with some powers to Congress. And, therefore, a federal court would dismiss the suit as presenting a nonjusticiable political question.
 
-(Line_2183): Answer A is correct. The text of the exceptions clause of Article III does not limit congressional power to strip the U.S. Supreme Court of its appellate jurisdiction to hear particular types of cases, and the Court's own decisions arguably support the view that the exceptions clause grants Congress this power. Thus, Answer A is correct.
 
-(Line_2185): B is the correct answer. In order to have standing, a party must have an injury that is caused by the law being challenged and that can be redressed by the relief sought--here invalidation of the statute. A politician intending to make a speech on the Capitol steps during a prohibited time would have an injury that is imminent enough to create standing. A is incorrect because taxpayers do not have the kind of concrete injury to challenge a general statute unrelated to a tax the taxpayer is subject to. C is incorrect because the legislator who voted against the statute does not have a legally cognizable injury. D is incorrect because an organization that seeks to invalidate unconstitutional laws has suffered no injury.
 
-(Line_2187): B is the correct answer. While taxpayers generally lack standing to challenge general spending statutes, the taxpayer is challenging the spending on the ground that this particular spending violates a specific constitutional limitation on spending. Therefore, he has standing. A is incorrect because taxpayers do not have standing to challenge every spending authorization. C is incorrect because in the case of establishment clause challenges, the taxpayer need not show a special nexus in order to have standing. D is incorrect because state support of private schools is state action.
 
-(Line_2189): A is the correct answer. Congress has several enumerated powers and implied within those powers is the power to preserve the federal monopoly over foreign affairs. B is incorrect because the President shares power with Congress, which has primary authority to conduct foreign affairs. C is incorrect because there is no foreign relations exception to the First Amendment. D is incorrect because there is not a more lenient standard for federal criminal laws related to international affairs.
 
-(Line_2191): D is the correct answer. The federal courts have jurisdiction only over cases and controversies, which means that there must be two parties with a real stake in the controversy, one of whom has been injured by the other's actions, and that the relief sought by the injured party must remedy that injury. Moreover, the court must have the power to give effect to its judgments. Here, it is unclear that the disputes over the grant-in-aid funds would involve an injury that could confer standing. But more importantly, the agency dispensing the funds is free not to follow the court's judgment. Thus, the court is doing nothing more than issuing an advisory opinion, rather than deciding a case or controversy.
 
-(Line_2193): D is the correct answer. The government cannot impose a burden on someone because of that person's religious beliefs unless the measure is necessary to promote a compelling government interest. And the government may not evaluate whether the religion is worth protecting or whether the person held a sincere religious belief. Therefore, the strongest constitutional defense is that the government's prosecution denied the defendant the right of free exercise of religion because it required the state to analyze the sincerity of his religious beliefs.
 
-(Line_2195): A is the correct answer. There is no case or controversy here because the candidate lacks standing. One reason he lacks standing is that the issue is not yet ripe for review. The issue is not ripe because the candidate will not suffer an injury until he is barred from running for office or until he has won the election. At that point, an injury will either have occurred or will be so certain to occur as to confer standing. The second reason the candidate lacks standing is that the candidate has not joined the correct party to provide him the relief that will redress the injury. The chairman of his local political party would be the correct party to sue if the political party refuses to put him on the ballot due to the residency requirement. However, the candidate seems to be challenging the qualifications with the assumption that he will not be allowed to take office. The correct defendant would be whichever official enforces those qualifications and determines whether elected officials take office, presumably election officials. Finally, the mere agreement by the parties that the court should consider the issue is irrelevant; standing cannot be created by agreement.
 
-(Line_2197): C is the correct answer. The federal statute is very general and does not regulate radon testers to the extent of licensing them. Therefore, the general federal statute does not conflict with the more rigorous state licensing standards, and those licensing standards are not superseded by the federal law under the supremacy clause. Furthermore, the state's licensing requirement is constitutional because it is reasonably related to a legitimate public interest.
 
-(Line_2199): Answer B is correct. The privileges and immunities clause of Article IV, Section 2, Clause 1 of the Constitution does not apply on these facts. The clause only reaches actions by a state that discriminate against citizens of other states. The woman is a citizen of the state that employed her because she was a resident of that state (Fourteenth Amendment, Section 1).
 
 (Line_2201): Answer D is correct. The case arguably is not ripe for adjudication because the agency's inspection does not itself pose any risk of harm to residents of the community. The residents face a risk of harm only if the agency selects their community as a site for a landfill, but on these facts it is unclear whether or when the community would be selected. Thus, Answer D is correct.
 

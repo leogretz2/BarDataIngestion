@@ -12,10 +12,11 @@ Notes on formats for pdf/docx/txt files:
 - Emmanuel_new_questions.pdf - images, needs OCR; 100 questions
 - Evidence_Adaptibar.pdf - 267 questions, ~14,000 lines, 140,000 tokens; question then explanations for each option per page; split into 2
 - Evidence.txt (from docx) - 243 questions, ~2000 lines, 60,000 tokens; all questions then all answers, keep one file
-- FINZ_Multistate_Method_Strategies_Tactics_28Emmanuel_Bar_Review_29.pdf - ~64,000 lines,
+- FINZ_Multistate_Method_Strategies_Tactics_28Emmanuel_Bar_Review_29.pdf - ~64,000 lines; has rules
 - Flemings_Multistate_Examination_Workbook_Volume_1.pdf - 540 questions; seem easier; big beginning and end txt (trim - probably not, just information about the questions which might be helpful for LLM. Put rules in separate document though) - rules at the beginning (good for storage?); organized categories (contracts, crim_law, torts, simulated MBE, professional responsibility)
 - Flemings_Multistate_Examination_Workbook_Volume_2.pdf - 536 questions; seem easier; big beginning and end txt (trim?) - rules repeated; organized categories (civil_proc, con_law, crim_proc, evidence, property)
 - MBE_Sample_Test_Questions_New_2023.pdf - 21 questions; released from NCBE so good quality
+- MBE_Strategies_and_Tactics_II_2C_Second_Edition_28Emanuel_Bar_Review_Ser - has rules, strategies
 - NCBE_210.pdf - presumably 210 questions released by NCBE; organized categories (Civil Procedure, Constitutional Law, Contracts, Criminal Law and Procedure, Evidence, Real Property, Torts) each with Subject Matter Outline, questions, and answer key
 - PMBR_Multistate_Early_Bird_MBE_Q&As_2007.pdf - 300 Kaplan questions, likely simulated; six categories (Torts, Criminal Law, Property, Evidence, Contracts, Constitutional Law); organized with 50 questions for each category, all in a row, then answers and tree chart describing category breakdown for each category, all in a row after
 -  Property_Adaptibar.pdf - 264 past questions; one question then explanations for each option per page

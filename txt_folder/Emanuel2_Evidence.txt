@@ -1,0 +1,4385 @@
+EVIDENCE
+
+EVIDENCE Q&A BY TOPIC
+
+All answers assume that the Federal Rules of Evidence (“FRE”) are in
+force as to all issues. “ACN” refers to “Advisory Committee Notes” to a
+particular Federal Rule of Evidence. “M&K” refers to Mueller &
+Kirkpatrick, Evidence Hornbook (Aspen, 3d Ed., 2003).
+
+CHAPTER 1
+BASIC CONCEPTS
+
+I.    CONDITIONS FOR ADMITTING EVIDENCE
+
+A.  Relevant
+
+1.  Definition
+
+Question 1: In a prosecution for aggravated battery, a police
+
+442
+
+officer testified that when he arrested the defendant, he took a
+knife  from  the  defendant  and  delivered  it  to  the  medical
+examiner. The medical examiner testified that the knife blade
+was consistent with the victim’s wound but admitted on cross-
+examination that any number of other knives could also have
+caused the wound.
+
+Should  the  judge  grant  a  motion  to  strike  the  medical
+examiner’s testimony?
+
+(A)  No, because the probative worth of this evidence is for
+
+the jury to assess.
+
+(B)    Yes,  because  in  light  of  the  medical  examiner’s
+admission,  his  testimony  has  insufficient  probative
+value.
+
+(C)    Yes,  because  the  medical  examiner  could  not  state  the
+probability that the wound was caused by the defendant’s
+knife.
+
+(D)    Yes,  because  the  probative  value  is  substantially
+
+outweighed by the danger of unfair prejudice.
+
+Answer  1:  Choice  (A)  is  correct.  This  evidence  has  some
+probative  value,  because  it  links  the  knife  in  defendant’s
+possession  to  the  type  of  knife  that  could  have  caused  the
+victim’s  wound.  The  evidence  is  not  very  strong,  because
+other  knives  could  also  have  caused  the  wound.  But  how
+much weight to give to the evidence is a decision for the jury.
+FRE 401 requires only that evidence “(a) has any tendency to
+make  a  fact  more  or  less  probable  than  it  would  be  without
+the  evidence;  and  (b)  the  fact  is  of  consequence  in
+determining  the  action.”  Thus  to  be  relevant,  evidence  need
+only  have  some  probative  value  in  establishing  a  fact.  The
+Advisory  Committee’s  Note  to  Rule  401  quotes  the  famous
+statement  “A  brick  is  not  a  wall,”  making  the  point  that
+evidence is admissible even if it is only a single brick that is
+a part of a large wall of evidence establishing a party’s case.
+the  relevancy
+(B) 
+requirement of FRE 401 if it “(a) has any tendency to make a
+fact  more  or  less  probable  than  it  would  be  without  the
+evidence;  and  (b)  the  fact  is  of  consequence  in  determining
+the  action.”  The  medical  examiner’s  testimony  meets  this
+
+is  wrong  because  evidence  meets 
+
+443
+
+minimal  standard  of  probativity.  And  it  is  probative  of  a
+material fact — whether this knife was the crime weapon.
+
+(C) is wrong because no statement of probability is required
+for admissibility. The medical examiner’s testimony does not
+have to establish that defendant’s knife caused the wound by
+any particular standard of proof, such as beyond a reasonable
+doubt,  by  clear  and  convincing  evidence,  or  by  a
+preponderance of the evidence — it’s up to the jury to assess
+the value of the evidence in determining guilt. The testimony
+only  needs  to  have  some  unspecified-but-minimal  probative
+value to be admissible.
+
+That’s shown by FRE 401, under which evidence is deemed
+to  have  probative  value,  and  to  be  admissible  (assuming  it
+doesn’t violate some other specific prohibition), if it “(a) has
+any  tendency  to  make  a  fact  more  or  less  probable  than  it
+would  be  without  the  evidence;  and  (b)  the  fact  is  of
+consequence in determining the action.”
+
+(D)  is  wrong  because  it  mischaracterizes  the  evidence  here.
+It’s true that FRE 403 requires a weighing of probative value
+against  unfair  prejudice,  as  this  choice  suggests.  That  rule
+establishes  what  might  be  described  as  a  presumption  of
+admissibility:  Evidence  meeting  Rule  401’s  definition  of
+relevance  is  admissible  unless  its  probative  value  is
+“substantially outweighed” by the danger of unfair prejudice.
+Here,  the  medical  examiner’s  testimony  does  not  appear  to
+pose  any  significant  degree  of  unfair  prejudice,  let  alone
+enough to “substantially outweigh” the probative value of that
+testimony.
+
+Question 2:  A  defendant’s  house  was  destroyed  by  fire  and
+she was charged with arson. To prove that the defendant had a
+motive  to  burn  down  her  house,  the  government  offered
+evidence that the defendant had fully insured the house and its
+contents.
+Should the court admit this evidence?
+(A)    No,  because  the  probative  value  of  the  evidence  of
+insurance  upon  the  issue  of  whether  the  defendant
+intentionally  burned  her  house  down  is  substantially
+outweighed  by  the  dangers  of  unfair  prejudice  and
+
+444
+
+confusion of the jury.
+
+(B)  No, because evidence of insurance is not admissible upon
+the issue of whether the insured acted wrongfully.
+(C)    Yes,  because  evidence  of  insurance  on  the  house  has  a
+tendency to show that the defendant had a motive to burn
+down the house.
+
+(D)      Yes,  because  any  conduct  of  a  party  to  the  case  is
+
+admissible when offered against the party.
+
+Answer  2:  Choice  (C)  is  correct.  This  is  a  relevance
+problem.  The  main  issue  is  whether  the  evidence  meets  the
+general  relevance  standard  of  FRE  401.  Under  that  rule,
+evidence  is  relevant  as  long  as  it  “(a)  has  any  tendency  to
+make  a  fact  more  or  less  probable  than  it  would  be  without
+the  evidence;  and  (b)  the  fact  is  of  consequence  in
+determining  the  action.”  Thus,  evidence  that  has  only  the
+slightest  probative  value  can  be  admitted  under  this  rule.
+While evidence that the property is insured is not conclusive
+that the defendant committed arson (many people fully insure
+their  houses),  it  is  relevant  to  the  issue  of  whether  the
+defendant would have had a financial incentive or motive to
+commit  the  arson — the  defendant  might  be  able  to  generate
+cash more quickly by burning down the house and collecting
+insurance proceeds than by attempting to sell the house. This
+evidence meets the minimal probativity standard of FRE 401.
+
+(There  is  a  special  rule  concerning  the  admissibility  of
+evidence of insurance, but that rule doesn’t bar the evidence
+here; see the discussion of Choice (B) for more about this.)
+
+(A)  is  wrong  because  although  the  probative  value  of  this
+evidence  on  the  issue  of  whether  defendant  intentionally
+burned  her  house  down  is  not  particularly  strong,  it  is
+somewhat  probative  of  the  issue  of  possible  motive,  so  it
+meets  the  easy-to-satisfy  probativity  standard  of  FRE  401
+(quoted  in  the  discussion  of  Choice  (C)  above).  FRE  403
+provides that relevant evidence should be admitted unless its
+probative value is “substantially outweighed” by the dangers
+of  unfair  prejudice,  confusion,  or  waste  of  time.  Here,  the
+evidence  of  insurance  is  probably  not  unfairly  prejudicial  at
+all  (in  the  sense  that  it  does  not  have  an  undue  tendency  to
+produce  decision  on  an  improper  basis  such  as  emotion);  in
+
+445
+
+any  event,  whatever  small  prejudicial  tendency  the  evidence
+might have is certainly not enough to “substantially outweigh”
+the probative value of the evidence.
+
+(B)  is  wrong  because,  although  it  is  true  that  FRE  411  bars
+evidence  of  insurance  to  establish  that  the  insured  acted
+is
+negligently  or  otherwise  wrongfully,  such  evidence 
+admissible for other purposes, and proof of motive is such a
+purpose. (In this respect, Rule 411 is similar to Rule 404(b),
+under  which  evidence  of  past  conduct  cannot  be  admitted  to
+prove  a  propensity  to  engage  in  such  conduct  but  can  be
+admitted for other purposes, such as to prove motive.)
+
+(D)  is  wrong  because  there  is  no  such  broad  rule  that  any
+conduct of a party may be admitted against that party.
+
+Question 3:  The  bus  in  which  a  passenger  was  riding  was
+struck from the rear by a taxi. He sued the taxi company for a
+claimed  neck  injury.  The  taxi  company  claimed  the  impact
+was  too  slight  to  have  caused  the  claimed  injury  and
+introduced testimony that all passengers had refused medical
+attention  at  the  time  of  the  accident.  The  passenger  called  a
+doctor  from  a  local  hospital  to  testify  that  three  persons
+(otherwise proved to have been on the bus) were admitted to
+the hospital for treatment of severe neck pain within a week
+after  the  accident.  The  trial  judge  should  rule  the  doctor’s
+testimony
+
+(A)  admissible, because a doctor is properly qualified as an
+
+expert in medical matters.
+
+(B)    admissible  if  other  testimony  established  a  causal
+connection  between  the  other  passengers’  pain  and  the
+accident.
+
+(C)    inadmissible,  because  the  testimony  to  neck  pain  is
+
+hearsay, not within any exception.
+
+(D)    inadmissible,  because  the  testimony  is  not  the  best
+the
+
+the  other  passengers’  pain  and 
+
+evidence  of 
+passengers are not shown to be unavailable.
+
+Answer  3:  Choice  (B)  is  correct,  because  it  correctly
+identifies  that,  if  a  causal  connection  is  provided,  the  other
+instances  will  be  admissible.  The  passenger  is  offering
+evidence of other injuries from the bus accident to prove that
+
+446
+
+his  own  injuries  were  caused  by  the  accident.  The  problem
+posed  by  such  evidence  is  its  relevance.  In  order  for  such
+evidence to be admissible, the material circumstances must be
+substantially  identical,  and  the  proponent  of  the  evidence
+(here, the passenger) must establish the similarity.
+
+In this question, you’re told that it’s already been proven that
+the  other  three  passengers  were  involved  in  the  same
+accident. Thus, the only “missing link” that the passenger must
+prove is that their injuries came from the same accident, since
+this  will  provide  the  “substantial  similarity”  that  relevance
+requires.  Choice  B  recognizes  and  resolves  this  issue,  by
+the  other
+focusing  on 
+passengers’ injuries and the accident.
+
+the  causal  connection  between 
+
+(A)  is  wrong,  because  the  doctor’s  expert  status  is  not
+relevant  to  the  issue  of  admissibility  here.  The  passenger  is
+offering  evidence  of  other  injuries  from  the  bus  accident  to
+prove that his own injuries were caused by the accident. The
+problem posed by such evidence is its relevance; in order for
+such  evidence  to  be  admissible,  the  material  circumstances
+must  be  “substantially  similar,”  and  the  proponent  of  the
+evidence  (here,  the  passenger)  must  establish  the  similarity.
+The only “missing link” that the passenger must prove is that
+their  injuries  came  from  the  same  accident,  since  this  will
+provide the “substantial similarity” that relevance requires.
+
+The  doctor’s  expertise  matters  only  if  he  is  going  to  give
+expert  testimony  about  medical  matters.  So  if  the  doctor’s
+testimony  proposed  to  address,  say,  the  similarity  of  the
+injuries between the passenger and the other three passengers,
+the  doctor’s  expert  status  would  be  relevant.  But  that’s  not
+what’s  been  asked  of  him  here:  Instead,  all  the  doctor  has
+been  asked  is  whether  three  other  passengers  from  the  same
+bus  accident  were  admitted  to  the  hospital  that  week  for
+treatment  of  severe  neck  pain,  a  question  that  would  not
+require expert testimony.
+(C)  is  wrong,  because  the  testimony  here  does  not  involve
+hearsay. Hearsay is an out-of-court statement offered to prove
+the  truth  of  its  assertion.  Here,  there’s  no  out-of-court
+statement; the doctor is being asked whether or not three other
+bus passengers were admitted to the hospital for treatment of
+
+447
+
+neck pain within a week of the accident. This doesn’t involve
+recounting any out-of-court statement, and one quick way for
+you to identify this is that there’s no out-of-court declarant.
+
+(D) is wrong, because it misapplies the “best evidence” rule.
+The  Best  Evidence  Rule  applies  only  when  the  terms  of  a
+writing  (or  recording  or  photograph)  are  being  proven.  FRE
+1002.  It  doesn’t  require  that  the  “best  evidence”  for  every
+issue  be  offered.  Since  no  writing  (or  recording  or
+photograph) is involved here, there’s no “best evidence” rule
+issue.
+
+2.  Exclusion
+
+Question 4: Deeb was charged with stealing furs from a van.
+At trial, Wallace testified she saw Deeb take the furs.
+
+The jurisdiction in which Deeb is being tried does not allow
+in  evidence  lie  detector  results.  On  cross-examination  by
+Deeb’s attorney, Wallace was asked, “The light was too dim
+to identify Deeb, wasn’t it?” She responded. “I’m sure enough
+that it was Deeb that I passed a lie detector test administered
+by  the  police.”  Deeb’s  attorney  immediately  objects  and
+moves to strike.
+
+The trial court should
+
+(A)  grant the motion, because the question was leading.
+(B)    grant  the  motion,  because  the  probative  value  of  the
+unresponsive  testimony  is  substantially  outweighed  by
+the danger of unfair prejudice.
+
+(C)  deny the motion, because it is proper rehabilitation of an
+
+impeached witness.
+
+(D)    deny  the  motion,  because  Deeb’s  attorney  “opened  the
+
+door” by asking the question.
+
+Answer 4:  Choice  (B)  is  correct.  FRE  403  provides:  “The
+court may exclude relevant evidence if its probative value is
+substantially  outweighed  by  a  danger  of  one  or  more  of  the
+following: unfair prejudice, confusing the issues, misleading
+the  jury,  undue  delay,  wasting  time,  or  needlessly  presenting
+cumulative  evidence.”  The  fact  pattern  tells  us  that  the
+lie  detector  results,
+jurisdiction  excludes  evidence  of 
+indicating that the jurisdiction questions the reliability of the
+
+448
+
+test  and  considers  evidence  of  the  test  results  to  be  of  low
+probative  value.  “Unfair”  prejudice  means  “an  undue
+tendency  to  suggest  decision  on  an  improper  basis  .  .  .  .”
+Advisory  Committee  Note  to  FRE  403.  It  is  reasonable  to
+assume that some members of a jury may regard the results of
+a lie detector test as more scientific than they actually are, and
+consequently give the test too much weight. Therefore, in this
+jurisdiction, 
+the  danger  of  unfair  prejudice  would
+substantially  outweigh  the  (low)  probative  value  of  the  lie
+detector test.
+
+(A) is wrong because, although the motion would be granted,
+it  would  not  be  for  the  stated  reason.  Leading  questions  are
+generally permissible on cross examination. FRE 611(c).
+
+that 
+
+testimony 
+
+(C) is wrong because, even apart from the FRE 403 problem
+discussed in Choice (B), the reasoning supporting this answer
+mischaracterizes  the  concept  of  “rehabilitation.”  Once  a
+witness  has  been  impeached,  rehabilitation  is  brought  out
+is  offered  by  counsel
+through  separate 
+representing  the  party  who  is  a  proponent  of  the  impeached
+witness’s  testimony.  It  is  incorrect  to  characterize  the
+witness’s  own  response  to  opposing  counsel’s  “impeaching”
+question as “rehabilitation” of that witness’s credibility.
+(D) is wrong because (1) the motion would be granted for the
+reason  discussed  in  Choice  (B);  and  (2)  the  reasoning
+supporting this answer misapplies the concept of “opening the
+door.”  A  topic  which  is  otherwise  off-limits  to  an  opposing
+party is considered “opened for questioning” once it has been
+introduced  by  the  other  party — the  rationale  is  that  if  the
+topic  has  been  “opened”  by  one  party  it  would  be  unfair  to
+prohibit  the  opposing  party  from  addressing  it.  In  this  case,
+the question “The light was too dim to identify Deeb, wasn’t
+it?”  is  not  even  arguably  related  to  the  topic  of  Wallace’s
+passing  a  lie  detector  test,  so  there  is  no  unfairness  in  not
+allowing Wallace to talk about the lie detector test.
+
+Question 5: A defendant is tried on a charge of driving while
+intoxicated.  When  the  defendant  was  booked  at  the  police
+station,  a  videotape  was  made  that  showed  him  unsteady,
+abusive,  and  speaking  in  a  slurred  manner.  If  the  prosecutor
+lays  a  foundation  properly  identifying  the  tape,  should  the
+
+449
+
+court  admit  it  in  evidence  and  permit  it  to  be  shown  to  the
+jury?
+
+(A)  Yes, because it is an admission.
+(B)  Yes, because its value is not substantially outweighed by
+
+unfair prejudice.
+
+(C)    No,  because  the  privilege  against  self-incrimination  is
+
+applicable.
+
+(D)    No,  because  specific  instances  of  conduct  cannot  be
+
+proved by extrinsic evidence.
+
+Answer  5:  Choice  (B)  is  correct.  To  answer  this  question,
+you  have  to  deal  with  two  issues:  (1)  is  the  evidence
+relevant?;  and  (2)  if  the  answer  to  (1)  is  “yes,”  does  any
+principle prevent the admission of the evidence?
+
+With respect to (1), FRE 401 says that “Evidence is relevant
+if:  (a)  it  has  any  tendency  to  make  a  fact  more  or  less
+probable than it would be without the evidence; and  (b) the
+fact is of consequence in determining the action.” Whether the
+defendant  was  intoxicated  is  certainly  a  “fact  .  .  .  of
+consequence  in  determining  the  action,”  so  part  (b)  of  the
+relevance  test  is  easily  satisfied.  And  the  fact  that  the
+videotape shows the defendant being “unsteady, abusive, and
+speaking  in  a  slurred  manner”  clearly  makes  it  more  likely
+that the defendant was intoxicated than if the videotape were
+not  presented,  so  part  (a)  is  satisfied,  making  the  evidence
+relevant.
+
+With respect to (2), there must not be any principle that makes
+this piece of evidence inadmissible despite its relevance. The
+only  plausible  candidate  for  such  a  principle  is  FRE  403,
+which says that “The court may exclude relevant evidence if
+its probative value is substantially outweighed  by  a  danger
+of  one  or  more  of  the  following:  unfair  prejudice,  confusing
+the issues, misleading the jury, undue delay, wasting time, or
+needlessly  presenting  cumulative  evidence.”  Since  Choice
+(B)  refers  to  the  balance  between  probative  value  and
+negative consequences like unfair prejudice, FRE 403 has to
+be analyzed. The defendant’s best argument would be that the
+in  “unfair  prejudice”  substantially
+tape  would 
+outweighing  the  tape’s  probative  value.  But  the  court  would
+
+result 
+
+450
+
+almost  certainly  conclude  that  any  such  prejudice  would  not
+be  “unfair” — the  tape  accurately  depicts  the  defendant’s
+state, and there is nothing unfair about the depiction.
+
+(A)  is  wrong,  because  it  does  not  correctly  characterize  the
+facts. This choice suggests that the defendant’s acts would be
+considered  hearsay,  but  would  be  admissible  nonetheless
+under the “admissions” hearsay exclusion. Hearsay is an out-
+of-court  statement  offered  to  prove  the  truth  of  its  assertion.
+The  problem  here  is  that  the  videotape  does  not  contain  any
+assertion the truth of which is being proven by the videotape.
+While conduct can be considered an admission if, from it, one
+can  reasonably  infer  that  the  actor  is  conscious  of  his  guilt,
+this  is  not  the  case  here;  the  defendant’s  conduct  is  non-
+assertive (i.e., not intended to communicate).
+
+(C) is wrong, because the privilege against self-incrimination
+would  not  apply  to  these  facts.  The  privilege  against  self-
+incrimination  is  a  testimonial  privilege;  it  only  allows  a
+person  the  right  not  to  be  compelled  to  testify  as  to  matters
+that might tend to incriminate him. Here, there’s no testimony
+involved — the  evidence  being  offered  is  an  out-of-court
+videotape  of 
+is  not
+“testifying”  in  the  video  (nor  has  he  apparently  been
+“compelled” to do anything). As a result, the videotape is not
+covered by the privilege.
+
+the  defendant,  but 
+
+the  defendant 
+
+(D) is wrong, because it both misstates the facts and misstates
+the  law.  This  choice  states  an  ostensible  rule  of  law,  but
+refers to two ideas, neither of which applies here.
+
+The  “specific  instances  of  conduct”  part  suggests  that
+character  evidence  is  involved  here — the  examiners  are
+trying  to  make  you  think  of  the  rule  (FRE  405(a))  that
+prohibits proving someone’s character trait by specific prior
+instances  of  that  character  trait,  to  show  that  he  probably
+acted  in  conformity  with  that  trait  on  the  present  occasion.
+However,  the  evidence  here  suggests  that  the  defendant  was
+drunk on this occasion, not another one, so it’s not character
+evidence  of  the  sort  that’s  covered  by  the  no-specific-
+instances rule.
+The “extrinsic evidence” part is designed to make you think of
+
+451
+
+the  rule  that  even  in  those  situations  where  someone’s
+character  trait  can  be  proven  by  specific  instances  of  prior
+conduct,  that  proof  must  come  in  the  form  of  cross-
+examination of an already-testifying witness, not by means of
+a new witness or a new piece of documentary evidence. (This
+is  a  common-law  rule,  carried  forward  by  negative
+implication  in  FRE  405(a).)  But  since  no  character-trait
+evidence is being offered here (see the prior paragraph), the
+reference to extrinsic evidence is irrelevant.
+
+B.  Offering testimonial evidence
+
+1.  Testimony by trial judge
+
+Question  6:  A  defendant  was  charged  with  murder.  While
+walking down the hallway during a recess in the defendant’s
+trial,  the  judge  overheard  the  defendant  say  to  his  attorney,
+“So  what  if  I  did  it?  There’s  not  enough  proof  to  convict.”
+Upon  the  judge’s  reporting  the  incident  to  counsel,  the
+prosecutor called the judge as a witness in the trial.
+
+Is  the  judge’s  testimony  regarding  the  defendant’s  statement
+admissible?
+
+(A)  Yes, as the statement of a party-opponent.
+(B) 
+
+  Yes,  because 
+the  defendant’s  statement,  although
+otherwise  privileged,  was  made  without  reasonable
+efforts to preserve confidentiality.
+
+(C)    No,  because  the  statement  was  a  privileged  attorney-
+
+client communication.
+
+(D)    No,  because  a  judge  may  never  testify  in  a  trial  over
+
+which he or she is presiding.
+
+Answer 6: Choice (D) is correct. Although the judge is being
+asked  to  recount  an  out-of-court  statement  made  by  a  party
+that  is  offered  against  that  party,  admissibility  here  does  not
+turn on the hearsay rule. Regardless of whether the evidence
+is admissible under the hearsay rule, FRE 605 provides that
+“The presiding judge may not testify as a witness at the trial.”
+Thus,  the  judge  cannot  offer  any  testimony  of  any  kind,  no
+matter how probative and important his testimony.
+(A)  is  wrong  because  even  though  the  statement  is  the
+admission  of  a  party-opponent  and  would  be  otherwise
+
+452
+
+admissible  non-hearsay  under  FRE  801(d)(2)(A),  FRE  605
+says that the presiding judge cannot be called as a witness to
+testify about anything.
+
+that 
+
+confidentiality, 
+
+this  means  only 
+
+(B)  is  wrong  because,  although  it  is  true  that  reasonable
+efforts  were  not  made  by  the  defendant  and  his  attorney  to
+the
+preserve 
+communication  was  not  privileged — it  does  not  mean  the
+statement is necessarily admissible. The problem here is that
+under  FRE  605,  the  statement  cannot  be  proven  through  the
+testimony  of  the  presiding  judge  because  that  rule  bars  the
+presiding judge from offering any testimony of any kind. The
+defendant’s  lack  of  efforts  to  preserve  confidentiality  mean
+that  the  statement  probably  would  be  admissible  if  someone
+other than the presiding judge had heard it and been asked to
+testify about it.
+
+(C) is wrong because, although it reaches the right outcome, it
+uses  incorrect  reasoning.  The  statement  would  not  be
+privileged. That’s because reasonable efforts were not made
+by the defendant and his attorney to preserve confidentiality,
+since the statement was made in a hallway open to the public
+in a voice loud enough to be overheard.
+
+C.  Making and responding to objections
+
+1.  Hearing outside of presence of jury
+
+Question  7:  A  defendant  was  on  trial  for  burglary.  The
+prosecutor  called  the  arresting  officer  to  testify  that  shortly
+after the arrest the defendant had orally admitted her guilt to
+him.  Before  the  officer  testified,  the  defendant  objected  that
+no  Miranda  warning  had  been  given,  and  she  requested  a
+hearing  outside  the  presence  of  the  jury  to  hear  evidence  on
+that issue.
+How should the court proceed?
+
+(A)  The court should grant the request, because the hearing on
+the  admissibility  of  the  confession  must  be  conducted
+outside the presence of the jury.
+
+(B)  The court may grant or deny the request, because the court
+has  discretion  whether  to  conduct  preliminary  hearings
+in the presence of the jury.
+
+453
+
+(C)  The court should deny the request and rule the confession
+inadmissible,  because  only  signed  confessions  are
+permitted in criminal cases.
+
+(D)   The court should deny the request and rule the confession
+admissible,  because  it  is  the  statement  of  a  party-
+opponent.
+
+Answer  7:  Choice  (A)  is  correct.  The  admissibility  of  the
+officer’s  testimony  turns  on  two  issues:  (1)  whether  a
+Miranda warning had to be given to the defendant before her
+confession  can  be  admitted;  and  (2)  whether  the  judge’s
+determination of the first issue must be preceded by a hearing
+conducted in front of or outside the hearing of the jury. With
+respect to the first question, Miranda warnings must be given
+before  a  confession  made  by  a  person  under  arrest  can  be
+admitted.  Since  the  defendant  contends  that  no  Miranda
+warnings were given, she is entitled to a hearing on the issue.
+The  rule  resolving  the  second  question  is  contained  in  FRE
+104(c),  which  says  that  a  “hearing  [that  involves]  the
+admissibility of a confession” must be conducted “so that the
+jury cannot hear it.” (Note that this provision goes on to say
+that  hearings  on  all  other  preliminary  matters  shall  be
+conducted  outside  the  presence  of  the  jury  only  when  either
+justice requires or when a criminal defendant is a witness and
+requests a hearing outside of the jury’s presence.) Thus under
+FRE  104(c),  the  hearing  must  be  conducted  outside  the
+presence of the jury.
+
+(B)  is  wrong  because  FRE  104(c)  mandates  that  the
+admissibility  of  confessions  “must”  be  conducted  out  of  the
+hearing of the jury. So the trial court has no discretion in this
+matter.
+
+(C)  is  wrong  because  oral  confessions,  like  signed  written
+confessions,  are  admissible  in  criminal  cases,  assuming  that
+any required Miranda warnings were given.
+(D)  is  wrong  because  it  ignores  the  effect  of  Miranda.  It’s
+true  that  a  confession  of  a  criminal  defendant  is  an  out-of-
+court  statement  made  by  a  party-opponent,  which  makes  it
+non-hearsay under FRE 801(d)(2)(A) and thus admissible — 
+as a matter of evidence law — to prove the truth of the matter
+asserted  within  that  statement.  But  the  rules  of  evidence
+
+454
+
+cannot  alter  the  constitutional  requirement  that  Miranda
+warnings must be given before a confession made by a person
+under arrest is admissible.
+
+455
+
+CHAPTER 2
+CIRCUMSTANTIAL PROOF: SPECIAL
+PROBLEMS
+
+I.    CHARACTER EVIDENCE
+
+A.  Character is essential element of case
+
+1.  Other aspects of other-crimes evidence
+
+a.  Rule 403 balancing
+
+Question 8: Decker, charged with armed robbery of a store,
+denied that he was the person who had robbed the store.
+
+In  presenting  the  state’s  ease,  the  prosecutor  seeks  to
+introduce  evidence  that  Decker  had  robbed  two  other  stores
+in the past year.
+This evidence is
+(A)    admissible,  to  prove  a  pertinent  trait  of  Decker’s
+
+character and Decker’s action in conformity therewith.
+
+(B)  admissible, to prove Decker’s intent and identity.
+(C)    inadmissible,  because  character  must  be  proved  by
+reputation or opinion and may not be proved by specific
+acts.
+
+(D)  inadmissible, because its probative value is substantially
+
+outweighed by the danger of unfair prejudice.
+
+Answer  8:  Choice  (D)  is  correct.  Although  evidence  of
+Decker’s previous two robberies may arguably be relevant as
+to  whether  Decker  robbed  the  store  in  the  present  case,  its
+probative value is low and dwarfed by the prejudicial value
+of the evidence. FRE 403 says that relevant evidence may be
+excluded  “if  its  probative  value  is  substantially  outweighed
+by  the  danger  of  one  or  more  of  the  following:  unfair
+prejudice[.]” “Unfair” prejudice means “an undue tendency to
+suggest  decision  on  an  improper  basis  .  .  .  .  ”  Advisory
+Committee Note (ACN) to FRE 403. The probative value of
+the evidence is pretty low, since the other acts don’t bear very
+strongly on whether Decker is the robber in the present case
+
+456
+
+(there’s  no  indication  that  the  m.o.’s  are  all  that  similar,  for
+instance — see  Choice  (B)  below).  Conversely,  there’s  a
+large risk that if the evidence were admitted, some members
+of  the  jury  would  likely  regard  it  as  more  probative  than  it
+actually  is,  and  consequently  give  the  evidence  too  much
+weight.
+
+(A) is wrong because the general rule is that “Evidence of a
+person’s  character  or  character  trait  is  not  admissible  to
+prove  that  on  a  particular  occasion  the  person  acted  in
+accordance with the character or trait.” FRE 404(a)(1). There
+are  some  exceptions,  but  none  applies  here.  This  choice
+asserts  a  rule — admissibility  of  character-trait  evidence  to
+prove  action  in  conformity  with  the  trait  on  the  present
+occasion — that  is  the  exact  opposite  of  the  real  rule  of
+404(a).
+
+(B)  is  wrong  for  two  reasons.  First,  the  previous  robberies
+are probably not sufficiently probative of Decker’s identity or
+his intent (the latter isn’t even an issue in this case). It’s true
+that  evidence  of  other  acts  may  be  admissible  for  purposes
+other  than  to  show  action  in  conformity  with  a  person’s
+character,  and  that  two  of  these  acceptable  purposes  are  to
+prove identity and intent. FRE 404(b)(2). But generally, when
+other  acts  are  offered  to  prove  identity,  the  prosecution’s
+theory  is  that  the  other  acts  by  the  accused  are  so  similar  in
+method to the crime charged that all bear his “signature” (thus
+justifying  the  inference  that  if  the  defendant  committed  the
+prior  acts,  he  also  must  have  committed  the  present  one).
+Here,  the  other  robberies  aren’t  similar  enough  to  meet  this
+“signature” standard.
+
+Secondly,  this  evidence  poses  an  extremely  high  risk  of
+prejudice, far outweighing its limited probative value, and is
+thus excludible under FRE 403 (see the discussion of Choice
+(D) above).
+(C) is wrong because (1) it at least slightly misstates the law;
+and  (2)  more  importantly,  it  gives  an  explanation  that  is
+inapplicable here. While it’s true that, in general, character or
+a  trait  of  character  must  be  proved  by  reputation  or  opinion
+evidence, not specific-acts evidence (FRE 405(a)), there are
+some scenarios in which specific-acts evidence is admissible
+
+457
+
+(e.g.,  where  a  character  trait  is  an  “essential  element  of  a
+charge, claim or defense” — see FRE 405(b)). But the bigger
+problem  is  that  what  the  prosecution  is  offering  here  is  not,
+strictly speaking, character evidence — the prosecution is not
+offering the evidence to show that Decker has a character or
+tendency  to  commit  robbery;  rather,  it’s  trying  to  qualify  for
+one or more of the “other purposes than character” exceptions
+mentioned by 404(b), e.g., identity.
+
+II.   METHODS OF PROVING CHARACTER:
+REPUTATION, OPINION, AND PROOF OF
+SPECIFIC ACTS
+
+A.  FRE
+
+1.  D’s good-character evidence
+
+a.  Rebuttal
+
+Question 9: The defendant, who was charged with the crime
+of assaulting a victim, admitted striking the victim. However,
+the defendant claimed to have acted in self-defense when he
+was  attacked  by  the  victim,  who  was  drunk  and  belligerent.
+The  defendant  offered  testimony  of  his  employer,  who
+proposes  to  testify  that  he  has  known  and  employed  the
+defendant  for  10  years  and  knows  the  defendant’s  reputation
+among the people with whom he lives and works to be that of
+a peaceful, law-abiding, nonviolent person.
+
+The trial judge should rule this testimony
+
+(A) 
+
+  admissible,  because  it  is  relevant  to  show  the
+improbability  of  the  defendant’s  having  committed  an
+unprovoked assault.
+
+(B)    admissible,  because  it  is  relevant  to  a  determination  of
+the extent of punishment if the defendant is convicted.
+(C)    not  admissible,  because  whether  the  defendant  is
+normally a person of good character is irrelevant to the
+specific charge.
+
+(D)  not admissible, because it is irrelevant without a showing
+that  the  defendant’s  employer  was  one  of  the  persons
+among whom the defendant lived and worked.
+
+458
+
+Answer  9:  The  best  choice  is  (A),  because  it  correctly
+applies  the  “Mercy  Rule”  to  these  facts.  The  problem  under
+these facts is that the evidence offered is character evidence,
+which  is,  as  a  very  general  rule,  inadmissible.  However,
+choice  A  correctly  identifies  that  the  “Mercy  Rule”  will
+operate to make this evidence admissible. Under the “Mercy
+Rule,”  in  criminal  cases  only,  the  defendant  may  offer
+evidence (presumably favorable) of his own character in the
+form  of  reputation  or  opinion,  if  the  evidence  is  pertinent  to
+an issue in the case. See FRE 404(a): “Evidence of a person’s
+character or character trait is not admissible to prove that on
+a particular occasion the person acted in accordance with the
+character or trait . . . [except that (2)] . . . in a criminal case:
+(A)  a  defendant  may  offer  evidence  of  the  defendant’s
+pertinent trait[.]”  The  character  evidence  here  is  in  the  form
+of reputation, and, by tending to prove that the defendant is a
+non-violent, peace-loving person, it is pertinent to an issue in
+the case (whether the defendant is likely to have committed an
+unprovoked assault).
+
+the  evidence 
+
+is  wrong,  because 
+
+(B) 
+is  substantively
+admissible  on  the  issue  of  the  defendant’s  guilt  (see  the
+discussion  of  Choice  (A)  above),  not  merely  on  the  issue  of
+punishment.  In  fact,  evidence  offered  solely  for  purposes  of
+sentencing  would  not  generally  not  be  admissible  during  the
+guilt  phase  of  the  trial.  But  once  the  defendant  was  found
+guilty, in the sentencing phase, the judge can rely on evidence
+that  would  be  inadmissible  at  trial  (e.g.,  hearsay  not  within
+any exception). Williams v. N.Y. (1949).
+
+(C)  is  wrong,  because  it  doesn’t  recognize  that  the  “Mercy
+Rule” will make the evidence admissible. As a general rule,
+evidence of a person’s character, offered to prove he acted in
+conformity  with  that  character  on  the  present  occasion,  is
+inadmissible.  FRE  404(a)(1).  However,  under  the  “Mercy
+Rule,”  in  criminal  cases  only,  the  defendant  may  offer
+pertinent  evidence  of  his  own  character,  in  the  form  of
+reputation or opinion. See the discussion of Choice (A) above
+for more details.
+(D)  is  wrong,  because  it  raises  a  threshold  issue  of
+competency that is not at issue under these facts. Under FRE
+
+459
+
+the 
+
+602  and  603,  a  witness  is  competent  to  testify  if  he  has
+personal knowledge of the matter on which he will testify, and
+he  declares  that  he  will  testify  truthfully,  by  oath  or
+affirmation.  As  the  defendant’s  employer,  it  could  fairly  be
+assumed  that  the  employer  is,  in  fact,  competent  to  testify
+about 
+peacefulness.
+Furthermore,  since  reputation  testimony  by  definition  only
+requires  that  the  witness  be  familiar  with  the  subject’s
+reputation  (not,  for  instance,  familiar  with  specific  acts  by
+the  defendant  demonstrating  the  character  trait  in  issue),  it
+would  not  be  necessary  to  prove  that  the  witness  lived  or
+worked with the defendant.
+
+defendant’s 
+
+reputation 
+
+for 
+
+Question 10:  The  defendant  was  charged  with  the  crime  of
+assaulting  the  victim.  He  admitted  striking  the  victim,  but
+claimed  to  have  acted  in  self-defense  when  he  was  attacked
+by the victim, who was drunk and belligerent after a football
+game.
+
+The defendant offered testimony of defendant’s employer that
+he  had  known  and  employed  the  defendant  for  twelve  years
+and  knew  the  defendant’s  reputation  among  the  people  with
+whom  he  lived  and  worked  to  be  that  of  a  peaceful,  law-
+abiding,  nonviolent  person.  The  trial  judge  admitted  this
+testimony.
+On  cross-examination  of  the  employer,  the  state’s  attorney
+asked  the  employer  if  he  had  heard  that  the  defendant  often
+engaged in fights and brawls. The trial judge should rule the
+question
+
+(A)  admissible, because evidence of the defendant’s previous
+
+fights and brawls may be used to prove his guilt.
+
+(B)  admissible, because it tests the employer’s knowledge of
+
+the defendant’s reputation.
+
+(C)    inadmissible,  because  it  seeks  to  put  into  evidence
+
+separate, unrelated offenses.
+
+(D)    inadmissible,  because  no  specific  time  or  incidents  are
+
+specified and inquired about.
+
+Answer  10:  Choice  (B)  is  correct.  The  question  will  be
+admissible to impeach the employer as a reputation witness.
+The  problem  here  is  that  the  evidence  the  prosecutor  is
+
+460
+
+seeking  is  character  evidence.  Choice  (B)  offers  a  way  to
+overcome  this  problem.  Under  these  facts,  the  employer  is
+testifying  as  a  reputation  witness  on  the  defendant’s  behalf;
+that  is,  he’s  testifying  that  the  defendant  is  known  as  a
+peaceful,  nonviolent  person.  This  evidence  is  admissible
+under  FRE  404(1),  which  allows  an  accused  to  offer
+evidence of his own “pertinent trait of character.” Then, FRE
+405(a)  says  that  where  evidence  of  a  “person’s  character  or
+character trait is admissible” (which the evidence here is, as
+described in the prior sentence), “On cross-examination of the
+character  witness,  the  court  may  allow  an  inquiry  into
+relevant specific instances of the person’s conduct.” So once
+the  employer  gave  the  testimony  favorable  to  the  defendant
+about  the  defendant’s  peaceable  reputation,  the  prosecution
+was entitled to make “inquiry into relevant specific instances
+of  [the  defendant’s]  conduct.”  The  specific  instances  being
+inquired  about  (frequent  engaging  in  fights  and  brawls)  are
+“relevant,”  because  if  the  employer  didn’t  know  about  these
+instances,  his  testimony  about  the  defendant’s  reputation  for
+peaceability  would  be  of  questionable  accuracy.  (If  the
+is  he  really
+these 
+employer  didn’t  know 
+knowledgeable  about  the  defendant’s  reputation  on  this
+subject?)
+
+true  facts, 
+
+(A) is wrong because it is unduly broad. Since the defendant
+offered  favorable  reputation  evidence  of  his  peaceability  as
+he was permitted to do under 404(a)(1), the prosecution was
+permitted to rebut that evidence. The rebuttal evidence was in
+fact substantively admissible to prove that the defendant was
+not  peaceable,  and  therefore  probably  wasn’t  acting  in  self-
+defense.  However,  this  choice  suggests  that  independent
+(extrinsic) evidence of the fights would have been admissible.
+In fact, only questioning of the defendant’s character witness
+(the  employer)  was  permissible,  on  account  of  FRE  405(a) 
+— the prosecution couldn’t have introduced extrinsic proof of
+the  defendant’s  previous  fights  (e.g.,  by  testimony  from  a
+different witness who observed them), and his choice falsely
+implies that such evidence could have been admitted.
+(C) is wrong because it fails to identify that the evidence can
+be  brought  out  on  the  cross  of  the  employer,  as  further
+
+461
+
+discussed in Choice (B).
+
+(D)  is  wrong  because,  while  impeachment  of  a  reputation
+witness  with  specific  instances  is  possible,  the  specific
+instances need not be identified as precisely as (D) suggests.
+Under  FRE  404(a),  a  reputation  witness  (of  which  the
+employer is one) may be questioned about specific instances
+bearing on the reputation, since not knowing such information
+reflects  on  the  witness’s  competence  to  testify  as  to  the
+person’s reputation in the community. However, the testimony
+here  is  specific  enough  to  constitute  specific  acts;  it  clearly
+does not amount to opinion or reputation testimony.
+
+III.  LIABILITY INSURANCE
+
+A.  General rule
+
+1.  Other purposes
+
+Question  11:  A  passenger  is  suing  a  defendant  for  injuries
+suffered  in  the  crash  of  a  small  airplane,  alleging  that  the
+defendant had owned the plane and negligently failed to have
+it properly maintained. The defendant has asserted in defense
+that  he  never  owned  the  plane  or  had  any  responsibility  to
+maintain  it.  At  trial,  the  passenger  calls  a  witness  to  testify
+that the witness had sold to the defendant a liability insurance
+policy on the plane.
+
+The testimony of the witness is
+
+(A)  inadmissible, because the policy itself is required under
+
+the original document rule.
+
+(B)    inadmissible,  because  of  the  rule  against  proof  of
+
+insurance where insurance is not itself at issue.
+
+(C)    admissible  to  show  that  the  defendant  had  little
+motivation  to  invest  money  in  maintenance  of  the
+airplane.
+  admissible  as  some  evidence  of  the  defendant’s
+ownership of or responsibility for the airplane.
+
+(D) 
+
+Answer  11:  Choice  (D)  is  correct.  The  FRE  (like  the
+common law) provide that evidence that a person carried or
+did not carry liability insurance is not admissible on the issue
+
+462
+
+of whether that person acted negligently. (See FRE 411, first
+sentence.) This rule bars such evidence when it is offered by
+a plaintiff to suggest that because the defendant was insured,
+the defendant was probably careless. However, the rule does
+not  apply  where  the  evidence  is  offered  for  some  other
+purpose, “such as proving . . . agency, ownership, or control.”
+(FRE  411,  second  sentence.)  That’s  what’s  happening  here 
+— the  evidence  is  being  used  to  show  that  because  the
+defendant  bought  a  liability  policy  on  the  plane,  he  had
+ownership or control of it.
+
+(A) is wrong because the terms of the policy are not at issue,
+only  the  policy’s  existence.  It’s  true  that  FRE  1002,  entitled
+“Requirement of the original” (and commonly called the Best
+Evidence Rule) says that in proving the terms of a writing or a
+recording, the original must normally be produced. Here, the
+BER would apply if the terms of the insurance policy were in
+question.  But  the  terms  are  not  in  question  here — the
+witness’s testimony involves only the existence of the policy,
+not its terms, so the BER does not apply.
+
+(B)  is  wrong  because  it  misstates  the  rule  about  proof  of
+insurance. The rule against proof of liability insurance is not a
+general  rule  against  “proof  of  insurance  where  insurance  is
+not itself the issue” (as this choice asserts). Instead, the rule,
+embodied in FRE 411, prohibits proof of a liability policy’s
+existence  when  offered  to  prove  negligence.  (But  as  the
+discussion  of  Choice  (D)  explains,  Rule  411  does  not  apply
+here, because the proof of the policy’s existence is not being
+offered to prove negligence.)
+
+(C) is wrong because it inaccurately asserts that the evidence
+is  being  offered  to  suggest  the  defendant  was  probably
+careless,  an  assertion  that,  if  true,  would  result  in  the
+evidence’s being inadmissible. FRE 411, first sentence, says
+that  “Evidence  that  a  person  was  or  was  not  insured  against
+liability is not admissible to prove whether the person acted
+negligently  or  otherwise  wrongfully.”  Since  this  choice
+suggests  that  the  evidence  is  being  offered  to  show  that  an
+insured  plane  owner  would  be  less  likely  to  properly
+maintain  the  plane,  it’s  treating  the  evidence  as  a  method  of
+asserting  the  defendant’s  negligence,  a  use  that  would  fly
+
+463
+
+squarely in the face of FRE 411.
+
+IV.  SETTLEMENTS AND PLEA BARGAINS
+
+A.  Settlements
+
+Question 12: Carr, a driver, ran into and injured Pedersen, a
+pedestrian. Pedersen has sued Carr, alleging that Carr, while
+drunk, struck Pedersen who was in a duly marked crosswalk.
+Pedersen’s  counsel  wishes  to  prove  that  after  the  accident
+Carr went to Pedersen and offered $1,000 to settle Pedersen’s
+claim.
+
+The trial judge should rule this evidence
+
+(A)  admissible as an admission of a party.
+(B)    admissible  as  an  admission  to  show  Carr’s  liability,
+provided the court gives a cautionary instruction that the
+statement  should  not  be  considered  as  bearing  on  the
+issue of damages.
+
+(C)  inadmissible since it is not relevant either to the question
+
+of liability or the question of damages.
+
+(D)    inadmissible  because  even  though  it  is  relevant  and  an
+admission,  the  policy  of  the  law  is  to  encourage
+settlement negotiations.
+
+Answer  12:  Choice  (D)  is  correct.  This  choice  correctly
+characterizes the statement as relevant and an admission, and
+correctly  concludes  that  the  evidence  will  be  inadmissible
+due to public policy considerations. What’s being proffered is
+a settlement offer by Carr. But under FRE 408, admissions in
+conjunction  with  settlement  negotiations  are  inadmissible  to
+prove negligence, liability, or a claim’s value. That’s the case
+here.
+(A)  is  wrong  because  FRE  408  says  that  statements  in
+conjunction  with  settlement  offers  are  inadmissible  to  prove
+negligence,  liability,  or  a  claim’s  value.  So  even  though
+Carr’s  statement  would  otherwise  be  admissible  as  an
+admission  by  a  party-opponent,  the  special  rule  of  FRE  408
+makes it inadmissible.
+(B)  is  wrong  because  a  limiting  instruction  would  not  make
+the  evidence  here  admissible.  FRE  408  makes  the  statement
+
+464
+
+inadmissible  as  a  statement  in  connection  with  a  settlement
+negotiation, and that’s true if it’s offered to prove liability, not
+just  if  it’s  offered  to  prove  damages.  So  the  limiting
+instruction wouldn’t get around the FRE 408 problem.
+
+(C)  is  wrong  because  it  misstates  the  facts — the  settlement
+offer is relevant. The settlement offer could be taken to mean
+that  Carr  acknowledges  his  own  guilt.  Thus,  it’s  relevant  to
+the issue of fault. The problem is that the evidence is barred
+by  the  special  settlement-offers  rule  of  FRE  408,  not  that  it
+fails to be relevant to any issue in the case.
+
+465
+
+CHAPTER 3
+EXAMINATION AND IMPEACHMENT OF
+WITNESSES
+
+I.    PRESENT RECOLLECTION REFRESHED
+
+AND OTHER TECHNIQUES
+
+A.  Not evidence
+
+Question 13: A defendant is sued for hitting a pedestrian with
+his  car.  On  the  evening  of  the  day  of  the  accident,  a  person
+who had been a passenger in the defendant’s car wrote a letter
+to the passenger’s sister in which he described the accident.
+When  the  passenger  testified  at  trial,  he  stated  that  he  could
+not  remember  some  details  of  the  accident.  The  pedestrian’s
+counsel now seeks to show him the letter to assist him in his
+testimony  on  direct  examination.  The  trial  judge  should  rule
+this
+
+(A)    permissible,  under  the  doctrine  of  present  recollection
+
+refreshed.
+
+(B)    permissible,  under  the  doctrine  of  past  recollection
+
+recorded.
+
+(C)    objectionable,  because  the  letter  was  not  a  spontaneous
+
+utterance.
+
+(D)    objectionable,  because  the  letter  is  a  self-serving
+declaration insofar as the passenger is concerned.
+Answer  13:  Choice  (A)  is  correct.  Under  the  doctrine  of
+present  recollection  refreshed,  any  item  may  be  used  to
+refresh  the  witness’s  memory,  including  leading  questions,
+documents,  or  objects.  If  the  witness,  having  seen  the
+refreshing  object,  can  testify  from  memory,  the  item  will  not
+be  considered  evidence.  See  FRE  612,  implicitly  allowing
+the present recollection refreshed technique, subject to certain
+limitations  (which  don’t  affect  the  outcome  here).  (If  the
+witness cannot testify from memory even after reviewing the
+item,  then  the  item  may  be  admissible  as  a  past  recollection
+recorded,  if  the  situation  meets  the  requirements  of  FRE
+
+466
+
+803(5),  which  the  situation  here  has  not  yet  been  shown  to
+do).  Here,  all  you’re  told  is  that  the  pedestrian’s  counsel  is
+seeking  to  show  the  letter  to  the  passenger  to  help  the
+passenger  testify.  This  “refreshment”  is  valid  under  the
+present recollection refreshed technique.
+
+(B)  is  wrong,  because  the  doctrine  of  past  recollection
+recorded  has  not  yet  been  shown  to  apply  to  these  facts.
+Under  FRE  803(5),  a  document  is  only  admissible  as  a  past
+recollection recorded if it meets these requirements: (A) it “is
+on  a  matter  the  witness  once  knew  about  but  now  cannot
+recall  well  enough  to  testify  fully  and  accurately”;  (B)  it
+“was  made  or  adopted  by  the  witness  when  the  matter  was
+fresh in the witness’s memory”; and (C) it “accurately reflects
+the witness’s knowledge.”
+
+At the point in time you’re asked about, the letter does not yet
+qualify  for  the  doctrine.  The  proponent  wants  to  show  the
+witness  the  letter  “to  assist  him  in  his  testimony  on  direct
+examination.” That’s a classic use of the present recollection
+refreshed technique, in which the document does not become
+evidence.  So  applying  the  doctrine  of  past  recollection
+recorded  here  would  be  “jumping  the  gun” — it  should  only
+be used as a last resort if the revivifying document does not,
+in  fact,  jog  the  witness’s  memory  (and  in  that  case,  the
+document itself would be evidence, not merely used “to assist
+[the  witness]  in  his  testimony,”  which  is  the  use  that  you’re
+asked to evaluate.)
+
+(C) is wrong, because it ignores the fact that the letter can be
+used to refresh the passenger’s memory, and because there is
+no “spontaneous utterance” exception to the hearsay rule.
+Choice C implicitly recognizes that there’s a hearsay problem
+with  the  letter  itself.  Hearsay  is  an  out-of-court  statement
+offered  to  prove  the  truth  of  its  assertion.  Here,  the  out-of-
+court  declarant  is  the  passenger  himself.  However,  the  letter
+isn’t  being  offered  into  evidence  at  all — it’s  merely  being
+used  to  refresh  the  passenger’s  memory.  As  a  result,  its  use
+does not need to satisfy a hearsay objection — the letter may
+be  used  as  non-evidence,  under  the  doctrine  of  present
+recollection refreshed.
+
+467
+
+the 
+
+“spontaneous 
+
+is  not  a
+the  phrase  “spontaneous  utterance” 
+Further, 
+recognized  exception  to  the  hearsay  rule  under  the  FRE.
+Situations  qualifying  for  what  the  common  law  might  have
+are
+called 
+approximately  covered,  in  the  FRE,  under  either  the  present
+sense  impression  or  the  excited  utterance  exceptions.  But
+under the FRE, the letter would not qualify either as a present
+sense  impression  or  an  excited  utterance,  due  to  its  lack  of
+temporal  proximity  to  the  accident  (since  it  was  not  written
+until the evening of the day of the accident).
+
+utterance” 
+
+exception 
+
+(D)  is  wrong,  because  the  self-serving  nature  of  the  letter
+would  not  prevent  its  being  used  to  refresh  the  passenger’s
+memory.  Choice  D  misses  the  mark  in  at  least  two  respects.
+First,  it  suggests  that  the  letter  itself  is  being  offered  as
+evidence.  In  fact,  it’s  not — all  that’s  happening  is  that  the
+pedestrian’s  counsel  is  seeking  to  show  the  passenger  the
+letter to help him with his testimony.
+
+Second,  even  if  the  letter  were  being  offered  into  evidence,
+the  self-serving  nature  of  the  letter  wouldn’t  be  a  problem,
+because  the  self-serving  nature  of  any  evidence  affects  its
+credibility,  not  its  admissibility.  Instead,  if  the  letter  itself
+was  being  offered,  there’d  be  a  hearsay  problem,  since  it
+would be an out-of-court statement offered to prove the truth
+of what it contains — namely, the passenger’s recollections of
+the accident.
+
+II.   IMPEACHMENT BY PRIOR BAD ACTS
+
+A.  Federal Rule
+
+1.  May bring out on cross
+
+a.  Applies to any witness
+
+Question 14:  In  an  automobile  negligence  action  by  Popkin
+against  Dwyer,  Juilliard  testified  for  Popkin.  Dwyer  later
+called  Watts,  who  testified  that  Juilliard’s  reputation  for
+truthfulness was bad.
+On cross-examination of Watts, Popkin’s counsel asks, “Isn’t
+it  a  fact  that  when  you  bought  your  new  car  last  year,  you
+made a false affidavit to escape paying the sales tax?”
+
+468
+
+This question is
+
+(A)    proper,  because  it  will  indicate  Watts’s  standard  of
+
+judgment as to reputation for truthfulness.
+(B)  proper, because it bears on Watts’s credibility.
+(C)  improper, because character cannot be proved by specific
+
+instances of conduct.
+
+(D)    improper,  because  one  cannot  impeach  an  impeaching
+
+witness.
+
+Answer  14:  Choice  (B)  is  correct.  A  witness’s  credibility
+may  be  impeached  by  evidence  of  specific  instances  of
+conduct  reflecting  on  his  truthfulness,  but  only  by  the  cross-
+examiner’s  making  “inquiry”  into  those  specific  instances
+during  the  cross-examination  of  that  witness.  FRE  608(b).
+Since  Watts  is  on  the  stand  and  being  cross-examined,  the
+question  about  his  prior  act  of  dishonesty  meets  these
+requirements  (it’s  probative  of  his  general  truthfulness,  and
+what  Popkin’s  counsel  is  doing  is  merely  making  “inquiry”
+into the act). The fact that Watts is a witness called solely to
+give  impeachment  testimony,  as  opposed  to  substantive  or
+occurrence-type testimony, doesn’t matter — any witness may
+be  impeached  by  inquiry  into  specific  past  conduct  of  the
+witness that is probative of untruthfulness.
+
+(A)  is  wrong  because  Watts  is  not  being  asked  about  the
+reputation  testimony,  but  is  instead  being  impeached  on
+account  of  his  own  bad  acts.  So  what  Watts’  standard  is  for
+judging reputation is not what the question is about.
+
+(C) is wrong because there is an exception to the general rule
+that,  for  the  purpose  of  attacking  a  witness’s  character  for
+truthfulness, specific instances of conduct may not be proved
+by extrinsic evidence. The judge may, in her discretion, allow
+such evidence if it is brought out through cross examination of
+the witness whose credibility is being attacked and if the bad
+acts  are  probative  of  truthfulness  or  untruthfulness.  FRE
+608(b).  Watts  is  being  cross-examined  with  evidence  of  his
+falsifying an affidavit to avoid paying sales tax on the sale of
+a new car. The act is probative of untruthfulness and is being
+brought  out  on  cross-examination.  Therefore,  the  question  is
+proper  even  though  it  involves  a  specific  instance  of  the
+
+469
+
+witness’s past conduct.
+
+(D) is wrong because it states a non-existent rule: There is no
+rule against “impeaching an impeaching witness.”
+
+III.  IMPEACHMENT BY PRIOR INCONSISTENT
+
+STATEMENT
+
+A.  General rule
+
+Question  15:  Davidson  and  Smythe  were  charged  with
+burglary  of  a  warehouse.  They  were  tried  separately.  At
+Davidson’s  trial,  Smythe  testified  that  he  saw  Davidson
+commit the burglary. While Smythe is still subject to recall as
+a  witness,  Davidson  calls  Smythe’s  cellmate,  Walton,  to
+testify  that  Smythe  said,  “I  broke  into  the  warehouse  alone
+because Davidson was too drunk to help.”
+This evidence of Smythe’s statement is
+
+(A)  admissible as a declaration against penal interest.
+(B)  admissible as a prior inconsistent statement.
+(C)    inadmissible,  because  it  is  hearsay  not  within  any
+
+exception.
+
+(D)    inadmissible,  because  the  statement  is  not  clearly
+
+corroborated.
+
+Answer 15: Choice (B) is correct. Under FRE 613(b), when
+a  witness  testifies  at  trial,  evidence  of  his  prior  inconsistent
+statement  is  admissible  to  impeach  his  credibility  (if  a
+foundation  is  laid  either  before  or  after  the  impeachment
+where  the  witness  has  an  opportunity  to  explain  or  deny  the
+statement and where the opposite party has the opportunity to
+interrogate  the  witness).  Since  Smythe  is  “still  subject  to
+recall  as  a  witness,”  the  foundation  can  be  laid.  In  addition,
+some types of prior inconsistent statements are not barred by
+the hearsay rule and may be admitted as substantive proof of
+the matters contained in the statement — i.e., those made in an
+earlier  trial  or  proceeding,  where  the  declarant  spoke  under
+oath  and  subject  to  perjury  penalties.  FRE  801(d)(1).  Since
+Smythe’s statement was not under oath, it may not be admitted
+substantively.  Therefore,  the  statement  is  admissible  as  a
+prior  inconsistent  statement,  but  only  for  impeachment
+
+470
+
+purposes. (Note that this answer is correct because Smythe is
+a  non-party  in  this  action.  If  Smythe  were  on  trial  here,  his
+prior statement would be admissible for substantive purposes,
+as an admission.)
+
+(A) is wrong because the declarant is available. Under FRE
+804(b)(3),  the  requirements  for  the  declaration-against-
+interest exception are: (1) the declaration must be against the
+declarant’s pecuniary or proprietary interest when made; (2)
+the declarant must be unavailable; and (3) the declarant must
+have  had  first-hand  knowledge  of  the  facts  asserted  in  the
+declaration.  The  fact  pattern  indicates  that  Smythe  is  still
+subject to recall as a witness when Walton is testifying about
+Smythe’s prior statement, so he is available.
+
+(C) is wrong because, although it is correct in identifying the
+statement  as  hearsay  not  within  any  exception,  it  does  not
+recognize  that  the  statement  would  still  be  admissible  for
+impeachment purposes.
+
+(D)  is  wrong  because  the  statement  is  admissible,  and  the
+requirement of corroboration does not apply in the context of
+a  prior  inconsistent  statement,  but  rather,  to  the  hearsay
+exception  for  declarations  against  interest.  FRE  804(b)(3),
+which  provides  for  the  hearsay  exception  for  declarations
+against interest, denies the exception for a statement “offered
+in a criminal case as one that tends to expose the declarant to
+criminal  liability,”  unless  the  statement  “is  supported  by
+its
+corroborating  circumstances 
+trustworthiness[.]” This is the source of the language in (D),
+but  it  does  not  apply  here.  If  the  declarant  was  unavailable
+and the exception was applied, then corroboration would  be
+required.
+
+that  clearly 
+
+indicate 
+
+B.  Special rules from FRE 613
+
+1. 
+
+  “Extrinsic  evidence,”  and  the  “explain  or  deny”  and
+“interrogate” rules
+
+Question 16: Perez sued Dawson for damages arising out of
+an  automobile  collision.  At  trial,  Perez  called  Minter,  an
+eyewitness  to  the  collision.  Perez  expected  Minter  to  testify
+that she had observed Dawson’s automobile for five seconds
+prior  to  the  collision  and  estimated  Dawson’s  speed  at  the
+
+471
+
+time of the collision to have been 50 miles per hour. Instead,
+Minter  testified  that  she  estimated  Dawson’s  speed  to  have
+been 25 miles per hour.
+
+Without  finally  excusing  Minter  as  a  witness,  Perez  then
+called Wallingford, a police officer, to testify that Minter had
+told  him  during  his  investigation  at  the  accident  scene  that
+Dawson “was doing at least 50.”
+
+Wallingford’s testimony is
+
+(A)  admissible as a present sense impression.
+(B)  admissible to impeach Minter.
+(C)    inadmissible,  because  Perez  may  not  impeach  his  own
+
+witness.
+
+(D)    inadmissible,  because  it  is  hearsay  not  within  any
+
+exception.
+
+to 
+
+is  admissible 
+
+Answer 16: Choice (B) is correct. Under FRE 613(b), when
+a  witness  testifies  at  trial,  extrinsic  evidence  of  his  prior
+inconsistent  statement 
+impeach  his
+credibility,  so  long  as  the  witness  has  an  opportunity  to
+explain  or  deny  the  statement  and  the  opposite  party  has  the
+opportunity  to  interrogate  the  witness  about  it.  Wallingford’s
+testimony  as  to  Minter’s  statement  at  the  accident  scene 
+— “the  driver  (defendant)  was  doing  at  least  50” — is
+inconsistent with Minter’s previous testimony at trial that the
+defendant’s  speed  was  25  miles  per  hour.  The  fact  pattern
+indicates  that  Minter  was  not  excused  as  a  witness  and  that
+therefore  there  exists  the  opportunity  for  him  to  explain  or
+deny the statement and to be interrogated on it by the opposite
+party (Dawson).
+
+(A)  is  wrong  because  the  statement  was  not  made  close
+enough to the time of the accident. FRE 803(1) provides for
+the hearsay exception of a present sense impression, defined
+as  a  statement  “describing  or  explaining  an  event  or
+condition,  made  while  or  immediately  after  the  declarant
+perceived  it.”  Minter’s  statement  was  made  to  the  police
+officer during the investigation of the accident scene so it was
+not made immediately after viewing the collision.
+(C)  is  wrong  because  “Any  party,  including  the  party  that
+called the witness, may attack the witness’s credibility.” FRE
+
+472
+
+607.
+
+(D)  is  wrong  because  what  Minter  said  to  the  Officer  is  not
+hearsay.  The  out-of-court  statement  at  issue  is  Minter’s
+statement to the officer, “Dawson was doing at least 50.” But
+the statement is not being offered to prove that Dawson really
+was doing at least 50 — it’s merely being used to cast doubt
+on the credibility of Minter’s in-court statement that Dawson
+was  doing  25.  If  the  statement  to  the  officer  were  being
+offered  as  substantive  evidence,  i.e.,  to  prove  that  Dawson
+really was “doing at least 50,” then it would be inadmissible
+hearsay.
+
+a.  Application to hearsay declarants
+
+Question  17:  A  defendant  is  charged  with  the  murder  of  a
+victim.  The  prosecutor  introduces  testimony  of  a  police
+officer  that  the  victim  told  a  priest,  administering  the  last
+rites, “I was stabbed by [the defendant]. Since I am dying, tell
+him I forgive him.” Thereafter, the defendant’s attorney offers
+the testimony of a witness that the day before, when the victim
+believed he would live, he stated that he had been stabbed by
+a person other than the defendant.
+
+The testimony of the witness is
+
+(A)  admissible under an exception to the hearsay rule.
+(B)  admissible to impeach the dead declarant.
+(C)  inadmissible, because it goes to the ultimate issue in the
+
+case.
+
+(D)    inadmissible,  because  it  is  irrelevant  to  any  substantive
+
+issue in the case.
+
+Answer  17:  Choice  (B)  is  correct.  The  victim’s  initial
+statement about the defendant was hearsay, but was properly
+admitted  under  FRE  804(b)(2)’s  “dying  declaration”
+exception, because it was made by a person now unavailable
+to testify, believing he was about to die, concerning personal
+knowledge of the cause of death, and the statement is offered
+at  either  a  criminal  homicide  trial  or  a  civil  wrongful  death
+suit.  Since  that  statement  came  in,  the  victim’s  prior
+inconsistent  statement  (about  the  stabber  being  a  different
+person,  not  the  defendant)  can  be  used  to  impeach  his
+credibility,  since  hearsay  declarants  can  be  impeached.  See
+
+473
+
+FRE 806: “When a hearsay statement . . . has been admitted in
+evidence, the declarant’s credibility may be attacked, and then
+supported,  by  any  evidence  that  would  be  admissible  for
+those purposes if the declarant had testified as a witness.”
+
+prior-inconsistent-statement 
+
+Note that this impeaching evidence would not be admissible
+substantively,  since  it  does  not  fulfill  the  requirements  of
+hearsay
+801(d)(1)(A)’s 
+exclusion — the  prior 
+is  only
+admissible  substantively  if  the  statement  was  made  under
+oath,  at  a  prior  proceeding,  subject  to  perjury,  with  the
+declarant now being the testifying witness; here, the victim’s
+statement about the third person was not made under oath or at
+a proceeding, so it’s admissible only for impeachment.
+
+inconsistent 
+
+statement 
+
+(A) is wrong, because the witness’s testimony does not fit an
+exception  to  the  hearsay  rule;  it’s  inadmissible  hearsay.  In
+particular,  the  statement  does  not  fit  the  most  obvious
+exception,  the  “dying  declaration”  exception  to  the  hearsay
+rule,  because  the  victim  did  not  have  an  impending  sense  of
+death  when  he  made  the  statement.  FRE  804(b)(2).  The
+rationale behind the exception is that no one wants to die with
+a lie on his lips; where a person thinks he’s going to live, this
+is not applicable. (Also, the statement will not be admissible
+substantively as a prior inconsistent statement, for the reasons
+discussed in Choice (B) above).
+
+(C)  is  wrong  because  the  FRE  do  not  condition  the
+admissibility  of  a  statement  on  whether  it  addresses  an
+“ultimate issue.” See FRE 704(a).
+
+(D)  is  wrong,  because  the  testimony  is  relevant  to  a
+substantive issue in the case. A piece of evidence is logically
+relevant if it tends to prove or disprove a material fact. FRE
+401.  If  the  victim’s  prior  statement  about  the  third  person
+being the stabber is true, it will tend to prove that the victim
+was lying about the defendant’s stabbing him, and thus make it
+less likely that the defendant is guilty of murder. As a result,
+it’s extremely relevant!
+
+IV.  IMPEACHMENT BY CONTRADICTION; THE
+
+“COLLATERAL ISSUE” RULE
+
+474
+
+A.  Collateral issue rule
+
+1.  Disallowed
+
+Question  18:  A  plaintiff  sued  a  defendant  for  injuries  the
+plaintiff  received  in  an  automobile  accident  where  the
+defendant was the driver. The plaintiff claimed the defendant
+was negligent in exceeding the posted speed limit of 35 m.p.h.
+A bystander who saw the accident testified as an eyewitness
+for  the  plaintiff  and  stated  on  cross-examination  that  the
+defendant  was  wearing  a  green  sweater  at  the  time  of  the
+accident.  At  the  start  of  the  defendant’s  case,  the  defendant
+testified that he was going 30 m.p.h. The defendant’s counsel
+then called a second witness, who also observed the accident,
+to  testify  solely  that  the  defendant’s  sweater  was  blue.  The
+second witness’s testimony is
+(A)  admissible as substantive evidence of a material fact.
+(B)  admissible as bearing on the bystander’s truthfulness and
+
+veracity.
+
+(C)  inadmissible, because it has no bearing on the capacity of
+
+the bystander to observe.
+
+(D)    inadmissible,  because  it  is  extrinsic  evidence  of  a
+
+collateral matter. 
+
+Answer 18: Choice (D) is correct. The defendant’s counsel is
+attempting to impeach the bystander with evidence that is not
+from  the  bystander’s  own  mouth — in  other  words,  by
+“extrinsic” evidence. Evidence that only discredits a witness,
+without  bearing  on  any  substantive  issues  in  the  case,  is
+called “collateral,” and in most instances is not admissible if
+it  is  extrinsic.  Evidence  that  discredits  the  witness  by
+showing  that  the  witness  gave  incorrect  testimony  in  the
+present case about an immaterial issue falls into this category
+of inadmissible extrinsic evidence on collateral matters. The
+FRE do not specifically recite this rule, but it is a common-
+law rule that is universally observed by courts following the
+FRE.  Here,  the  issues  in  the  case  involve  only  the  driving
+behavior  of  the  defendant.  The  color  of  his  sweater  is  not  a
+material issue; all the second witness’s testimony will serve
+to  do  is  slightly  discredit  the  bystander  by  contradiction.  So
+it’s  a  classic  illustration  of  the  “no  extrinsic  evidence  on
+
+475
+
+collateral matters” rule.
+
+(A) is wrong because it mischaracterizes the facts: The color
+of  the  defendant’s  sweater  is  not  a  material  fact  (it  doesn’t
+relate to any of the substantive issues in the case). It is instead
+a  “collateral”  matter — relevant  only  to  discredit  a  witness,
+the  bystander.  As  such,  it  will  not  be  admissible,  under  the
+common-law  rule  against  extrinsic  evidence  on  collateral
+matters, applicable as a “gap filler” to cases governed by the
+FRE.
+
+(B)  is  wrong  because  the  testimony  here  could  not  be
+admitted  on  the  subject  of  the  bystander’s  truthfulness  and
+veracity.  It’s  true  that  the  testimony  has  some  bearing  on  the
+bystander’s  truthfulness,  because  it  contradicts  his  testimony
+(and  thus  raises  the  question,  “If  he  is  lying  or  mistaken  on
+this point, isn’t he likely to be lying or mistaken about some
+really  important  fact  in  his  testimony?”)  But  because  the
+contradiction about the color of the sweater does not touch on
+any substantive issue in the case, and does not bear on other
+issues  considered  highly 
+important  aspects  of  witness
+veracity  (e.g.,  presence  of  bias),  its  impeachment  effect  is
+considered  minor,  and  not  worth  the  trouble  of  calling  a
+separate  witness.  Therefore,  it  falls  within  the  general
+common-law  rule  that  extrinsic  impeachment  evidence  on  a
+collateral matter is not allowed.
+
+(C)  is  wrong  because  it  misstates  the  facts — the  testimony
+would  (or  at  least  might)  bear  on  the  bystander’s  ability  to
+observe.  Any  contradiction  of  witness  1’s  testimony  by
+witness  2  about  a  matter  that  witness  1  said  he  observed
+would  or  might  bear  on  witness  1’s  ability  to  observe.  But
+where  the  contradiction  is  on  a  point  that  does  not  matter
+substantively,  and  is  not  on  some  other  kind  of  issue  that  is
+considered  important  to  credibility  (e.g.,  bias  on  the  part  of
+witness  1),  the  contradiction  is  excludable  based  on  the
+common-law  rule  barring  extrinsic  evidence  (i.e.,  evidence
+from a separate witness or document) on a collateral matter.
+
+476
+
+CHAPTER 4
+HEARSAY
+
+I.    DEFINITION
+
+A.  Definition
+
+1.  Hearsay may be by the present witness
+
+a.  Statement about what declarant previously said
+
+Question 19:  Pawn  sued  Dalton  for  injuries  received  when
+she  fell  down  a  stairway  in  Dalton’s  apartment  building.
+Pawn, a guest in the building, alleged that she caught the heel
+of  her  shoe  in  a  tear  in  the  stair  carpet.  Pawn  calls  Witt,  a
+tenant, to testify that Young, another tenant, had said to him a
+week before Pawn’s fall: “When I paid my rent this morning, I
+told the manager he had better fix that torn carpet.”
+
+Young’s statement, reported by Witt, is
+
+(A)  admissible, to prove that the carpet was defective.
+(B)  admissible, to prove that Dalton had notice of the defect.
+(C)    admissible,  to  prove  both  that  the  carpet  was  defective
+
+and that Dalton had notice of the defect.
+
+(D)    inadmissible,  because  it  is  hearsay  not  within  any
+
+exception.
+
+Answer 19: Choice (D) is correct. Young’s statement, “I told
+the manager he had better fix that torn carpet,” is an “out-of-
+court statement” being offered to “prove the truth of the matter
+asserted,”  that  Young  told  the  manager  about  the  needed
+repair  and  that,  therefore,  the  manager  knew  of  the  ripped
+carpet. In other words, Young’s out-of court-statement “I told
+the  manager  X”  is  being  offered  to  show  that  Young,  the
+declarant,  indeed  told  the  manager  X.  So  the  statement  is
+inadmissible  hearsay  if  offered  for  that  purpose.  FRE  801.
+(Notice that this would be hearsay whether or not X was itself
+true.) And there is no other plausible purpose for which it is
+being offered on these facts.
+(A) is wrong because the statement is inadmissible to prove
+that the carpet was defective, because it is hearsay not within
+
+477
+
+any  exception,  as  discussed  in  Choice  (D).  The  statement
+can’t  tend  to  prove  that  the  carpet  was  defective  unless  the
+trier  first  believes  that  Young  made  the  statement  about  a
+defect to the manager; so the statement “Young told me he had
+told  the  manager  X”  would  be  offered  to  prove  that  Young
+indeed  told  the  manager  X,  and  that  would  be  an  offer  to
+prove the truth of the matter asserted.
+
+(B)  is  wrong  because  the  statement  is  inadmissible  hearsay,
+as  explained  in  the  discussion  of  (D).  Young’s  statement  “I
+told the manager thus-and-such” is being offered to prove that
+Young, the declarant, indeed told the manager thus-and-such.
+So  even  if  the  statement  is  not  being  offered  to  prove  that
+Young’s  statement  to  the  manager  was  true  (and  instead
+offered to merely prove “notice” to the manager of a fact that
+might  or  might  not  be  true),  Young’s  statement  to  Witt  that
+Young  had  previously  made  the  statement  to  the  manager  is
+inadmissible hearsay.
+
+(C)  is  wrong  because,  as  discussed  in  (D),  the  statement  is
+inadmissible for both these purposes.
+
+B.  Illustrations
+
+Question 20: In a jurisdiction without a Dead Man’s Statute,
+a  plaintiff’s  estate  sued  a  defendant  claiming  that  the
+defendant  had  borrowed  from  the  plaintiff  $10,000,  which
+had  not  been  repaid  as  of  the  plaintiff’s  death.  The  plaintiff
+was  run  over  by  a  truck.  At  the  accident  scene,  while  dying
+from  massive  injuries,  the  plaintiff  told  a  police  officer  to
+“make  sure  my  estate  collects  the  $10,000  I  loaned  to  the
+defendant.”
+
+The officer’s testimony about the plaintiff’s statement is
+(A)  inadmissible, because it is more unfairly prejudicial than
+
+probative.
+
+(B)    inadmissible,  because  it  is  hearsay  not  within  any
+
+exception.
+
+(C)  admissible as an excited utterance.
+(D)    admissible  as  a  statement  under  belief  of  impending
+
+death.
+
+Answer 20: Choice (B) is correct. First, let’s look at whether
+
+478
+
+the  statement  was  hearsay.  It’s  clearly  an  out-of-court
+declaration.  And,  the  statement  includes  the  plaintiff’s
+assertion that he’s owed $10,000 by the defendant, offered to
+prove that the defendant does indeed owe this money. So the
+statement easily fits within the definition of hearsay — out-of-
+court  statement  offered  to  prove  the  truth  of  the  matter
+asserted.  Now,  does  some  exception  apply?  No.  The  two
+most  plausible  ones  are  the  excited  utterance  exception  (not
+applicable because the statement doesn’t relate to the exciting
+event — see  the  discussion  of  Choice  (C)  below)  and  the
+dying  declaration  exception  (not  applicable  because  the
+statement  doesn’t  relate  to  the  cause  of  impending  death — 
+see the discussion of Choice (D) below).
+
+(A)  is  wrong  because  the  statement  here  is  not  especially
+prejudicial,  so  it’s  unlikely  that  the  statement’s  probative
+value would be found to be “substantially outweighed” by its
+prejudicial effect, as FRE 403’s balancing test requires as a
+basis for exclusion.
+
+(C) 
+is  wrong  because  FRE  803(2)’s  excited-utterance
+exception applies to “a statement relating to a startling event
+or condition, made while the declarant was under the stress
+of  excitement  that  it  caused.”  As  you  can  see  from  the
+italicized  phrase,  the  statement  has  to  relate  to  the  startling
+event. The plaintiff’s comment here relates solely to the debt,
+not to the startling event (the truck accident).
+
+(D) is wrong because the plaintiff’s comment did not concern
+the  cause  or  circumstance  of  his  death.  FRE  804(b)(2)’s
+dying-declaration  exception  applies  to  (in  a  civil  case  or
+homicide  prosecution)  “a  statement  that  the  declarant,  while
+believing the declarant’s death to be imminent, made about its
+cause  or  circumstances.”  Since  the  plaintiff’s  statement
+related  only  to  the  collection  of  the  debt,  not  to  the  truck
+accident that was about to cause his death, it doesn’t qualify.
+
+II.   SPECIAL ISSUES
+
+A.  “Truth of matter asserted”
+
+1.  Verbal acts
+
+479
+
+Question  21:  In  a  suit  based  on  a  will,  inheritance  of  $1
+million  depended  upon  whether  the  wife  had  survived  her
+husband when both died in the crash of a small airplane. An
+applicable  statute  provided  that,  for  purposes  of  distributing
+an  estate  after  a  common  disaster,  there  was  a  rebuttable
+presumption  that  neither  spouse  had  survived  the  other.  A
+witness was called to testify that as she approached the plane
+she heard what she thought was a woman’s voice saying, “I’m
+dying,” although by the time the two occupants were removed
+from the wreckage they were both dead.
+
+Is the witness’s testimony admissible?
+
+(A)    No,  because  the  matter  is  governed  by  the  presumption
+
+that neither spouse survived the other.
+
+(B)  No, because the witness’s testimony is too speculative to
+
+support a finding.
+
+(C)  Yes, because the hearsay rule does not apply to statements
+by decedents in actions to determine rights under a will.
+(D)  Yes, because it is relevant and not otherwise prohibited.
+Answer 21: Choice (D)  is  correct.  The  witness  is  testifying
+as  to  what  she  heard  someone  say  outside  of  the  courtroom.
+But  this  is  not  hearsay,  because  although  the  witness  is
+recounting  an  out-of-court  statement,  that  statement  is  not
+being offered to prove the truth of the matter asserted therein,
+i.e., that the declarant was, in fact, dying. Rather, the statement
+is being offered to prove only that it was made, because that
+fact  has  independent  legal  significance.  As  such,  it  is
+classified as a verbal act, i.e., an operative fact that gives rise
+to legal consequences. Thus, the statement does not constitute
+hearsay  as  defined  by  FRE  801(c)  and,  therefore,  is  not
+barred  by  FRE  802.  And  it  is  relevant  as  it  helps  establish
+that the wife survived the husband.
+(A)  is  wrong  because  under  the  majority  common  law
+“bursting  bubble”  rule,  which  is  followed  by  FRE  301,  a
+presumption  disappears  when  sufficient  counterproof  is
+offered  about  the  presumed  fact.  Here  the  testimony  of  the
+witness,  although  not  conclusive,  is  sufficient  to  rebut  the
+presumption  that  neither  spouse  survived  the  other  and  to
+support  a  jury  finding  that  the  wife  outlived  the  husband.
+
+480
+
+Therefore,  the  presumption  is  no  longer  controlling,  and  the
+witness’s testimony is admissible.
+
+In any event, regardless of how (or even whether) the bursting
+bubble  rule  applies,  the  witness’s  testimony  would  be
+admissible — in  all  jurisdictions,  the  party  who  does  not
+benefit  from  a  presumption  is  always  entitled  to  submit
+otherwise-competent  evidence  rebutting  the  existence  of  the
+presumed fact.
+
+(B) is wrong because the testimony is not “too speculative.”
+A  witness  need  not  be  absolutely  certain  of  matters  about
+which the witness testifies. Here the testimony is based on the
+perception and memory of a lay witness, and thus satisfies the
+FRE 701 standard that lay testimony be “(a) rationally based
+on  the  witness’s  perception;  [and]  (b)  helpful  to  clearly
+understanding the witness’s testimony or to determining a fact
+in issue[.]”
+
+(C)  is  wrong  because  it  presumes  that  the  statement  is
+hearsay.  But  the  statement  is  not  hearsay  under  FRE  801(c),
+because it is not being offered to prove the truth of the matter
+asserted.  Instead,  the  statement  is  an  operative  fact  being
+offered  to  prove  that  the  woman  was  alive  at  the  time  she
+made  the  statement;  so  the  mere  existence  of  the  statement
+(regardless  of  its  “truth  value”)  is  relevant  on  the  issue  of
+whether the speaker survived her husband, even if by only a
+few minutes.
+
+481
+
+CHAPTER 5
+HEARSAY EXCEPTIONS AND
+EXCLUSIONS
+
+I.    ADMISSIONS
+
+A.  Personal admissions
+
+Question  22:  A  plaintiff  sued  a  defendant  for  injuries
+plaintiff  received  in  an  automobile  accident.  The  plaintiff
+claims  the  defendant  was  negligent  in  (a)  exceeding  the
+posted speed limit of 35 m.p.h., (b) failing to keep a lookout,
+and (c) crossing the center line. The defendant testified in his
+own behalf that he was going 30 m.p.h. On cross-examination,
+the  plaintiff’s  counsel  did  not  question  the  defendant  with
+regard to his speed. Subsequently, the plaintiff’s counsel calls
+an  officer  to  testify  that,  in  his  investigation  following  the
+accident,  the  defendant  told  him  he  was  driving  40  m.p.h.  If
+offered to prove that the defendant exceeded the posted speed
+limit, the officer’s testimony is
+
+(A)  admissible as a prior inconsistent statement.
+(B)  admissible as an admission.
+(C)  inadmissible, because it lacks a foundation.
+(D)    inadmissible,  because  it  is  hearsay  not  within  any
+
+exception.
+
+Answer  22:  Choice  (B)  is  correct,  because  it  correctly
+identifies  the  statement  as  an  admission,  and  declares  it
+admissible  on  that  basis.  The  plaintiff  is  offering  the
+defendant’s out-of-court statement to prove that the defendant
+was  speeding.  Since  the  statement  is  being  offered  to  prove
+the  truth  of  its  assertion,  the  statement  is  hearsay.  However,
+the  statement  will  be  admissible  under  the  admission
+exclusion to the hearsay rule. FRE 801(d)(2) gives a hearsay
+exclusion for a statement that is “offered against an opposing
+party and . . . (A) was made by the party in an individual or
+representative  capacity[.]”  Since  the  statement  was  made  by
+the defendant, and is being offered against him, it qualifies for
+this 801(d)(2)(A) exclusion for personal admissions.
+
+482
+
+(A)  is  wrong,  because  the  hearsay  exception  for  prior
+inconsistent  statements  does  not  apply  on  these  facts.  We’re
+told  that  the  statement  is  being  offered  for  the  substantive
+purpose  of  proving  that  the  defendant  was  speeding  (not
+merely for the statement’s impeachment value of showing that
+the defendant told a different story previously and is therefore
+not  worthy  of  having  his  trial  testimony  believed).  FRE
+801(d)(1)  gives  a  hearsay  exclusion  for  certain  prior
+inconsistent  statements  by  the  witness,  namely,  where  “The
+declarant testifies and is subject to cross-examination about a
+prior statement, and the statement: (A) is inconsistent with the
+declarant’s testimony and was given under penalty of perjury
+at  a 
+in  a
+trial,  hearing,  or  other  proceeding  or 
+deposition[.]”  But  there  is  no  indication  that  the  defendant’s
+prior  statement  being  recited  in  the  officer’s  testimony  was
+given  at  a  “trial,  hearing,  or  other  proceeding  or  in  a
+deposition[.]”  Therefore,  it  doesn’t  qualify  for  the  exclusion
+for prior inconsistent statements by a witness. (Instead, it can
+come  in  for  substantive  purposes  as  an  admission,  as
+described in Choice (B).)
+
+(C) is wrong, because it implicitly mischaracterizes the basis
+on  which  the  officer’s  testimony  will  be  admissible.  The
+central problem here addresses hearsay. Hearsay is an out-of-
+court  statement  offered  to  prove  the  truth  of  its  assertion.
+Since  the  officer’s  testimony  is  offered  to  prove  that  the
+defendant  was  speeding,  it  is  being  offered  as  substantive
+evidence.
+
+This  choice  implicitly  (and  wrongly)  characterizes  the
+officer’s testimony as being offered for its impeachment value
+only.  The  choice  appears  to  be  referring  to  the  common-law
+requirement  that  before  a  witness  could  be  impeached  by
+showing  that  he  made  a  prior  inconsistent  statement,  a
+foundation  had  to  be  laid  by  showing  the  witness  the
+statement,  or  disclosing  its  contents  to  him.  But  FRE  613(a)
+does  away  with  this  requirement  of  a  foundation  (“When
+examining  a  witness  about  the  witness’s  prior  statement,  a
+party  need  not  show  it  or  disclose  its  contents  to  the
+witness.”) So the lack of a foundation here would not prevent
+the  plaintiff  from  using  the  prior  statement  for  impeachment
+
+483
+
+only, if that was the plaintiff’s purpose (which the facts tell us
+it  was  not — the  statement  was  offered  for  its  substantive
+value).
+
+(D) is wrong, because it fails to realize that the testimony will
+be admissible as an admission. This choice correctly reflects
+the  fact  that  the  defendant’s  statement  to  the  officer  is  being
+offered  to  prove  the  truth  of  the  matter  asserted  in  the
+statement, and would thus normally be hearsay. What Choice
+(D)  fails  to  realize  is  that  the  testimony  is  an  admission,
+rendered non-hearsay by FRE 801(d)(2), as explained in the
+discussion of Choice (B) above.
+
+Question 23: A defendant ran into and injured the plaintiff, a
+pedestrian.  The  plaintiff  alleges  that  the  defendant,  while
+drunk,  struck  the  plaintiff,  who  was  in  a  duly  marked
+crosswalk.  A  police  officer  investigated  the  accident,  and
+plaintiff’s  counsel  wants  to  introduce  testimony  of  the
+investigating police officer that the defendant told the officer,
+“I think this was probably my fault.”
+
+The trial judge should rule this testimony
+
+(A)  admissible as a part of the res gestae.
+(B)  admissible as an admission of a party.
+(C)  inadmissible, because it includes a conclusion of law that
+
+the declarant was not qualified to make.
+
+(D)  inadmissible, because it constitutes an opinion rather than
+
+an admission of specific facts.
+
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+
+Answer  23:  Choice  (B)  is  correct.  This  choice  implicitly
+recognizes  that  there’s  a  hearsay  problem  under  these  facts.
+Hearsay is an out-of-court statement offered to prove the truth
+of  its  assertion.  Here,  the  out-of-court  declarant  is  the
+defendant: “I think this was probably my fault.” The statement
+is being offered to prove that the defendant was at fault, so it’s
+hearsay,  and  it  will  only  be  admissible  if  it  fits  a  hearsay
+exception or exclusion.
+FRE  801(d)(2)  gives  a  hearsay  exclusion  for  a  “statement
+[that] is offered against an opposing party and: (A) was made
+by  the  party  in  an  individual  or  representative  capacity[.]”
+Since  the  statement  was  made  by  the  defendant  in  an
+individual  capacity,  and  is  being  offered  against  him,  it
+
+484
+
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+
+qualifies for the admission exclusion.
+
+(A)  is  wrong,  because  res  gestae  as  a  concept  is  not
+recognized by the Federal Rules. At common law, res gestae
+represented  the  group  of  spontaneous  hearsay  declarations
+that were collectively considered admissible because of their
+proximity to an act or event. What would be the res gestae at
+common law is essentially covered, in the Federal Rules, by
+the  categories  of  declarations  of  present  bodily  or  mental
+state, excited utterances, and present sense impressions. Even
+if  res  gestae  as  a  concept  were  recognized  by  the  Federal
+Rules, it wouldn’t apply here, because the defendant made the
+statement  at  the  police  station,  so  it  wouldn’t  be  sufficiently
+proximate to the accident to be part of what the common law
+would have called res gestae.
+
+(C)  is  wrong,  because  it  misstates  the  law.  This  choice
+suggests that the defendant’s statement will not be admissible
+because it includes a conclusion of law, namely, that he’ll be
+legally liable for causing the accident. However, admissions
+by a party, introduced against that party, are not disqualified
+from admissibility merely because they state a conclusion of
+law.
+(D) is wrong, because the fact that the statement included an
+opinion is irrelevant. This choice suggests that the defendant’s
+statement  will  not  be  admissible  because  it  includes  an
+opinion  as  to  a  conclusion  of  law,  rather  than  a  statement
+about  specific  facts.  However,  admissions  by  a  party,
+introduced  against  that  party,  are  not  disqualified  from
+admissibility merely because they state an opinion and do not
+refer to specific facts.
+
+1.  Question may not say “admission”
+
+Question 24: A defendant was on trial for perjury for having
+falsely testified in an earlier civil case that he knew nothing
+about a business fraud. In the perjury trial, the defendant again
+testified  that  he  knew  nothing  about  the  business  fraud.  In
+rebuttal, the prosecutor called a witness to testify that after the
+civil  trial  was  over,  the  defendant  admitted  to  the  witness
+privately that he had known about the fraud.
+Is the witness’s testimony in the perjury trial admissible?
+
+485
+
+(A)  Yes, but only to impeach the defendant’s testimony.
+(B)    Yes,  both  to  impeach  the  defendant’s  testimony  and  as
+
+substantive evidence of the perjury.
+
+(C)  No, because it is hearsay not within any exception.
+(D)  No, because it relates to the business fraud and not to the
+
+commission of perjury.
+
+Answer  24:  Choice  (B)  is  correct.  First,  let’s  consider  the
+statement’s  admissibility  as  substantive  evidence  of  the
+perjury.  The  witness  is  testifying  about  an  out-of-court
+statement.  If  the  statement  is  offered  to  prove  the  truth  of  its
+contents,  i.e.,  that  the  declarant  knew  about  the  fraud,  this
+would  meet  the  hearsay  definition  of  FRE  801(c).  But  the
+declarant  is  the  defendant  in  this  case,  and  the  declarant’s
+statement  is  being  offered  against  him.  Consequently,  the
+statement is a party admission and, therefore, FRE 801(d)(2)
+(A) says that it is deemed not hearsay. Since it is not hearsay,
+it  is  admissible  to  prove  the  truth  of  its  contents  (i.e.,  as
+substantive evidence of the perjury).
+
+them 
+
+generally 
+
+The  statement  is  also  admissible  to  impeach  the  declarant’s
+testimony, since it is a prior statement that is inconsistent with
+the  declarant/defendant’s  testimony  at  the  present  (perjury)
+trial.  Rule  613,  which  deals  with  prior 
+inconsistent
+for
+statements,  makes 
+impeachment, subject to some exceptions that are not relevant
+here. In fact, where, as here, the prior inconsistent statement
+was  made  by  one  who  is  a  party  opponent  in  the  present
+proceeding,  Rule  613(b)  allows  use  of  “extrinsic  evidence”
+(which is what the prosecutor’s witness’s statement is) of the
+prior  inconsistent  statement  even  if  the  maker  of  the  prior
+statement (here, the defendant) is not given an opportunity to
+“explain or deny” the prior statement.
+
+admissible 
+
+(A)  is  wrong  because  although  the  testimony  is  certainly
+admissible  to  impeach  the  defendant’s  testimony,  it  can  also
+be  used  substantively  as  an  admission  by  a  party-opponent
+under  FRE  801(d)(2)(A),  as  the  analysis  of  Choice  (B)
+demonstrates.
+(C)  is  wrong  because,  under  FRE  801(d)(2)(A),  a  statement
+of  a  party-opponent  that  is  offered  against  that  party  is
+
+486
+
+deemed to be not hearsay.
+
+(D)  is  wrong  because,  although  the  statement  made  to  the
+witness does relate to the prior business fraud, it also relates
+to  the  present  perjury  charge.  That’s  because  the  prior
+statement  demonstrates  that  the  defendant  in  fact  did  know
+about the fraud, despite his testimony in two trials that he did
+not know of it. Thus the statement is relevant to prove that the
+defendant’s  trial  testimony  was  knowingly  false  and  hence
+constituted perjury.
+
+Question  25:  The  defendant  was  prosecuted  for  homicide.
+He testified that he shot in self- defense. In rebuttal, a police
+officer  testified  that  he  came  to  the  scene  in  response  to  a
+telephone call from the defendant. The officer offers to testify
+that  he  asked,  “What  is  the  problem  here,  sir?”  and  the
+defendant  replied.  “I  was  cleaning  my  gun  and  it  went  off
+accidentally.”
+
+The offered testimony is
+
+(A)  admissible, as an excited utterance.
+(B)  admissible, to impeach the defendant and as evidence that
+
+he did not act in self-defense.
+
+(C)  inadmissible, because of the defendant’s privilege against
+
+self-incrimination.
+
+(D)    inadmissible,  because  although  it  tends  to  expose  the
+declarant  to  criminal  liability,  it  is  not  supported  by
+corroborating circumstances.
+
+Answer  25:  Choice  (B)  is  correct.  First,  let’s  consider
+whether  it’s  admissible  substantively,  i.e.,  to  prove  that  the
+defendant  did  not  act  in  self-defense.  The  police  officer’s
+testimony that the defendant had told him, “I was cleaning my
+gun  and  it  went  off  accidentally,”  is  an  “out-of-court
+statement” offered to “prove the truth of the matter asserted,”
+so  it  would  on  its  face  be  hearsay  if  it’s  being  used  as
+evidence  that  the  defendant  did  not  act  in  self-defense.
+However, admissions of a party-opponent are treated as non-
+hearsay  statements  and  are  admissible  under  FRE  801(d)(2)
+(A). Next, once a statement is available substantively because
+it’s  non-hearsay  (or  falls  within  a  hearsay  exception),  it  can
+impeachment  purposes.  (A  separate
+also  be  used  for 
+
+487
+
+provision,  FRE  613(b),  allows  for  impeachment  by  a  prior
+inconsistent  statement,  but  use  of  this  provision  is  necessary
+only when the witness is a non-party — if the witness that is
+the target of impeachment is a party, as here, then it’s simpler
+to  use  FRE  801(d)(2)(A)  to  get  the  statement  in  for  both
+impeachment and substantive purposes.)
+
+(A)  is  wrong  because  the  fact  that  a  statement  is  an  excited
+utterance  matters  only  if  the  statement  is  hearsay.  As
+described in Choice (B), under the FRE admissions by a party
+opponent  are  hearsay  “exclusions” — i.e.,  non-hearsay — so
+the  statement  was  never  hearsay  in  the  first  place,  and  does
+not  need  a  hearsay  exception  in  order  to  be  admitted.
+Furthermore,  it’s  doubtful  that  the  defendant’s  statement
+would  qualify  as  an  excited  utterance  even  if  offered  by,
+rather than against, him (so that the statement was not a non-
+hearsay  party-admission).  FRE  803(2)  defines  the  excited-
+utterance hearsay exception this way: “a statement relating to
+a startling event or condition made while  the  declarant  was
+under the stress of excitement that it caused.” Here, there’s
+no affirmative indication that the statement was being uttered
+under  the  stress  of  excitement  from  the  shooting  (though  we
+don’t know for sure).
+(C)  is  wrong  because  application  of  the  Fifth  Amendment
+privilege  of  self-incrimination  that  “no  person  .  .  .  shall  be
+compelled  in  any  criminal  case  to  be  a  witness  against
+himself  .  .  .”  applies  only  where  there  is  some  element  of
+compulsion that brought about (or threatens to bring about) the
+statement. So statements at a trial or other proceeding (e.g., a
+grand  jury  hearing  or  deposition)  where  the  defendant  is
+required to testify are covered. Similarly, statements made in
+response  to  custodial  interrogation  are  covered  if  the
+Miranda  warnings  weren’t  given,  because  Miranda  is  a
+method  of  preventing  Fifth  Amendment  violations.  But  the
+defendant’s out-of-court statement here did not fall into either
+of these two categories. In particular, it is not covered by the
+Miranda anti-self-incrimination policy, because the defendant
+was not in custody at the time he made the statement, and no
+other  element  of  compulsion  was  present.  (Also,  even  a
+statement  by  a  defendant  that  was  given  in  custody  in
+
+488
+
+violation of Miranda may be used to impeach the defendant’s
+contrary trial testimony; Harris v. N.Y. (1971).)
+
+(D) is wrong because the principle cited does not apply in the
+context  of  admissions,  but  rather,  to  the  declaration-against-
+interest  hearsay  exception.  FRE  804(b)(3),  which  provides
+for that exception, says that where a statement is “offered in a
+criminal  case  as  one  that  tends  to  expose  the  declarant  to
+criminal liability,” the exception applies only if the statement
+“is  supported  by  corroborating  circumstances  that  clearly
+indicate  its  trustworthiness.”  But  even  where  the  quoted
+“corroboration”  language  applies  to  make  the  statement
+the  declaration-against-interest  exception
+ineligible 
+(which  would  be  so  here),  that  ineligibility  doesn’t  prevent
+the statement from being admissible as an admission against a
+party-opponent, as described in the discussion of Choice B.
+
+for 
+
+II.   SPONTANEOUS, EXCITED, OR
+
+CONTEMPORANEOUS UTTERANCES
+(INCLUDING STATEMENTS ABOUT
+PHYSICAL OR MENTAL CONDITION)
+
+A.  Statements made for purposes of medical diagnosis or treatment
+
+1.  Cause
+
+a.  The statement may include references to the cause of the
+
+bodily condition
+
+Question  26:  A  plaintiff  sued  a  ladder  manufacturer  for
+injuries  he  suffered  to  his  neck  and  back  when  a  rung  of  the
+ladder  on  which  he  was  standing  gave  way.  When  the
+plaintiff’s back and neck continued to be very sore after more
+than  two  weeks,  his  treating  physician  sent  him  to  an
+orthopedist for an evaluation. Though the orthopedist did not
+treat  the  plaintiff,  he  diagnosed  an  acute  cervical  strain.  At
+trial,  the  plaintiff  called  the  orthopedist  to  testify  that  in
+response  to  the  orthopedist’s  inquiry  about  how  the  plaintiff
+had  injured  his  back,  the  plaintiff  told  him,  “I  was  standing
+near the top of a 15-foot ladder when I abruptly fell, landing
+hard  on  my  back,  after  which  the  ladder  toppled  onto  my
+
+489
+
+neck.”
+
+Should the statement be admitted?
+
+(A)    Yes,  because  the  plaintiff  is  present  and  can  be  cross-
+
+examined about it.
+
+(B)    Yes,  because  it  was  made  for  the  purpose  of  medical
+
+diagnosis or treatment.
+
+(C)  No, because it was not made to a treating physician.
+(D)  No, because it relates to the inception or the cause of the
+injury rather than the plaintiff’s physical condition.
+Answer 26: Choice (B) is correct. The witness orthopedist is
+testifying about an out-of-court statement to prove the truth of
+the  contents  of  that  statement.  So  the  statement  meets  the
+definition  of  hearsay  under  FRE  801(c).  (Although  the
+declarant is a party to the case, the statement is being offered
+by that party, so is not a party admission within FRE 801(d)
+(2)(A).)  But  this  hearsay  statement  fits  within  the  exception
+codified  at  FRE  803(4)  for  statements  made  for  the  purpose
+of  (and  reasonably  pertinent  to)  medical  diagnosis  or
+treatment,  where  the  statement  describes  “medical  history;
+past  or  present  symptoms  or  sensations;  their  inception;  or
+their general cause.” Both of these requirements are met: The
+plaintiff’s statement relates to the cause of his injury, and the
+cause of his injury is relevant to the orthopedist’s diagnosis.
+Moreover,  Rule  803(4)  allows  not  only  statements  made  to
+treating physicians, but also statements made to other doctors
+for  evaluation  or  diagnosis.  So  the  fact  that  the  orthopedist
+never  treated  the  plaintiff  doesn’t  affect  admissibility  of  the
+statement. And, by the way, this exception applies regardless
+of  whether  or  not  the  declarant  is  unavailable  to  testify  at
+trial.
+
+(A) is wrong because the choice gives an incorrect reason for
+the correct outcome. The statement is an admissible statement
+for  purposes  of  medical  diagnosis  or  treatment  under  FRE
+803(4).  While  it  is  true  that  the  plaintiff  is  present  and
+presumably could be cross-examined about the statement, this
+exception  to  the  hearsay  rule  does  not  depend  on  the
+statement  would  be
+declarant’s  being  present — the 
+admissible even if the plaintiff were not present to testify or
+
+490
+
+be cross-examined.
+
+(C)  is  wrong  because  FRE  803(4)  does  not  require  that  the
+statement  be  made  to  a  treating  physician — the  Rule  also
+admits statements made to a non-treating doctor for purposes
+of  diagnosis.  The  Rule  is  specifically  designed  to  admit
+statements  such  as  this,  where  an  injured  party  is  seeking  a
+diagnosis and opinion from a medical specialist.
+
+(D)  is  wrong  because  FRE  803(4)  expressly  permits  the
+introduction of statements concerning the cause of injury when
+that information is pertinent to diagnosis or treatment. Thus it
+is admissible under FRE 803(4).
+
+(If  the  statement  related  to  fault — e.g.,  “I  fell  when  D
+tripped  over  the  base  of  the  ladder” — then  the  part  of  the
+statement relating to fault would likely not be covered by the
+803(4) exception.)
+
+Question  27:  In  a  civil  action  for  personal  injury,  Payne
+alleges that he was beaten up by Dabney during an altercation
+in  a  crowded  bar.  Dabney’s  defense  is  that  he  was  not  the
+person who hit Payne. To corroborate his testimony about the
+cause  of  his  injuries,  Payne  seeks  to  introduce,  through  the
+hospital  records  custodian,  a  notation  in  a  regular  medical
+record  made  by  an  emergency  room  doctor  at  the  hospital
+where  Payne  was  treated  for  his  injuries.  The  notation  is:
+“Patient says he was attacked by Dabney.”
+
+The notation is
+
+                    A) inadmissible, unless the doctor who made the
+record  is  present  at  trial  and  available  for  cross-
+examination.
+
+(B)  inadmissible as hearsay not within any exception.
+(C)  admissible as hearsay within the exception for records of
+
+regularly conducted activity.
+
+(D)    admissible  as  a  statement  made  for  the  purpose  of
+
+medical diagnosis or treatment.
+
+Answer 27: Choice (B) is correct. The out-of-court statement
+(the  note  in  the  file)  is  being  offered  to  prove  that  Payne
+really was attacked by Dabney. That’s a hearsay use, since the
+out-of-court statement about what “the Patient” said about the
+
+491
+
+cause of the injuries is being offered to prove that these really
+were  the  causes.  No  hearsay  exception  applies — see  the
+discussion  of  the  other  three  answers  for  why  some  of  the
+possible exceptions don’t apply. In particular, notice that this
+is a two-level hearsay problem; the outer level is an out-of-
+court statement (the notation) by the E.R. doctor, and the inner
+level is the oral statement by the patient that was supposedly
+being  recorded.  Unless  each  of  the  levels  is  shown  to  fall
+within  a  hearsay  exception,  the  entire  notation  must  be
+excluded.  And  the  inner  level  does  not  fall  within  any
+exception.
+
+(A)  reaches  the  right  conclusion,  but  for  the  wrong  reasons.
+There is no hearsay exception that applies merely because the
+person  who  records  an  out-of-court  declaration  (here,  the
+doctor  who  records  a  patient’s  out-of-court  declaration)  is
+available for cross-examination.
+
+(C)  is  wrong  because  this  is  a  two-level  hearsay  problem,
+and this choice only deals with the outer level. If the notation
+concerned  solely  a  fact  personally  observed  by  the  E.R.
+doctor (e.g., “I measured Patient’s blood pressure and found it
+to be 130/80”), the notation probably would be admissible as
+a record of regularly conducted activity. But here, the notation
+is  a  quotation  of  someone  else’s  statement  (Payne’s),  so
+Payne’s  statement  is  the  “inner”  level  of  hearsay,  and  that
+statement does not fall within any hearsay exception.
+
+their  general  cause,”  are  admissible 
+
+(D)  is  wrong,  because  the  statement  does  not  fall  under  the
+purpose-of-medical-diagnosis-or-treatment  exception,  since
+the  identification  of  the  attacker  was  not  pertinent  to  the
+diagnosis or treatment of Payne’s injuries. Under FRE 803(4),
+statements  describing  “symptoms  or  sensations”  or  “their
+inception  or 
+if
+.  medical  diagnosis  or
+. 
+“reasonably  pertinent  to 
+treatment.”  Payne’s  statements  to  his  doctor  that  he  was
+attacked and how  he  was  attacked  might  well  be  admissible
+under  FRE  803(4)  on  the  theory  that  they  were  “reasonably
+pertinent  to  medical  diagnosis  or  treatment.”  However,  a
+statement identifying  his  attacker  will  not  help  in  treatment
+or diagnosis in any way, and is therefore inadmissible under
+this exception.
+
+. 
+
+492
+
+B.  Declaration of present mental, emotional, or physical condition
+
+1.  State of mind directly in issue
+
+Question  28:  In  a  prosecution  of  Dale  for  murdering  Vera,
+Dale  testified  that  the  killing  had  occurred  in  self  defense
+when  Vera  tried  to  shoot  him.  In  rebuttal,  the  prosecution
+seeks  to  call  Walter,  Vera’s  father,  to  testify  that  the  day
+before  the  killing,  Vera  told  Walter  that  she  loved  Dale  so
+much she could never hurt him.
+
+Walter’s testimony is
+
+(A)  admissible within the hearsay exception for statements of
+
+the declarant’s then existing state of mind.
+
+(B)  admissible, because Vera is unavailable as a witness.
+(C)  inadmissible as hearsay not within any exception.
+(D)  inadmissible, because Vera’s character is not an issue.
+Answer 28: Choice (A) is correct. When the mental state of a
+declarant  is  directly  at  issue  in  a  case,  statements  of  the
+declarant’s  then  existing  state  of  mind  are  admissible  under
+FRE  803(3)  to  prove  the  declarant’s  mental  state  pre-dating
+or  post-dating  the  statement.  Here,  Vera’s  statement,  that  she
+loved Dale and she could never hurt him, is being offered to
+prove the truth of the matter asserted, that she could not hurt
+him,  and  that  therefore,  the  next  day,  it  is  unlikely  that  she
+would  have  been  the  first  aggressor  in  the  encounter  with
+Dale. This evidence would counter Dale’s claim that he acted
+in self-defense.
+
+is  wrong  because 
+
+the  declarant’s  availability 
+
+(B) 
+is
+immaterial  when  a  statement  is  being  offered  under  the
+exception for a then existing state of mind under FRE 803(3).
+(C)  is  wrong  because  the  statement  is  admissible  under  the
+then  existing  state  of  mind  hearsay  exception  provided  by
+FRE 803(3), as explained in the discussion of Choice A.
+(D) is wrong because (1) the statement is admissible and (2)
+it does not reflect on Vera’s “character,” but rather, her state
+of mind, as further discussed in (A).
+
+2.  Proof of subsequent event
+
+Question 29:  Prine  sued  Dover  for  an  assault  that  occurred
+
+493
+
+March 5 in California. To support his defense that he was in
+Utah  on  that  date,  Dover  identifies  and  seeks  to  introduce  a
+letter he wrote to his sister a week before the assault in which
+he stated that he would see her in Utah on March 5.
+
+The letter is
+
+(A)    admissible,  within  the  state  of  mind  exception  to  the
+
+hearsay rule.
+
+(B)    admissible,  as  a  prior  consistent  statement  to  support
+
+Dover’s credibility as a witness.
+
+(C)  inadmissible, because it lacks sufficient probative value.
+(D)  inadmissible, because it is a statement of belief to prove
+
+the fact believed.
+
+Answer 29: Choice (A) is correct. A statement is admissible
+to prove that a plan, design, or intention of the declarant was
+in  fact  carried  out  by  the  declarant,  under  the  hearsay
+exception  for  a  statement  concerning  a  declarant’s  present
+mental,  emotional  or  physical  condition.  FRE  803(3).  That
+provision allows for the introduction of a statement showing
+that  the  declarant  had  the  intent  to  take  a  certain  action,  in
+order  to  prove  that  the  declarant  did  in  fact  eventually  take
+that action where whether that act took place is an issue in the
+case. Here, Dover’s stated intention to meet his sister in Utah
+on March 5 is admissible to prove that he in fact was in Utah
+on March 5; therefore, it is evidence that he did not commit an
+assault in California on that same day.
+
+(B) is wrong because the general rule is that evidence offered
+to bolster the character of a witness is not admissible. Under
+FRE 801(d)(1)(B), a statement consistent with the declarant’s
+testimony may only be “offered to rebut an express or implied
+charge that the declarant recently fabricated it or acted from a
+recent improper influence or motive in so testifying.” The fact
+pattern  does  not  indicate  that  those  circumstances  occurred
+here.
+(C)  is  wrong  because  the  letter  is  admissible  and  it,  in  fact,
+has sufficient probative value. It makes the factual proposition
+that Dover was not in California on March 5 more likely than
+it would be without the evidence.
+(D) is wrong because the letter is admissible and the concept
+
+494
+
+the  declarant’s 
+
+stated does not apply. It’s true that FRE 803(3) provides for
+an  exception  for 
+then  existing  mental,
+emotional  or  physical  condition,  “but  not  including  a
+statement  of  memory  or  belief  to  prove  the  fact  remembered
+or believed unless it relates to the . . . declarant’s will.” But,
+here, the letter is not a statement of belief about past actions
+or events. It is a stated intention to do something in the future,
+as explained in the discussion of (A).
+
+3.  Need for inference
+
+Question 30: Daggett is prosecuted for the murder of Vales,
+whose  body  was  found  one  morning  in  the  street  near
+Daggett’s house. The state calls Witt, a neighbor, to testify that
+during  the  night  before  the  body  was  found  he  heard  Vales’s
+wife scream, “You killed him! You killed him!”
+
+Witt’s testimony is
+
+(A)  admissible as a report of a statement of belief.
+(B)  admissible as a report of an excited utterance.
+(C)    inadmissible,  because  it  reports  a  privileged  spousal
+
+communication.
+
+(D)  inadmissible on spousal immunity grounds, but only if the
+
+wife objects.
+
+Answer  30:  Choice  (B)  is  correct.  The  wife’s  statement  is
+hearsay,  an  “out-of-court  statement”  offered  to  “prove  the
+truth  of  the  matter  asserted” — that  Daggett  was  the  killer.
+FRE  801.  FRE  803(2)  provides  for  the  excited  utterance
+exception  to  the  hearsay  rule — “a  statement  relating  to  a
+startling  event  or  condition  made  while  the  declarant  was
+under  the  stress  of  excitement  that  it  caused.”  The  screamed
+exclamation,  “You  killed  him!  You  killed  him!”  would
+qualify — the  fact  that  there  was  a  scream  strongly  suggests
+that  Vale’s  wife  was  responding  to  some  event  that  (1)
+startled  her,  (2)  convinced  her  that  her  husband  had  been
+killed (the event), and (3) induced her to make the statement
+(showing  causation  between  the  startling  event,  and  the
+statement).
+
+(A) is wrong because it relies on a concept that doesn’t exist.
+There  is  no  hearsay  exception  provided  for  a  “statement  of
+belief.” Indeed, FRE 803(3) indicates just the contrary, since
+
+495
+
+it  gives  a  hearsay  exception  for  “A  statement  of  the
+declarant’s then existing state of mind . . . but not including a
+statement  of  memory  or  belief  to  prove  the  fact  remembered
+or believed[.]”
+
+(C) is wrong because the evidence would not be barred by the
+confidential  spousal  communications  privilege.  If  the  wife
+thought  her  husband  was  dead,  she  could  not  have  been
+intending  to  communicate  with  him  (barring  communications
+with the other world, which are presumably not protected by
+the privilege).
+
+(D)  is  wrong  because  the  evidence  is  not  barred  by  the
+adverse  testimony  privilege.  The  privilege  applies  only  to
+testimony against the spouse of the declarant. So there are two
+problems here: (1) the husband (the declarant’s spouse) is not
+on trial; and (2) this out-of-court startled exclamation would
+not  be  deemed  to  be  “testimonial”  for  purposes  of  the
+adverse-testimony  privilege,  even  if  it  were  used  by  the
+prosecution against the husband.
+
+III.  PAST RECOLLECTION RECORDED
+
+A.  Exception under the FRE
+
+1.  Four requirements
+
+Question 31: A plaintiff sued a defendant for wrongful death
+arising  out  of  a  traffic  collision  between  the  plaintiff’s
+decedent  and  the  defendant.  At  trial,  the  investigating  traffic
+officer  authenticated  a  tape  recording  of  her  shift-end
+dictation of comments used in preparing the written report of
+her factual findings. She testified that the tape recording was
+accurate  when  made  and  that  she  currently  had  no  clear
+memory of the details of the investigation.
+Is the tape recording admissible as evidence?
+(A)  Yes, under the past recollection recorded exception to the
+
+hearsay rule.
+
+(B)    Yes,  under  the  public  records  exception  to  the  hearsay
+
+rule.
+
+(C)    No,  because  it  is  hearsay  and  is  a  police  report  being
+
+offered against the defendant in a wrongful death case.
+
+496
+
+(D)  No, because the police report itself is the best evidence.
+Answer  31:  Choice  (A)  is  correct.  The  tape  recording  is
+evidence  of  an  oral  out-of-court  statement  that  is  being
+offered  to  prove  the  truth  of  the  contents  of  that  statement.
+Thus it is hearsay under FRE 801(c). But it also satisfies the
+requirements  of  FRE  803(5),  the  past  recollection  recorded
+exception  to  the  hearsay  rule.  Under  that  rule,  a  record  is
+admissible  if  it  “(A)  is  on  a  matter  the  witness  once  knew
+about  but  now  cannot  recall  well  enough  to  testify  fully  and
+accurately; (B) was made or adopted by the witness when the
+matter was fresh in the witness’s memory; and (C) accurately
+reflects the witness’s knowledge.”
+
+So here all four of the requirements embedded in FRE 803(5)
+are  met:  (1)  we  know  that  the  “witness  once  knew  about”
+requirement  is  satisfied  because  we’re  told  that  she  was  the
+investigating officer, and was dictating an account of what she
+had  learned  first-hand;  (2)  we  know  she  “now  cannot  recall
+[the  matter]  well  enough  to  testify  fully  and  accurately”
+because  we’re  explicitly  told  in  the  facts  that  she  “currently
+ha[s] no clear memory of the details”; (3) we know that she
+“made  [the  record]  when  the  matter  was  fresh  in  [her]
+memory” from the fact that she made the tape recording at the
+end of the very shift in which she learned the underlying facts
+to which the recording pertained; and (4) we know the record
+“accurately  reflects  the  witness’s  knowledge”  because  the
+facts tell us that the witness “testified that the tape recording
+was  accurate  when  made.”  Accordingly,  under  FRE  803(5),
+the recording is admissible evidence (in the sense that it can
+be played for the jury, although not taken into the jury room as
+an exhibit).
+(B)  is  wrong  because  although  the  officer’s  formal  written
+report  would  qualify  as  a  public  record  under  FRE  803(8),
+the informal dictated comments she made to help her prepare
+the  report  would  not.  To  be  admissible  under  803(8),  the
+material must fall within one of clauses (A)(i), (A)(ii), or (A)
+(iii) of 803(8). All of these apply to “a record or statement of
+a public office.” Let’s see why none of these clauses applies:
+Clause  (A)(i)  of  803(8)  covers  reports  of  “the  office’s
+activities.” The clause is interpreted to refer to records of the
+
+497
+
+internal activities of the agency, not to its inquiries into events
+occurring in the outside world. So the recording here does not
+qualify,  since  it’s  not  about  the  police  department,  but  about
+real-world non-police activities.
+
+Clause  (A)(ii)  of  803(8)  covers  a  public  office’s  record  or
+statement  setting  out  “a  matter  observed  while  under  a  legal
+duty to report, but not including, in a criminal case, a matter
+observed by law-enforcement personnel.” (A)(ii) is generally
+interpreted to cover only material that is “more concrete and
+simple than interpretive or evaluative” (see M&K, § 8.50, p.
+862), so it would not apply to the dictated notes here, which
+clearly  have  an  evaluative  component.  (Who  caused  the
+accident, which the officer didn’t personally witness?)
+
+its 
+
+terms  covers  “factual 
+
+Clause (A)(iii) of 803(8) covers public records or statements
+offered  “in  a  civil  case  or  against  the  government  in  a
+criminal case,” if the record or statement consists of “factual
+findings from a legally authorized investigation.” The fact that
+this  is  a  civil  action  does  not  bar  (A)(iii)  use  here.  But  (A)
+(iii)  by 
+the
+preliminary,  informal  tape-recording  here  would  not  be
+construed to have produced such “factual findings” (a phrase
+that  has  the  connotation  of  final  and  formal  conclusions),
+especially  given  that  the  traffic  officer  knew  that  she  would
+later  use  her  recording  in  order  to  prepare  her  eventual
+“written report of her factual findings.” (The written report is
+a document that would satisfy clause (A)(iii).)
+
+findings,”  and 
+
+So none of the three clauses of 803(8) applies.
+
+(C) is wrong because although the tape recording is hearsay,
+it  fits  the  hearsay  exception  of  FRE  803(5)  as  a  past
+recollection  recorded.  This  choice’s  reference  to  a  “police
+report being offered against the defendant in a wrongful death
+case”  is  an  attempt  to  trick  you  into  thinking  that  the
+prohibition in 803(8), clause (A)(iii), applies. As is covered
+in more detail in the analysis of Choice (B) above, 803(8)’s
+public-records hearsay exception says, in clause (A)(iii), that
+“factual  findings  resulting  from  an 
+investigation  made
+pursuant  to  authority  granted  by  law”  are  admissible  only  in
+civil actions and against the government in criminal cases, not
+against  the  accused  in  a  criminal  case.  And  there  is  some
+
+498
+
+(though  weak)  authority  that  where  factual  findings  by  law
+enforcement  officials  are  prohibited  by  803(8)(A)(iii)  (i.e.,
+where the findings are proposed to be used by the government
+against the accused), not only can’t Rule 803(8) be used, but
+neither can other exceptions, like past recollection recorded.
+But  even  in  a  court  following  this  minority  authority,  the
+803(8)(A)(iii)  prohibition  wouldn’t  apply  here,  since  the
+prohibition doesn’t apply in a civil case, even one involving
+wrongful death.
+
+(D)  is  wrong  because  the  tape  recording  was  made  prior  to
+the  written  report  and  was  used  as  a  basis  for  the  written
+report. The recording is not being offered to prove the content
+of  the  written  report,  so  its  admission  does  not  violate  the
+best  evidence/original  document  rule  of  FRE  1002.  (If  the
+officer  gave  courtroom  testimony  that  the  previous  day,  she
+had listened to the recording and here is what it said, then this
+testimony  would  violate  the  original  document  rule  of  FRE
+1002,  because  the  recording  itself  would  have  to  be  offered
+as the best evidence of what the recording’s contents were.)
+
+IV.  RECORDS OF REGULARLY CONDUCTED
+ACTIVITY (a/k/a “BUSINESS RECORDS”)
+
+A.  Person supplying info
+
+1.  Consumer complaints or reports
+
+Question  32:  Plaza  Hotel  sued  Plaza  House  Hotel  for
+infringement  of  its  trade  name.  To  establish  a  likelihood  of
+name  confusion,  Plaintiff  Plaza  Hotel  offers  a  series  of
+memoranda which it had asked its employees to prepare at the
+end  of  each  day  listing  instances  during  the  day  in  which
+telephone  callers,  cab  drivers,  customers,  and  others  had
+confused the two names.
+The memoranda should be
+(A)  excluded, because they are more unfairly prejudicial and
+
+confusing than probative.
+
+(B)    excluded,  because  they  are  hearsay  not  within  any
+
+exception.
+
+(C)  admitted, because they are records of regularly conducted
+
+499
+
+business activity.
+
+(D)  admitted, because they are past recollection recorded.
+Answer 32:  The  correct  choice  is  (B) — this  is  hearsay  not
+within any exception. Each memorandum contains a statement
+of  the  form,  “Person  X  confused  Plaza  Hotel  with  Plaza
+House Hotel,” offered to prove that the person indeed had this
+confusion. So each memo is being offered to prove the truth of
+the matter asserted in it (that confusion existed). Unless some
+hearsay exception applies, the memos must be excluded under
+the  hearsay  rule.  No  exception  applies,  including  the
+exceptions mentioned in Choices (C) and (D).
+
+(A) is wrong for two reasons. First, under FRE 403, evidence
+is  excludable  based  on  the  relative  probative  value  and
+prejudice  only  if  the  probative  value  is  “substantially
+outweighed”  by  the  danger  of  unfair  prejudice  or  confusion,
+and  the  formulation  here  omits  the  word  “substantially,”
+incorrectly suggesting that if unfair prejudice and confusion is
+slightly  greater  than  probative  value,  exclusion  must  occur.
+Second,  the  court  would  never  even  get  to  the  issue  of
+balancing  probative  value  against  prejudice,  because  the
+evidence is hearsay not within any exception. (FRE 403 only
+matters in the case of otherwise-admissible evidence.)
+
+the  “business  records”  exception,  and 
+
+(C) is wrong, because this choice refers to what is commonly
+known  as 
+the
+requirements for that exception are not met here. FRE 803(6)
+provides for the business record hearsay exception if “(A) the
+record  was  made  at  or  near  the  time  by — or  from
+information  transmitted  by — someone  with  knowledge;  (B)
+the  record  was  kept  in  the  course  of  a  regularly  conducted
+activity  of  a  business,  organization,  occupation,  or  calling,
+whether or not for profit; (C) making the record was a regular
+practice of that activity; (D) all these conditions are shown by
+the testimony of the custodian or another qualified witness, or
+by a certification that complies with Rule 902(11) or (12) or
+with  a  statute  permitting  certification;  and  (E)  neither  the
+source  of  information  nor  the  method  or  circumstances  of
+preparation  indicate  a  lack  of  trustworthiness.”  The  memos
+here  don’t  satisfy  clause  (E) — the  circumstances  of
+preparation  (anticipation  of  litigation,  and  the  hotel’s  strong
+
+500
+
+self-interest) make the records untrustworthy.
+
+(D) is wrong because several of the prerequisites laid out in
+FRE  803(5)  for  past  recollection  recorded  have  not  been
+satisfied. For instance, there is no sponsoring witness who is
+testifying,  as  to  each  memorandum,  that  the  memo  is  “on  a
+matter  the  witness  once  knew  about  but  cannot  now  recall
+well  enough  to  testify  fully  and  accurately.”  (803(5)(A)).
+Similarly, there is no sponsoring witness who is testifying that
+the  memo  was  “made  or  adopted  by  the  witness  when  the
+matter was fresh in the witness’s memory” (803(5)(B)).
+
+V.   PUBLIC RECORDS AND REPORTS
+
+A.  Public records and reports
+
+1.  Federal Rule
+
+a.  Matters observed under duty
+
+Question 33: A plaintiff sued his insurance company for the
+full  loss  of  his  banquet  hall  by  fire.  The  insurance  company
+defended under a provision of the policy limiting liability to
+50  percent  if  “flammable  materials  not  essential  to  the
+operation  of  the  business  were  stored  on  the  premises  and
+caused  a  fire.”  The  insurance  company  called  the  keeper  of
+the  city  fire  inspection  records  to  identify  a  report  prepared
+and  filed  by  the  fire  marshal  as  required  by  law,  indicating
+that  shortly  before  the  fire,  the  fire  marshal  had  cited  the
+plaintiff for storing gasoline at the banquet hall.
+
+Is the report admissible?
+
+(A)  No, because it is hearsay not within any exception.
+(B)  No, because the proceeding is civil, rather than criminal.
+(C)  Yes, as a public record describing matters observed as to
+
+which there was a duty to report.
+
+(D)  Yes, as a record of regularly conducted activity, provided
+
+the fire marshal is unavailable.
+
+Answer 33:  Choice  (C)  is  correct.  The  report  is  an  out-of-
+court  written  statement  offered  to  prove  the  truth  of  its
+contents,  so  it  meets  the  hearsay  definition  of  FRE  801(c).
+Nevertheless,  it  is  admissible  because  it  falls  within  the
+
+501
+
+hearsay  exception  for  “public  records  and  reports”  codified
+at  FRE  803(8).  Under  Clause  (A)(ii)  of  this  rule,  a  report
+made  by  a  public  official  or  agency  concerning  “a  matter
+observed while under a legal duty to report, but not including,
+in  a  criminal  case,  a  matter  observed  by  law-enforcement
+personnel”  is  admissible,  as  long  as  “neither  the  source  of
+information  nor  other  circumstances  indicate  a  lack  of
+trustworthiness”  (Clause  (B)).  All  of  the  requirements
+embedded  in  Clauses  (A)(ii)  and  (B)  are  met:  (1)  The  fire
+marshal  is  a  public  official;  (2)  we  know  that  the  report
+concerned a matter that the marshal “observed,” since the fact
+that he issued the citation indicates that he observed gasoline
+being  stored  in  the  banquet  hall;  and  (3)  we  know  that  the
+report  concerned  something  observed  “while  under  a  legal
+duty  to  report,”  because  the  facts  tell  us  that  the  report  was
+prepared  and  filed  “as  required  by  law.”  As  to  the  “lack  of
+trustworthiness” proviso, there is no suggestion of any reason
+to  believe  that  the  report’s  contents  are  untrustworthy.  Thus,
+the  report  meets  the  requirements  of  the  FRE  803(8)  public
+records exception to the hearsay rule, making it admissible.
+
+(A)  is  wrong  because  this  report  is  admissible  as  a  public
+record under FRE 803(8). See the analysis of Choice (C) for
+why this is so.
+(B) is wrong because the fact that this is a civil case does not
+make  the  report  inadmissible.  Public  records  are  admissible
+in both civil and criminal cases. In fact, they are more broadly
+admissible in civil cases than in criminal cases, because law
+enforcement  reports  are  generally  not  admissible  against
+criminal  defendants.  See  the  analysis  of  Choice  (C)  for  why
+the report here is admissible as a public record.
+(D) is wrong because it incorrectly states how the regularly-
+conducted-activity exception works. This choice is correct in
+suggesting that the hearsay exception for records of regularly
+conducted  activity  contained  in  FRE  803(6)  (commonly
+called  the  “business  records”  exception)  would  likely  apply
+to  this  report.  But  the  choice  is  incorrect  in  stating  that  the
+exception will apply only if the fire marshal is unavailable to
+testify.  The  803(6)  business-records  exception,  like  all  the
+exceptions contained in FRE 803, does not require a showing
+
+502
+
+of the unavailability of the declarant (here, the fire marshal).
+
+B.  Absence of public record
+
+Question 34: In an arson prosecution the government seeks to
+rebut the defendant’s alibi that he was in a jail in another state
+at  the  time  of  the  fire.  The  government  calls  a  witness  to
+testify that he diligently searched through all the records of the
+jail  and  found  no  record  of  the  defendant’s  having  been
+incarcerated there during the time the defendant specified.
+
+The testimony of the witness is
+
+(A)    admissible  as  evidence  of  absence  of  an  entry  from  a
+
+public record.
+
+(B)  admissible as a summary of voluminous documents.
+(C)    inadmissible,  because  it  is  hearsay  not  within  any
+
+exception.
+
+(D)    inadmissible,  because  the  records  themselves  must  be
+
+produced.
+
+Answer 34:  The  correct  choice  is  (A),  because  this  type  of
+“absence of a public record” evidence is admissible and falls
+within a hearsay exception given by FRE 803(10).
+
+The fact that the records are silent here is a form of hearsay:
+The records are an out-of-court statement, and they’re offered
+to  say,  in  essence,  “Because  the  records  don’t  say  that  the
+defendant was incarcerated on a particular date, he was not in
+fact  incarcerated  on  that  date.”  So  the  silence  would  not,
+strictly  speaking,  be  admissible  unless  there  were  a  hearsay
+exception to cover the situation.
+
+But  there  is  such  an  exception.  FRE  803(10),  entitled
+“Absence of a public record,” gives a hearsay exception for
+“Testimony  .  .  .  that  a  diligent  search  failed  to  disclose  a
+public  record  or  statement,”  if  the  testimony  is  admitted  to
+prove  that  “(B)  a  matter  did  not  occur  or  exist,  if  a  public
+office regularly kept a record or statement for a matter of that
+kind.”  Here,  we  know  that  if  the  defendant  had  been
+incarcerated  at  a  particular  jail  on  a  particular  date,  there
+would  be  a  record  at  the  jail  to  that  effect.  So  the  proffered
+testimony  that  a  search  of  the  jail’s  collected  attendance
+records  showed  no  such  record  meets  the  requirements  of
+
+503
+
+FRE 803(10). (Notice, by the way, that the witness need not
+be  an  employee  of  the  jail,  or  even  of  the  government — 
+anyone who testifies that he conducted a diligent search of the
+relevant  records  can  testify  to  the  absence  of  the  record  in
+question.)
+
+(B)  is  wrong,  because  the  witness  was  testifying  about  only
+the absence of a single record, not the contents of voluminous
+records.  FRE  1006,  entitled  “Summaries  to  prove  content,”
+says  that  “The  proponent  may  use  a  summary,  chart,  or
+calculation  to  prove  the  content  of  voluminous  writings,
+recordings,  or  photographs  that  cannot  be  conveniently
+examined  in  court.”  Here,  however,  while  the  records  the
+witness  searched  might  be  voluminous,  the  subject  of  his
+search was a single record, which he didn’t find. The witness
+was  therefore  not  summarizing  “the  content  of  voluminous
+writings.”
+
+(C)  is  wrong,  because  there  is  a  hearsay  exception  for  the
+absence  of  official  records.  As  described  in  the  analysis  of
+choice A above, FRE 803(10) gives a hearsay exception for
+the absence of an official record. Consequently, the testimony
+here is not hearsay.
+(D)  is  wrong,  because  testimony  about  the  absence  of  an
+official record receives a hearsay exception, and the records
+containing the omission need not be produced. FRE 803(10),
+allowing  testimony  that  a  particular  official  record  was  not
+found after diligent search, does not include any requirement
+that the records that were searched be produced.
+
+It’s  true  that  apart  from  hearsay  issues,  when  the  affirmative
+contents  of  a  document  are  offered  the  document  itself  must
+normally be offered under the Best Evidence Rule (the FRE’s
+general  formulation  of  which  occurs  in  Rule  1002).  But  the
+BER  is  not  deemed  applicable  to  the  “absence  of  a  record”
+situation — testimony that a diligent search has not turned up
+the  record  is  all  that  is  required,  and  the  mass  of  searched
+records need not be produced.
+
+VI.  DECLARATIONS AGAINST INTEREST
+
+A.  Generally
+
+504
+
+1.  Text of Federal Rule
+
+Question 35:  The  defendant,  a  man,  has  been  charged  with
+murdering  the  victim.  The  defendant  defends  on  the  grounds
+that the murder was really committed by a particular woman,
+who  has  since  died.  The  defendant  offers  a  properly
+authenticated  photocopy  of  a  transcript  of  a  deposition  in  a
+civil suit brought against the woman by the victim’s family for
+the  victim’s  death,  in  which  the  woman  said,  “Yes,  I  killed
+him because I hated him.” The civil suit was brought because
+the  woman  was  known  to  have  quarreled  with  and  disliked
+the  victim.  Upon  proper  objection  by  the  prosecution,  the
+statement should be
+
+(A) admitted as a declaration against interest.
+(B) 
+
+  admitted  as  former  testimony  by  a  person  now
+unavailable.
+
+(C)  inadmissible as hearsay not within any exception.
+(D) 
+
+  inadmissible,  because  the  original  rather  than  a
+photocopy must be offered.
+
+Answer 35: Choice (A) is correct. First, this is hearsay: The
+declarant’s statement “I killed him” is being offered to show
+that  she  did  indeed  kill  him.  But  FRE  804(b)(3)  (one  of  the
+declarant-unavailable  exceptions)  gives  a  hearsay  exception
+for  a  statement  by  a  now-  unavailable  witness  which  “when
+made,  .  .  .  was  so  contrary  to  the  declarant’s  proprietary  or
+pecuniary interest or had so great a tendency to invalidate the
+declarant’s  claim  against  someone  else  or  to  expose  the
+declarant  to  civil  or  criminal  liability”  that  “a  reasonable
+person  in  the  declarant’s  position  would  have  made  [the
+statement] only if the person believed it to be true[.]” Where,
+as here, the statement is “offered in a criminal case as one that
+tends to expose the declarant to criminal liability,” 804(b)(3)
+(B)  adds  the  further  requirement  that  the  statement  be
+“supported  by  corroborating  circumstances 
+that  clearly
+indicate  its  trustworthiness.”  Here,  the  fact  that  the  woman
+was  known  to  have  quarreled  with  and  disliked  the  victim,
+and  the  fact  that  the  victim’s  family  chose  to  bring  civil  suit
+the  required  corroborating
+against 
+circumstances to indicate the statement’s trustworthiness.
+
+the  woman,  supply 
+
+505
+
+(B)  is  wrong  because,  although  there  is  indeed  an  exception
+for  former  testimony  given  under  oath  at  a  trial  or  other
+proceeding,  the  exception  applies  only  if  the  testimony  is
+“now  offered  against  a  party  who  had — or,  in  a  civil  case,
+whose  predecessor  in  interest  had — an  opportunity  and
+similar  motive  to  develop  it  by  direct,  cross-,  or  redirect
+examination.” See FRE 804(b)(1)(B). Since the party against
+whom the testimony is now being offered is the government,
+the  statement  could  qualify  only  if  the  government  had  the
+opportunity and similar motive to “develop” (i.e., undermine)
+the  woman’s  testimony  in  the  earlier  civil  suit;  because  the
+prosecution  was  not  part  of  that  suit,  this  requirement  is  not
+satisfied.
+
+(C) is wrong because, while the statement is indeed hearsay,
+as
+the  declaration-against-interest 
+described in Choice (A) above.
+
+exception 
+
+applies, 
+
+(D) is wrong because, although the Best Evidence Rule does
+indeed sometimes require an original, FRE 1003 says that “a
+duplicate  is  admissible  to  the  same  extent  as  the  original
+unless  a  genuine  question  is  raised  about  the  original’s
+authenticity  or  the  circumstances  make  it  unfair  to  admit  the
+duplicate.” There is no indication on these facts that either of
+these problems is present.
+
+Question 36: Pamela sued Driver for damages for the death
+of  Pamela’s  husband  Ronald,  resulting  from  an  automobile
+collision that had occurred a week before the death. At trial,
+Driver calls Ronald’s doctor to testify that the day before his
+death,  Ronald,  in  great  pain,  said,  “It  was  my  own  fault;
+there’s nobody to blame but me.”
+The doctor’s testimony should be admitted as
+(A)  a statement against interest.
+(B)  a dying declaration.
+(C)  a statement of Ronald’s then existing state of mind.
+(D)  an excited utterance.
+Answer  36:  Choice  (A) 
+three
+requirements for the declaration-against-interest exception to
+the hearsay rule: (1) the declarant must be unavailable; (2) the
+declaration must have been against the declarant’s pecuniary
+
+is  correct.  There  are 
+
+506
+
+or proprietary interest when made; and (3) the circumstances
+must be such that declarant would not have made the statement
+unless he believed it to be true. All of these requirements are
+fulfilled  regarding  the  statement  made  by  the  now-deceased
+Ronald:  (1)  he’s  dead  and  thus  unavailable;  (2)  he  exposed
+himself  to  tort  liability  by  acknowledging  responsibility  for
+the  accident;  and  (3)  there  is  no  apparent  reason  why  he’d
+acknowledge responsibility if he didn’t think he was in fact at
+fault.
+
+(B) is wrong, because the dying declaration exception applies
+only  where  the  declarant  believes  that  his  own  death  is
+imminent. See FRE 804(b)(2). The statement here was made
+by Ronald the day before he died, and there is no indication
+that  at  the  time,  Ronald  believed  that  his  death  was
+“imminent.”
+
+(C)  is  wrong,  because  of  the  timing  element.  FRE  803(3)
+gives a hearsay exception for “A statement of the declarant’s
+then-existing state of mind,” but says that the exception does
+not apply to “a statement of memory or belief to prove the fact
+remembered  or  believed  unless  it  relates  to  the  validity  or
+terms of the declarant’s will.” Here, Ronald’s statement is a
+statement  about  a  fact  remembered  or  believed  (that  the
+accident,  which  had  happened  nearly  a  week  before,  was
+caused  by  Ronald’s  own  fault),  so  the  exception  doesn’t
+apply.
+
+(D)  is  wrong  because  FRE  803(2)’s  excited  utterance
+exception  applies  only  to  “a  statement  relating  to  a  startling
+event or condition, made while the declarant was under the
+stress  of  excitement  that  it  caused.”  There  is  no  evidence
+that  Ronald,  at  the  time  of  his  visit  to  the  doctor,  was  still
+under the stress of excitement from the accident itself, which
+had  happened  almost  a  week  before.  The  excited  utterance
+exception  is  usually  held  to  apply  only  to  the  immediate
+aftermath of the startling event.
+
+507
+
+CHAPTER 6
+PRIVILEGES
+
+I.    THE ATTORNEY-CLIENT PRIVILEGE
+
+A.  Generally
+
+1.  Client
+
+Question  37:  Pace  sues  Def  Company  for  injuries  suffered
+when  Pace’s  car  collided  with  Def  Company’s  truck.  Def’s
+general  manager  prepared  a  report  of  the  accident  at  the
+request of the company’s attorney in preparation for the trial,
+and delivered the report to the attorney. Pace demands that the
+report be produced.
+
+Will production of the report be required?
+(A) 
+
+  Yes,  because  business  reports  are  not  generally
+privileged.
+
+(B)    No,  because  it  is  privileged  communication  from  the
+
+client to the attorney.
+
+the  scope  of 
+
+(C)  No, because such reports contain hearsay.
+(D)  No, because such reports are self-serving.
+Answer  37:  Choice  (B)  is  correct.  A  communication  is
+subject  to  attorney-client  privilege  if  it  is  a  communication
+from the client to the attorney, made in confidence, concerning
+legal  representation.  A  corporation  is  subject  to  the  same
+privilege as an individual, and the general manager would be
+the  modern
+within 
+“performance  of  duties”  test,  under  which  the  privilege
+extends to any employee’s communication if it was within his
+duties, and it was offered to advance the legal interests of the
+corporation.  So  the  communication  here  is  within  the
+attorney-client  privilege.  A  companion  “work  product
+immunity,” in force as a matter of common-law in nearly all
+jurisdictions,  gives  an  immunity  from  discovery  or  other
+“production” for materials that would be inadmissible at trial
+due to the attorney-client privilege.
+(A)  is  not  the  best  response  because  it  does  not  correctly
+
+the  privilege  under 
+
+508
+
+characterize the facts and law. A communication of any kind,
+business report or not, is subject to attorney-client privilege if
+it is a communication from the client to the attorney, made in
+confidence, concerning legal representation. Here, the report
+fits  this  description — the  general  manager  made  the  report
+about  the  accident,  intended  that  it  be  read  only  by  the
+attorney, and it was made in preparation for trial. And apart
+from  admissibility  at  trial,  the  “work  product  immunity”  for
+direct client-attorney communication prevents the client (Def
+Co.) from having to produce it in discovery.
+
+(C) is not the best response because (1) it ignores the central
+reason the report will be non- producible — it is covered by
+the  work-product  immunity;  and  (2)  it  falsely  asserts  that
+because the report is or might be inadmissible, it need not be
+produced. As to (1), what makes the report non-producible is
+the  attorney-client  privilege  and  companion  “work  product
+immunity,”  not  the  presence  of  hearsay.  As  to  (2),  even
+materials  that  would  not  be  admissible  at  trial  because  they
+contain  hearsay  are  producible  in  discovery,  if  they  are
+reasonably likely to lead to discoverable evidence. (And it’s
+not so clear that the report wouldn’t be admissible if it were
+not  for  the  attorney-client  work-product  immunity  problem;
+for  instance,  the  report  and  the  statements  in  it  might  all  be
+admissible as non-hearsay admissions by a party-opponent or
+its agents.)
+
+information  [or] 
+
+(D)  is  wrong  because  the  self-serving  nature  of  the  report
+won’t prevent the opposite party (the adversary of the report’s
+author) from offering it. If Def Co. were offering the report as
+a business record under FRE 803(6), the fact that the “source
+of 
+the  method  or  circumstances  of
+preparation  indicate  a  lack  of  trustworthiness”  (803(6)(E))
+would be fatal. But where the adversary of the preparer of the
+record or report is offering it against the preparer, the report
+can come in as an admission, and the document’s self-serving
+nature won’t matter.
+
+B.  Professional relationship
+
+1.  Fee arrangements not covered by privilege
+
+Question 38:  A  defendant  was  on  trial  for  tax  evasion.  The
+
+509
+
+IRS, seeking to establish the defendant’s income by showing
+his  expenditures,  called  on  the  defendant’s  attorney  to
+produce  records  showing  only  how  much  the  defendant  had
+paid his attorney in fees.
+
+Should the demand for the attorney’s fee records be upheld?
+
+(A)  Yes, because it calls for relevant information not within
+
+the attorney-client privilege.
+
+(B)    Yes,  because  the  attorney-client  privilege  cannot  be
+
+invoked to conceal evidence of a crime.
+
+(C)    No,  because  the  records  are  protected  by  the  attorney-
+
+client privilege.
+
+(D)    No,  because  the  records  are  protected  by  the  attorney
+
+work-product doctrine.
+
+Answer  38:  Choice  (A)  is  correct.  The  attorney-client
+privilege  applies  only  to  confidential  communications  made
+for  the  purpose  of  facilitating  legal  representation  of  the
+client.  Courts  have  uniformly  held  that  the  details  of  fee
+arrangements,  including  the  amount  paid  by  the  defendant  in
+fees,  are  not  communications  made  for  the  purpose  of
+facilitating  representation,  and  are  therefore  not  covered  by
+the privilege. See M&K, § 5.19, p. 356.
+
+(B) is wrong because it gives an incorrect explanation of the
+correct outcome. The attorney-client privilege can be invoked
+even  where  it  conceals  evidence  of  a  past  crime.  (The
+examiners are trying to make you think of the “crime or fraud”
+exception,  by  which  communications  are  not  covered  by  the
+privilege if they are made for the purpose of accomplishing or
+concealing a future crime or fraud.)
+
+(C)  is  wrong  because  the  attorney-client  privilege  applies
+only to confidential communications made for the purpose of
+facilitating  legal  representation  of  the  client.  The  amount  the
+defendant  paid  in  legal  fees  does  not  qualify  as  such  a
+communication, as is described in the analysis of Choice (A).
+(D)  is  wrong  because  the  work-product  doctrine  provides  a
+qualified  immunity  for  only  those  materials  prepared  by  an
+attorney or client in anticipation of litigation, such as witness
+statements, 
+trial  memoranda.
+Documents showing the amount a client has paid or will pay
+
+investigative 
+
+reports,  or 
+
+510
+
+to  his  attorney  for  legal  representation  are  not  deemed  to  be
+prepared “in anticipation of litigation,” so they are outside the
+protection of the work-product doctrine.
+
+II.   THE PRIVILEGE AGAINST SELF-
+
+INCRIMINATION
+
+A.  Negative inference allowed in civil cases
+
+Question  39:  A  plaintiff  sued  an  individual  defendant  for
+injuries suffered in a collision between the plaintiff’s car and
+the  defendant’s  truck  while  the  defendant’s  employee  was
+driving  the  truck.  The  plaintiff  sought  discovery  of  any
+accident  report  the  employee  might  have  made  to  the
+defendant,  but  the  defendant  responded  that  no  such  report
+existed.  Before  trial,  the  defendant  moved  to  preclude  the
+plaintiff from asking the defendant in the presence of the jury
+whether  he  destroyed  such  a  report,  because  the  defendant
+would then invoke his privilege against self-incrimination.
+Should the court allow the plaintiff to ask the defendant about
+the destruction of the report?
+
+(A)   No, because a report that was prepared in anticipation of
+
+litigation is not subject to discovery.
+
+(B)    No,  because  no  inference  may  properly  be  drawn  from
+
+invocation of a legitimate privilege.
+
+(C)  Yes, because a party in a civil action may not invoke the
+
+privilege against self-incrimination.
+
+(D)    Yes,  because  the  defendant’s  destruction  of  the  report
+would serve as the basis of an inference adverse to the
+defendant.
+
+Answer  39:  Choice  (D)  is  correct.  If  a  party  destroys
+evidence, it is proper for the jury to draw an inference that the
+evidence was adverse to that party. It’s true that the Supreme
+Court  has  held  that  in  a  criminal case,  neither  the  judge  nor
+the prosecution can encourage a jury to draw an inference of
+guilt  from  a  defendant’s  invocation  of  her  privilege  against
+self-incrimination;  Griffin  v.  California  (1965).  But  it’s
+proper  for  the  jury  to  draw  an  adverse  inference  in  a  civil
+case  from  a  party’s  assertion  of  the  privilege  against  self-
+
+511
+
+incrimination. Thus, the court should allow the question to be
+asked,  because  it  is  proper  regardless  of  how  the  defendant
+responds.
+
+(A) is wrong because although it is true that a report prepared
+in anticipation of litigation may qualify as work product, the
+work-product  immunity  is  not  absolute.  Documents  that  are
+work product are still subject to discovery upon a showing of
+substantial  need  and  the  inability  to  obtain  the  substantial
+equivalent of the materials by other means. Moreover, a claim
+of work-product immunity must be asserted before, and ruled
+on by, the court — a party cannot simply destroy the material
+and claim work-product protection. Finally, here the plaintiff
+would  not  be  asking  the  defendant  to  produce  the  report  for
+the  jury  to  see;  the  plaintiff  would  only  ask  whether  such  a
+report had been destroyed.
+
+(B)  is  wrong  because  although  the  Supreme  Court  has  held
+that neither the judge nor the prosecution can encourage a jury
+to draw an inference of guilt from a defendant’s invocation of
+her  privilege  against  self-incrimination  in  a  criminal  case,
+Griffin v. California (1965), it is proper for the jury to draw
+an adverse inference in a civil case from a party’s assertion of
+the privilege against self-incrimination.
+(C) is wrong because the privilege against self-incrimination
+may be asserted in both civil and criminal cases.
+
+512
+
+CHAPTER 7
+REAL AND DEMONSTRATIVE EVIDENCE,
+INCLUDING WRITINGS
+
+I.    AUTHENTICATION
+
+A.  Authentication of writings and recordings
+
+1.  Signature or handwriting
+
+a.  Non-expert
+
+Question  40:  When  a  man  entered  a  bank  and  presented  a
+check for payment, the bank teller recognized the signature on
+the  check  as  a  forgery  because  the  check  was  drawn  on  the
+account of a customer whose handwriting she knew. The bank
+teller  called  the  police.  Before  the  police  arrived,  the  man
+picked up the check from the counter and left.
+The man was charged with attempting to cash a forged check.
+At trial, the prosecutor called the bank teller to testify that the
+signature on the check was forged.
+
+Is the bank teller’s testimony admissible?
+
+(A)  Yes, because a bank teller is by occupation an expert on
+
+handwriting.
+
+(B)    Yes,  because  it  is  rationally  based  on  the  bank  teller’s
+
+perception and is helpful to the jury.
+
+(C)  No, because the bank teller was at fault in allowing loss
+
+of the original by failing to secure the check.
+
+(D)    No,  because  it  is  not  possible  for  either  the  jury  or  an
+expert  to  compare  the  signature  on  the  missing  check
+with a signature established as genuine.
+
+Answer 40:  Choice  (B)  is  correct.  The  witness  teller,  who
+has not been qualified as a handwriting expert, is offering her
+lay opinion as to the genuineness of the signature on the check.
+FRE  701  allows  lay  opinion  testimony  in  general  when  it  is
+“rationally based on the witness’s perception” and is “helpful
+to  clearly  understanding  the  witness’s  testimony  or  to
+determining  a  fact  in  issue[.]”  These  requirements  are  met
+
+513
+
+that 
+
+the
+here.  Additionally,  FRE  901(b)(2)  provides 
+authenticity  of  a  document  can  be  established  by  “a
+nonexpert’s  opinion  that  handwriting  is  genuine,  based  on  a
+familiarity  with  it  that  was  not  acquired  for  the  current
+litigation.” This requirement is met here, since the facts tell us
+that  the  witness/teller  already,  at  the  time  of  the  episode,
+knew the signature of the bank customer on whose account the
+check was drawn. This knowledge made it possible for her to
+recognize the signature on the check as a forgery, and to testify
+with  first-hand  knowlege  that  the  signature  on  the  check
+presented was different from the signature of the owner of the
+account. Thus, the testimony is permitted.
+
+(A)  is  wrong  because  there  is  nothing  in  the  fact  pattern  to
+suggest  that  the  bank  teller  is  an  expert  on  handwriting — 
+merely working as a bank teller would not give a person such
+expertise.
+
+(C)  is  wrong  because  it  misstates  the  application  of  the
+original  document  rule.  This  choice  is  premised  on  a
+plausible  idea:  that  because  what’s  being  proved  is  the
+contents  of  a  writing  (namely,  the  signature  on  a  check),  the
+original  of  that  writing  must  be  produced.  FRE  1002’s
+implementation of the original documents rule (a/k/a the Best
+Evidence  Rule)  indeed  says  that  “An  original  writing,
+recording,  or  photograph  is  required  in  order  to  prove  its
+content  unless  these  rules  or  a  federal  statute  provides
+otherwise.” So if the original of the check had been available
+to  the  prosecution,  the  prosecution’s  failure  to  present  that
+original,  and  to  have  the  teller  testify  about  the  check’s
+contents instead, would indeed have been a violation of FRE
+1002.  But  FRE  1004(a)  grants  an  exception  to  the  original
+documents rule where “all the originals are lost or destroyed,
+and not by the proponent acting in bad faith[.]” The proponent
+here  is  the  prosecution  (not  the  bank  teller),  so  even  if  the
+teller had acted in bad faith in not securing the check, the FRE
+1004(a) exception would still have applied. In any event, on
+the facts here, there is no evidence that the teller behaved in
+bad  faith  (or  was  even  at  fault)  by  not  securing  the  check
+before the defendant could grab it and run away with it.
+(D)  is  wrong  because  having  an  expert  (or  even  the  jury
+
+514
+
+members  themselves)  compare  an  exemplar  established  as
+genuine  with  the  disputed  signature  is  not  the  only  way  to
+establish  whether  a  signature  is  forged  or  authentic.  It’s  true
+that FRE 901(b)(3) permits authentication of a document via
+“a  comparison  with  an  authenticated  specimen  by  an  expert
+witness  or  the  trier  of  fact.”  However,  this  is  not  the  only
+method  authorized  by  FRE  901.  FRE  901(b)(2)  permits
+authentication  by  “a  nonexpert’s  opinion  that  handwriting  is
+genuine, based on a familiarity with it that was not acquired
+for  the  current  litigation.”  The  testimony  here  satisfies  that
+method,  since  the  teller  got  her  familiarity  with  the  real
+account-holder’s  signature  in  a  way  that  pre-dated  the
+litigation.
+
+b.  Exemplars
+
+Question 41: Parker sues Dix for breach of a promise made
+in  a  letter  allegedly  written  by  Dix  to  Parker.  Dix  denies
+writing the letter.
+
+Which of the following would NOT be a sufficient basis for
+admitting the letter into evidence?
+
+(A)    Testimony  by  Parker  that  she  is  familiar  with  Dix’s
+
+signature and recognizes it on the letter.
+
+(B)    Comparison  by  the  trier  of  fact  of  the  letter  with  an
+
+admitted signature of Dix.
+
+(C)    Opinion  testimony  of  a  nonexpert  witness  based  upon
+the
+
+to  authenticate 
+
+in  order 
+
+familiarity  acquired 
+signature.
+
+(D)    Evidence  that  the  letter  was  written  in  response  to  one
+
+written by Parker to Dix.
+
+Answer 41: Choice (C) is correct (i.e., the choice is not an
+acceptable  method  of  authentication).  FRE  901(b)(2)  allows
+authentication  by  “a  nonexpert’s  opinion  that  handwriting  is
+genuine, based on a familiarity with it that was not acquired
+for  the  current  litigation.”  The  fact  pattern  indicates  that  the
+nonexpert  acquired  familiarity  in  order  to  authenticate  the
+signature; therefore, this would not serve as a sufficient basis
+for admitting the letter into evidence.
+
+(A)  is  wrong  because  a  nonexpert  who  is  already  familiar
+with a signature may testify as to its genuineness as provided
+
+515
+
+by FRE 901(b)(2) and discussed in the explanation to (C). It
+is irrelevant that the nonexpert is a party to the litigation.
+
+(B) is wrong because handwriting may be authenticated by the
+use of exemplars, in which case it is up to the jury to compare
+the  exemplar  with  the  offered  writing  to  determine  its
+genuineness.
+
+(D) is wrong, because evidence that the letter (relying on its
+contents  and  other  circumstances)  was  written  as  a  reply  to
+one already authenticated is a method of authentication falling
+under the category of “distinctive characteristics of the item,
+taken together with all the circumstances.” FRE 901(b)(4).
+
+2.  Phone conversation
+
+a.  Incoming calls
+
+Question  42:  In  a  narcotics  conspiracy  prosecution  against
+Daly, the prosecutor offers in evidence a tape recording of a
+telephone  call  allegedly  made  by  Daly.  A  lay  witness  is
+called to testify that the voice on the recording is Daly’s. Her
+testimony  to  which  of  the  following  would  be  the  LEAST
+sufficient basis for admitting the recording?
+
+(A)  She had heard the same voice on a similar tape recording
+
+identified to her by Daly’s brother.
+
+(B)  She had heard Daly speak many times, but never over the
+
+telephone.
+
+(C)    She  had,  specifically  for  the  purpose  of  preparing  to
+testify,  talked  with  Daly  over  the  telephone  at  a  time
+after the recording was made.
+
+(D)  She had been present with Daly when he engaged in the
+conversation in question but had heard only Daly’s side
+of the conversation.
+
+Answer 42: Choice (A)  is  the  best  response,  because  under
+this  alternative,  the  lay  witness  is  not  personally  familiar
+with  Daly’s  voice,  and  thus  the  recording  wouldn’t  be
+admissible with this testimony alone. The rule is that a voice
+can  be  authenticated  by  any  person  who  recognizes  it.  FRE
+901(b)(5)  allows  authentication  by  means  of  “an  opinion
+identifying  a  person’s  voice — whether  heard  firsthand  or
+through mechanical or electronic transmission or recording 
+
+516
+
+— based on hearing the voice at any time under circumstances
+that connect it with the alleged speaker.” Here, the only thing
+linking  the  lay  witness  and  Daly’s  voice  is  an  assurance  by
+Daly’s brother that a recorded voice was Daly’s; the witness
+herself  has  no  personal  familiarity  with  it.  (Thus,  if  Daly’s
+brother  were  lying  or  mistaken,  the  lay  witness’s  testimony
+would  be  useless.)  Since  (A)  states  the  only  basis  on  which
+the  lay  witness  couldn’t  authenticate  the  tape,  of  these  four
+choices, it’s the best response.
+
+(B) is wrong because the fact that the witness had never heard
+Daly  speak  over  the  telephone  would  be  irrelevant.  FRE
+901(b)(5)  allows  authentication  by  means  of  “an  opinion
+identifying  a  person’s  voice — whether  heard  firsthand  or
+through  mechanical  or  electronic  transmission  or  recording 
+— based on hearing the voice at any time under circumstances
+that connect it with the alleged speaker.” Here, the lay witness
+satisfies  this  requirement  because  she  had  heard  the  voice
+many  times.  The  rule  doesn’t  require  that  the  witness  be
+familiar  with  the  voice  in  the  form  in  which  it  must  be
+authenticated (here, a tape recording).
+
+(C)  is  wrong  because  the  lay  witness  could  authenticate  the
+recording  on  this  basis,  since  any  person  who  recognizes  a
+voice can authenticate it. FRE 901(b)(5) (quoted in full in (A)
+above)  allows  lay  testimony  identifying  a  voice  based  upon
+“hearing  the  voice  at  any  time  under  circumstances  that
+connect it with the alleged speaker.” This language means that
+familiarity  acquired  in  anticipation  of  litigation  does  not
+disqualify  the  witness.  (This  makes  the  situation  different
+from handwriting, as to which 901(b)(2) allows lay testimony
+only  if  “based  on  a  familiarity  with  it  that  was  not  acquired
+for the current litigation.”)
+(D) is wrong because it represents possibly the best basis on
+which  the  lay  witness  could  authenticate  the  recording.  Not
+only  would  she  be  able  to  recognize  the  voice,  but  she’d  be
+familiar  with  the  very  conversation  that  was  recorded.
+Nothing  in  901(b)(5)  would  come  close  to  ruling  out  an
+identification  of  the  speaker  on  a  tape  as  having  been  the
+person  whose  side  of  the  taped  conversation  the  witness
+heard in person.
+
+517
+
+II.   THE “BEST EVIDENCE” RULE FOR
+RECORDED COMMUNICATIONS
+
+A.  Communications covered
+
+1.  Other “real” evidence not covered
+
+Question 43: Poole sued Darrel for unlawfully using Poole’s
+idea  for  an  animal  robot  as  a  character  in  Darrel’s  science
+fiction  movie.  Darrel  admitted  that  he  had  received  a  model
+of an animal robot from Poole, but he denied that it had any
+substantial similarity to the movie character. After the model
+had been returned to Poole, Poole destroyed it.
+
+In  order  for  Poole  to  testify  to  the  appearance  of  the  model,
+Poole
+
+(A)  must show that he did not destroy the model in bad faith.
+(B)    must  give  advance  notice  of  his  intent  to  introduce  the
+
+oral testimony.
+
+(C)  must introduce a photograph of the model if one exists.
+(D)    need  do  none  of  the  above,  because  the  “best  evidence
+recordings,  and
+
+to  writings, 
+
+rule”  applies  only 
+photographs.
+
+Answer 43: Choice (D) is correct. Under FRE 1002, the Best
+Evidence  Rule  applies  only  to  writings  recordings,  and
+photographs.
+
+Since  the  Best  Evidence  Rule  doesn’t  apply  to  models,  the
+original model need not be produced, and Poole may testify to
+its  appearance  without  adhering  to  any  of  the  requirements
+laid out in Choices (A), (B), and (C).
+
+Question  44:  A  plaintiff  sued  a  defendant  for  injuries
+suffered in a car accident allegedly caused by brakes that had
+been  negligently  repaired  by  the  defendant.  At  a  settlement
+conference, the plaintiff exhibited the brake shoe that caused
+the  accident  and  pointed  out  the  alleged  defect  to  an  expert,
+whom  the  defendant  had  brought  to  the  conference.  No
+settlement  was  reached.  At  trial,  the  brake  shoe  having
+disappeared,  the  plaintiff  seeks  to  testify  concerning  the
+condition of the shoe.
+The plaintiff’s testimony is
+
+518
+
+(A)  admissible, because the defendant’s expert had been able
+
+to examine the shoe carefully.
+
+(B)  admissible, because the plaintiff had personal knowledge
+
+of the shoe’s condition.
+
+(C)  inadmissible, because the brake shoe was produced and
+
+examined as a part of settlement negotiations.
+
+(D)    inadmissible,  unless  the  plaintiff  establishes  that  the
+
+disappearance was not his fault.
+
+Answer  44:  Choice  (B)  is  correct.  Where  a  witness  has
+personal  knowledge  about  a  fact,  the  witness  is  ordinarily
+entitled  to  testify  about  that  fact.  Here,  the  plaintiff  has
+personal  knowledge  about  the  condition  of  the  shoe,  and  is
+therefore  entitled  to  testify  about  that  condition,  unless  some
+other  rule  blocks  the  testimony.  There  is  no  such  other  rule
+that applies here.
+
+(A) is wrong because the fact that the defendant’s expert was
+able  to  examine  the  shoe  carefully  is  irrelevant.  Even  if  the
+defendant’s expert had not been able to examine the shoe, the
+plaintiff  would  still  have  been  permitted  to  testify  about  his
+personal knowledge of the condition.
+
+(C)  is  wrong  because  the  fact  that  a  physical  object  was
+present  during  settlement  negotiations  does  not  mean  that
+testimony about the object’s condition becomes inadmissible.
+It  is  true  that  FRE  408(a)  makes  inadmissible  settlement
+offers,  as  well  as  “conduct  or  a  statement  made  during”
+settlement  negotiations,  if  offered  to  “prove  or  disprove  the
+validity  or  amount  of  a  disputed  claim.”  But  FRE  408(b)
+carefully  states  that  the  court  may  admit  such  settlement-
+related  conduct  or  statements  “for  another  purpose”  than
+proving  or  disproving  the  validity  or  amount  of  the  disputed
+claim.  The  fact  that  the  plaintiff  displayed  the  shoe  during  a
+settlement  conference  doesn’t  mean 
+the  plaintiff’s
+testimony  about  the  shoe’s  condition  is  being  offered  to
+“prove  or  disprove  the  validity  or  amount  of  a  disputed
+claim”  as  prohibited  by  408(a);  therefore,  it’s  408(b)  that
+controls, to make 408’s ban on settlement-related conduct or
+statements inapplicable.
+(D) is wrong because the plaintiff does not bear the burden of
+
+that 
+
+519
+
+establishing  that  the  disappearance  was  not  his  fault.  If  the
+item had been a document, and its “contents” were sought to
+be  proved,  the  FRE’s  implementation  of  the  Best  Evidence
+Rule would mean that the fact that the person seeking to testify
+about  the  contents  was  responsible  in  bad  faith  for  the
+document’s  disappearance  would  cause  the  testimony  to  be
+excluded.  (See  FRE  1004:  “An  original  is  not  required,  and
+other evidence of the contents of a writing . . . is admissible if
+(a)  all  the  originals  are  lost  or  destroyed,  and  not  by  the
+proponent acting in bad faith[.]”) But no such rule applies to
+items of physical evidence that are not writings, recordings,
+or photographs (i.e., to items that are not subject to the Best
+Evidence Rule). The court probably has discretion to exclude
+testimony  about  an 
+real  evidence  whose
+item  of 
+disappearance has been shown to have been procured by the
+intentional wrongdoing of the proponent of the testimony. But
+even so, it certainly is not the case that the burden would be
+placed  on  the  party  who  will  be  testifying  to  make  an
+affirmative showing that that party was not responsible for the
+disappearance.
+
+B.  Proving the contents
+
+to  answer  questions, 
+
+Question  45:  A  defendant  was  charged  with  burglary.  At
+trial,  a  police  officer  testified  that,  after  the  defendant  was
+arrested  and  agreed 
+the  officer
+interrogated  him  with  a  stenographer  present,  but  that  the
+officer could not now recall what the defendant had said. The
+prosecutor  presented  the  officer  with  a  photocopy  of  the
+stenographic transcript of the interrogation. The officer, after
+looking at it, was prepared to testify that he recalled that the
+defendant  admitted  to  being  in  the  area  of  the  burglary.  The
+defendant  objected  to  the  officer’s  testimony  on  the  ground
+that  it  violated  the  “original  document”  rule  (also  known  as
+the “best evidence” rule).
+Should  the  officer’s  testimony  concerning  the  defendant’s
+recorded confession be admitted?
+(A)    No,  because  a  photocopy  cannot  be  used  without  a
+
+showing that the original is unavailable.
+
+(B)    No,  because  the  stenographer  has  not  testified  to  the
+
+520
+
+accuracy of the transcript.
+
+(C)  Yes, because a photocopy is a duplicate of the original.
+(D)  Yes, because the prosecutor is not attempting to prove the
+
+contents of the document.
+
+Answer 45: Choice (D) is correct. The prosecutor is trying to
+prove  what  the  defendant  said,  not  what  the  transcript  says.
+Accordingly,  FRE  1003,  the  Best  Evidence  Rule,  is  not
+relevant.  (It  would  be  different,  for  example,  if  this  was  a
+contract and the parties differed over the wording of a clause
+in the contract — then the BER would apply.) In this case, the
+copy  of  the  transcript  is  properly  used  under  FRE  612  to
+revive the officer’s recollection.
+
+Notice, by the way, that neither this choice nor any part of the
+question  uses  the  phrase  “present  recollection  refreshed,”
+even though that’s the doctrine that controls the outcome. It’s
+up  to  you  to  recognize  that  refreshment  of  recollection  is
+what’s  occurring,  and  that  it’s  being  done  properly  here.
+Under the doctrine of present recollection refreshed, any item
+may  be  used  to  refresh  the  witness’s  memory,  including
+leading  questions,  documents,  or  objects.  If  the  witness,
+having seen the refreshing object, can testify from memory, the
+item  will  not  be  considered  evidence.  See  FRE  612,
+refreshed
+the  present 
+implicitly  allowing 
+technique,  subject  to  certain  limitations  (which  don’t  affect
+the  outcome  here).  Here,  the  officer  is  going  to  testify  (from
+his  memory,  after  refreshing  it  from  the  transcript)  to  his
+recollection  that  the  defendant  admitted  being  nearby,  so  the
+recollection-refreshed doctrine applies.
+
+recollection 
+
+(A) is wrong because the prosecutor is trying to prove what
+the defendant said, not what the transcript says. Accordingly,
+the  Best  Evidence  Rule  is  not  relevant.  By  the  way,  even
+assuming  that  the  BER  applied  here,  this  choice  is  not  an
+accurate  statement  of  the  law.  Under  FRE  1003,  a  duplicate
+can  be  admissible  without  any  showing  that  the  original  is
+unavailable.  A  showing  of  unavailability  is  required  only  if
+the  party  is  seeking  to  introduce  something  other  than  a
+duplicate  (e.g.,  oral  testimony)  to  prove  the  contents  of  a
+document. See FRE 1004.
+(B)  is  wrong  because  this  is  not  a  case  of  past  recollection
+
+521
+
+recorded; if it were, the prosecutor would have to show that
+the stenographer accurately recorded what the defendant said.
+In  this  case,  the  officer  is  testifying  to  his  own  (present)
+recollection  of  what  the  defendant  said,  that  recollection
+having  been  revived  by  looking  at  the  transcript.  Therefore,
+the relevant doctrine is “present recollection refreshed.” That
+doctrine  is  embodied  in  FRE  612,  under  which  a  document
+used  only  to  refresh  the  recollection  of  the  witness  does  not
+have to be accurate or reliable, because the document is not
+being  admitted  into  evidence.  So  here,  the  copy  of  the
+transcript  is  being  properly  used  to  refresh  the  officer’s
+recollection, and the officer’s testimony is the evidence.
+
+(C)  is  wrong  because,  although  FRE  1003  supports  the
+admission  of  photocopies  with  some  exceptions,  this  option
+assumes  that  the  Best  Evidence  Rule  applies  here,  which  it
+doesn’t. The prosecutor is trying to prove what the defendant
+said, not what the transcript says. The transcript here is being
+used to refresh the officer’s recollection under Federal Rule
+of Evidence 612, so Rule 1003 (the FRE’s version of the Best
+Evidence Rule) is not relevant.
+
+III.  SUMMARIES OF VOLUMINOUS WRITINGS
+
+A.  Summaries generally
+
+Question 46: A lawyer worked steadily on a case for a client
+over  a  five-year  period,  with  the  billing  agreed  to  be  on
+particular  amount  charge  per  hour  worked.  The  lawyer  kept
+regular timesheets showing, for any day on which he worked
+on  the  matter,  how  long  he  worked  and  which  of  various
+activities  (phone  calls,  letter-writing,  etc.)  he  performed  on
+that  day.  In  the  lawyer’s  suit  against  the  client  for  non-
+payment,  the  lawyer  did  not  offer  into  evidence  the  actual
+timesheets.  Instead,  in  preparation  for  trial,  the  lawyer  used
+the  timesheets  to  create  a  summary  showing,  for  each  week,
+how much time the lawyer spent on each of the activity types.
+Then,  at  trial,  the  lawyer  offered  these  weekly  summaries,
+together with his testimony about how he had prepared them.
+If  the  client  properly  objects,  the  judge  should  hold  that  the
+summaries are
+
+522
+
+(A)    inadmissible  for  any  purpose,  because  the  underlying
+timesheets  from  which  they  were  prepared  were  not
+offered into evidence.
+
+(B)  inadmissible as substantive evidence, but usable as non-
+admitted  materials  to  refresh  the  lawyer’s  present
+recollection.
+
+(C)    admissible  as  substantive  evidence  of  hours  worked,  if
+the  underlying  timesheets  were  made  available  to  the
+client prior to trial.
+
+individual 
+
+(D)  admissible as substantive evidence only if the underlying
+timesheets were lost through no fault of the lawyer.
+Answer 46: Choice (C) is correct. FRE 1006 says that “The
+proponent may use a summary, chart, or calculation to prove
+recordings,  or
+the  content  of  voluminous  writings, 
+photographs  that  cannot  be  conveniently  examined  in  court.”
+The 
+the  “voluminous
+timesheets  here  meet 
+writings”  standard,  since  they  would  be  almost  daily  over  a
+five-year timeframe, a stack that would be hard for the judge
+or  jury  to  examine  in  court.  FRE  1006  also  says  that  “The
+proponent must make the originals or duplicates available for
+examination  or  copying,  or  both,  by  other  parties  at  a
+reasonable  time  and  place.”  So  the  fact  that  the  underlying
+timesheets were made available to the client prior to trial, as
+specified  in  this  choice,  is  a  necessary  condition  for  the
+summaries’  admission  under  FRE  1006.  By  the  way,  the
+summaries:  (1)  become  evidence  (i.e.,  they’re  not  just  non-
+evidentiary  testimonial  aids);  and  (2)  substitute  for  the
+underlying originals, which means that those originals must be
+independently admissible. Here, the underlying timesheets are
+hearsay,  but  they  fall  within  FRE  803(6)’s  business  records
+exception.
+(A)  is  wrong  because  the  summary-of-voluminous-writings
+provision  of  FRE  1006  applies  as  described  in  Choice  (C)
+above, and that provision does not require that the underlying
+writings being summarized be offered into evidence (although
+they may be).
+(B)  is  wrong  because,  under  FRE  1006,  the  summaries  can
+come in as substantive evidence, as described in Choice (C)
+above.
+
+523
+
+(D) is wrong because the summaries can come in under FRE
+1006 even if the underlying timesheets have not been lost. If
+you picked this choice, you may be thinking of FRE 1004(1),
+under which the BER can be satisfied by something other than
+the original writing or a duplicate thereof (e.g., a summary) if
+“all the originals are lost or have been destroyed, and not by
+the proponent acting in bad faith[.]” But FRE 1006 provides
+an independent means of getting summaries into evidence (one
+that  does  not  depend  on  loss  of  originals),  and  that  means
+1006 is available here as discussed in Choice (C) above.
+
+524
+
+CHAPTER 8
+OPINIONS, EXPERTS, AND SCIENTIFIC
+EVIDENCE
+
+I.    EXPERT WITNESSES
+
+A.  Basis for expert’s opinion
+
+1.  Inadmissible evidence
+
+a.  Proponent and expert can’t disclose
+
+Question 47: Phillips purchased a suit of thermal underwear
+manufactured  by  Makorp  from  synthetic  materials.  While  he
+was  attempting  to  stamp  out  a  fire,  Phillips’  thermal
+underwear  caught  fire  and  burned  in  a  melting  fashion  up  to
+his waist. He suffered a heart attack a half hour later. In a suit
+against  Makorp,  Phillips  alleged  that  negligence  and  breach
+of warranty caused both the burn and the heart attack. Phillips
+testified to the foregoing.
+Dr. Jones, a physician, having listened to Phillips’ testimony,
+is called by Phillips and asked whether, assuming the truth of
+such  testimony,  Phillips’  subsequent  heart  attack  could  have
+resulted from the burns. His opinion is
+
+(A)  admissible as a response to a hypothetical question.
+(B)  admissible because the physician’s expertise enables him
+
+to judge the credibility of Phillips’ testimony.
+
+(C)  inadmissible, because a hypothetical question may not be
+
+based on prior testimony.
+
+(D)    inadmissible,  because  an  expert’s  opinion  may  not  be
+based solely on information provided by lay persons.
+Answer  47:  Choice  (A)  is  the  best  response  because  it
+correctly identifies that the testimony here is admissible as a
+response  to  a  hypothetical  question.  Expert  testimony  is
+appropriate  where  the  court  determines  that  “the  expert’s
+scientific, technical, or other specialized knowledge will help
+the trier of fact to understand the evidence or to determine a
+fact in issue[.]” FRE 702(a). Here, Dr. Jones’ testimony will
+issue — whether  or  not  flaming
+address 
+
+the  causation 
+
+525
+
+underwear could cause a heart attack. Dr. Jones’ status as an
+expert  entitles  him  to  offer  opinion  evidence  that  would  be
+inadmissible  coming  from  a  lay  witness,  and  to  rely  on
+information unavailable to a lay witness. The related issue is
+whether Dr. Jones may rely on the testimony presented at trial.
+The answer is yes: FRE 703 says that “an expert may base an
+opinion on facts or data in the case that the expert has  been
+made aware of or personally observed.” So data supplied at
+the  hearing — whether  in  the  form  of  testimony  of  other
+witnesses or a hypothetical posed by the questioner (here, it’s
+a  combination  of  both) — may  be  the  basis  for  the  expert
+opinion, since it’s data that the expert “has been made aware
+of.”
+
+(B) is wrong because Jones’s status as a physician wouldn’t
+give  him  expert  status  in  determining  credibility.  As  a
+threshold  matter,  credibility  itself  is  not  a  “fact,”  and  expert
+testimony  is  only  available  to  assist  the  trier  of  fact  to
+understand evidence or to determine a fact in issue. FRE 702.
+Beyond  that,  a  physician’s  expertise  gives  him  the  ability  to
+offer opinion testimony on medical matters; it’s irrelevant to
+assessing the credibility of testimony, since one’s status as a
+doctor doesn’t make him a better judge of witness credibility
+than anyone else.
+(C) is wrong because it states an incorrect rule. FRE 703 says
+that  “an  expert  may  base  an  opinion  on  facts  or  data  in  the
+case  that  the  expert  has  been  made  aware  of  or  personally
+observed.”  This  language  allows  the  expert  to  offer  an
+opinion  based  on  the  “data”  included  in  a  hypothetical
+question.  And  the  hypothetical  question  for  this  purpose  can
+be  based  on  prior  trial  testimony  and  on  the  assumption  that
+that prior testimony is truthful. (That’s in fact a very common
+way for a proponent of expert testimony to proceed.)
+(D)  is  wrong  because  it  states  an  incorrect  rule.  An  expert
+may  base  his  opinion  on  “facts  or  data  in  the  case  that  the
+expert  has  been  made  aware  of.”  FRE  703.  Neither  this  nor
+any  other  provision  prevents  the  expert  from  basing  his
+opinion solely on information provided by lay persons.
+
+B.  Opinion about defendant’s mental state
+
+526
+
+Question  48:  On  trial  for  murdering  her  husband,  the
+defendant  testified  that  she  acted  in  self-defense.  The
+defendant  calls  an  expert  psychologist  to  testify  that  under
+hypnosis  the  defendant  had  described  the  killing,  and  that  in
+the expert’s opinion the defendant had been in fear for her life
+at the time of the killing.
+
+Is the expert’s testimony admissible?
+
+(A)    Yes,  because  the  expert  was  able  to  ascertain  that  the
+
+defendant was speaking truthfully.
+
+(B)  Yes, because it reports a prior consistent statement by a
+to  examination
+
+(the  defendant) 
+
+subject 
+
+witness 
+concerning it.
+
+(C)  No, because reliance on information tainted by hypnosis
+
+is unconstitutional.
+
+(D)    No,  because  it  expresses  an  opinion  concerning  the
+
+defendant’s mental state at the time of the killing.
+
+Answer 48: Choice (D) is correct. FRE 704(b) says that “In a
+criminal  case,  an  expert  witness  must  not  state  an  opinion
+about whether the defendant did or did not have a mental state
+or condition that constitutes an element of the crime charged
+or of a defense. Those matters are for the trier of fact alone.”
+The  proposed  testimony  here — that  the  defendant  had  the
+mental  state  required  for  a  defense  (the  defense  of  self-
+defense) — falls squarely within this prohibition.
+
+(A) is wrong because the statement is not admissible, whether
+or  not  the  expert  believed  that  the  defendant  was  speaking
+truthfully.  As  described  in  Choice  (D)  above,  FRE  704(b)
+bars  the  proposed  testimony.  Additionally,  the  vast  majority
+of  courts  have  rejected  the  admission  of  statements  made
+under hypnosis. This is true whether the statement is offered
+as substantive evidence or for its bearing on the credibility of
+the witness’s live testimony at trial.
+
+(B)  is  wrong  because,  as  described  in  Choice  (D),  the
+statement  is  expressly  barred  by  FRE  704(b).  If  it  weren’t
+barred  by  704(b),  it  might  well  be  admissible  under  FRE
+801(d)(1)(B), which defines as non-hearsay, and thus allows,
+a  prior  statement  if  “the  declarant  testifies  and  is  subject  to
+the
+cross-examination  about  [the]  prior  statement,  and 
+
+527
+
+implied  charge” 
+
+statement . . . (B) is consistent with the declarant’s testimony
+and is offered to rebut an express or implied charge that the
+declarant  recently  fabricated  it  or  acted  from  a  recent
+improper influence or motive in so testifying[.]” It’s not clear
+from the facts here that the prosecution is making an “express
+or 
+the  defendant  has  “recently
+fabricated” her assertion that she acted in fear for her life, but
+if the court were convinced that there was such a charge (and
+if the defendant was willing to testify after the expert did and
+be cross-examined about the declaration), and if FRE 704(b)
+didn’t  intervene,  the  statement  here  would  be  admissible
+under 801(d)(1)(B).
+
+that 
+
+(C)  is  wrong  because  use  of  the  hypnosis-induced  out-of-
+court  statement  by  the  defendant  would  not  violate  her
+constitutional  rights.  If  hypnosis-induced  testimony  were
+introduced  against  a  criminal  defendant,  this  usage  might
+conceivably  violate  the  defendant’s  criminal  rights.  (If  the
+statement  were  induced  from  a  third-party  witness  who  was
+not available for cross-examination at trial, for instance, use
+of  the  testimony  might  violate  the  defendant’s  Confrontation
+Clause  rights.)  But  use  by  a  criminal  defendant  could  never
+violate  the  Constitution — whose  rights  would  be  violated?
+(The state itself, in the form of the prosecution, does not have
+“constitutional rights” vis-à-vis the defendant.)
+
+528
+
+http://barbeyond.taobao.com  QQ&Wechat: 1014347461  email: barbeyond@vip.qq.com  Skype ID: barbeyond
+
+CHAPTER 9
+BURDENS OF PROOF, PRESUMPTIONS,
+AND OTHER PROCEDURAL ISSUES
+
+I.    PRESUMPTIONS
+
+A.  Effect of presumptions in federal civil cases
+
+1.  How this works
+
+a.  Instructions to jury
+
+Question 49: In litigation on a federal claim, Plaintiff had the
+burden of proving that Defendant received a notice. Plaintiff
+relied on the presumption of receipt by offering evidence that
+timely notice was addressed to Defendant, properly stamped,
+and  mailed.  Defendant,  on  the  other  hand,  testified  that  she
+never received the notice.
+Which of the following is correct?
+(A)  The jury must find that the notice was received.
+(B)  The jury may find that the notice was received.
+(C)    The  burden  shifts  to  Defendant  to  persuade  the  jury  of
+
+nonreceipt.
+
+(D)    The  jury  must  find  that  the  notice  was  not  received,
+because  the  presumption  has  been  rebutted  and  there  is
+uncontradicted evidence of nonreceipt.
+
+Answer 49: Choice (B) is correct. Under FRE 301, once the
+opponent of the presumption comes up with enough evidence
+of  the  presumed  fact’s  non-existence  that  a  jury  could
+reasonably  find  that  the  presumed  fact  does  not  exist,  the
+presumption disappears from the case in the sense that there is
+no effect on the burden of persuasion. When this happens, the
+court may instruct the jury that it may infer the existence of the
+presumed fact from proof of the basic fact, but the jury is not
+required  to  so  infer.  In  this  case,  Defendant’s  testimony,  “I
+never got the notice,” is enough to entitle a reasonable jury to
+find that the presumed fact (receipt) does not exist. Therefore,
+the  presumption  of  receipt  has  disappeared  and  the  plaintiff
+still  has  the  burden  of  persuasion  regarding  the  issue  of
+
+529
+
+receipt  of  the  notice.  But  notwithstanding  the  disappearance
+of  the  presumption,  the  jury  is  still  entitled  to  conclude  that
+notice  was  received  from  proof  of  the  basic  fact  that  notice
+was given. Therefore, this choice is accurate in saying that the
+jury may infer, but is not required to infer, that the notice was
+received.
+
+(A) is wrong because, as noted in the explanation of (B), once
+the  presumption  disappears  from  the  case,  the  court  may
+instruct the jury that it may infer the existence of the presumed
+fact  from  proof  of  the  basic  facts,  but  it  is  not required  that
+the jury do so.
+
+(C)  is  wrong  because,  as  explained  in  (B),  the  presumption
+has no effect on the burden of persuasion; it “remains on the
+party who had it originally” (FRE 301), which, in this case, is
+the plaintiff.
+
+(D) is wrong because, as discussed in (B), the jury may infer
+the existence of the presumed fact from proof of the basic fact
+(i.e., jury may find that the notice was received) even though
+the presumption has disappeared from the case.
+
+II.   JUDGE-JURY ALLOCATION
+
+A.  Issues of fact
+
+1.  Technical exclusionary rule
+
+a.  Rules of evidence not binding
+
+to 
+
+letter  from 
+
+Question  50:  In  a  prosecution  of  Drew  for  forgery,  the
+defense objects to the testimony of West, a government expert,
+on  the  ground  of  inadequate  qualifications.  The  government
+the  expert’s  former
+seeks 
+introduce  a 
+is  generally
+criminology  professor,  stating 
+acknowledged in his field as well qualified.
+On  the  issue  of  the  expert’s  qualifications,  the  letter  may  be
+considered by
+(A)  the jury, without regard to the hearsay rule.
+(B)  the judge, without regard to the hearsay rule.
+(C)    neither  the  judge  nor  the  jury,  because  it  is  hearsay  not
+
+that  West 
+
+within any exception.
+
+530
+
+(D)    both  the  judge  and  the  jury,  because  the  letter  is  not
+
+offered for a hearsay purpose.
+
+Answer  50:  Choice  (B)  is  correct.  Questions  of  whether  a
+person is qualified to be a witness (whether expert or lay) are
+to  be  decided  by  the  judge.  In  doing  so,  the  judge  may  take
+into  account  inadmissible  evidence  (except  with  respect  to
+privileges). FRE 104(a).
+
+(A), (C), and (D) are wrong because each is inconsistent with
+the above explanation.
+
+Question 51: In a prosecution of the defendant for murder, the
+government  seeks  to  introduce  a  properly  authenticated  note
+written  by  the  victim  that  reads:  “[the  defendant]  did  it.”  In
+laying  the  foundation  for  admitting  the  note  as  a  dying
+declaration,  the  prosecution  offered  an  affidavit  from  the
+attending physician that the victim knew she was about to die
+when she wrote the note.
+The admissibility of the note as a dying declaration is
+(A)    a  preliminary  fact  question  for  the  judge,  and  the  judge
+
+must not consider the affidavit.
+
+(B)    a  preliminary  fact  question  for  the  judge,  and  the  judge
+
+may properly consider the affidavit.
+
+(C)  a question of weight and credibility for the jury, and the
+
+jury must not consider the affidavit.
+
+(D)  a question of weight and credibility for the jury, and the
+
+jury may properly consider the affidavit.
+
+Answer 51: Choice (B) is correct. Both parts of this answer
+are true. As to the first part, before a declaration can be found
+to  be  an  admissible  “dying  declaration,”  some  preliminary
+questions  of  fact  must  be  answered.  In  particular,  it  must  be
+determined  whether  the  declarant  was  indeed  aware  of  her
+impending death. Under the FRE, the jury decides issues like
+this,  of  conditional  relevance,  but  it  is  the  judge  who  makes
+the initial decision of admissibility, in determining whether a
+reasonable  jury  could  find  that  the  preliminary  fact  exists:
+“When  the  relevance  of  evidence  depends  on  whether  a  fact
+exists,  proof  must  be  introduced  sufficient  to  support  a
+finding that the fact does exist.” FRE 104(b). In other words,
+if the judge decides that there is enough evidence that a jury
+
+531
+
+could  reasonably  find  (that’s  what  the  phrase  “sufficient  to
+support  a  finding”  means)  that  there  was  an  awareness  of
+impending  death,  he  will  let  the  jury  hear  the  declaration,
+even  though  he  may  personally  believe  that  it  is  less  likely
+than not that there was such awareness.
+
+As  to  the  second  part,  the  judge’s  ability  to  consider  the
+affidavit,  FRE  104(a)  says  that  “The  court  must  decide  any
+preliminary  question  about  whether  a  witness  is  qualified,  a
+privilege exists, or evidence is admissible. In so deciding, the
+court  is  not  bound  by  evidence  rules,  except  those  on
+privilege.”  The  affidavit  is  relevant  to  the  issue  of  whether
+the declarant was aware of her impending death. It’s true that
+the affidavit is hearsay (it’s an out-of-court statement offered
+to  prove  the  truth  of  the  matter  asserted,  i.e.,  that  the  victim
+knew or believed she was dying). And this hearsay does not
+fall  within  any  exception.  But  under  104(a),  the  judge  may
+consider  this  inadmissible  hearsay  to  make  her  preliminary
+ruling on the admissibility of the note.
+
+(A)  is  wrong  because,  although  it  correctly  states  that  the
+admissibility of the note is a preliminary fact question for the
+judge, it incorrectly states that the judge must not consider the
+affidavit. As described in the discussion of Choice (B) above,
+the judge may consider inadmissible hearsay when resolving
+a  preliminary  question  about  the  admissibility  of  other
+evidence.
+
+(C) is wrong because, although it is true that the jury must not
+consider  the  affidavit,  the  admissibility  of  the  note  is  not  a
+question  for  the  jury.  It  will  be  up  to  the  jury  to  determine
+what  weight  and  credibility  to  give  the  evidence  of  the  note
+once it has been admitted.
+(D) is wrong because the jury cannot consider the affidavit (it
+is  hearsay)  and  also  because  the  admissibility  of  the  note  is
+not  a  question  for  the  jury.  It  will  be  up  to  the  jury  to
+determine what weight and credibility to give the evidence of
+the note once it has been admitted.
+
+532
+
+CHAPTER 10
+JUDICIAL NOTICE
+
+I.    ADJUDICATIVE FACTS
+
+A.  Must take if requested, and may take without a request
+
+1.  Discretionary notice 
+
+Question 52: In state-court contract litigation between Pixley
+and  Dill,  a  fact  of  consequence  to  the  determination  of  the
+action is whether Pixley provided Dill with a required notice
+at Dill’s branch office “in the capital” of the state where the
+suit  is  taking  place.  Pixley  introduced  evidence  that  he  gave
+notice at Dill’s office in the city of Capitan. Although Capitan
+is the state’s capital, Pixley failed to offer proof of that fact.
+
+Which of the following statements is most clearly correct with
+respect  to  possible  judicial  notice  of  the  fact  that  Capitan  is
+the state’s capital?
+(A)    The  court  may  take  judicial  notice  even  though  Pixley
+
+does not request it.
+
+(B)  The court may take judicial notice only if Pixley provides
+the  court  with  an  authenticated  copy  of  the  statute  that
+designates Capitan as the capital.
+
+(C)  If the court takes judicial notice, the burden of persuasion
+on  the  issue  of  whether  Capitan  is  the  capital  shifts  to
+Dill.
+
+(D)  If the court takes judicial notice, it should instruct the jury
+that  it  may,  but  is  not  required  to,  accept  as  conclusive
+the fact that Capitan is the capital.
+
+Answer 52: Choice (A)  is  correct.  First,  the  location  of  the
+state capital is a fact that is “generally known within the trial
+court’s  territorial  jurisdiction.”  FRE  201(b)(1).  So  the  fact
+that  Capitan  is  the  capital  is  appropriate  for  judicial  notice.
+Second,  FRE  201(c)(1)  provides  that  a  court  “may  take
+judicial notice on its own.” So the court may take notice here
+without a request from either party.
+(B)  is  wrong  because  judicial  notice  of  an  appropriate  fact
+
+533
+
+may be taken without submission of formal evidence that the
+fact is true.
+
+(C)  is  wrong  because,  in  a  civil  case,  once  there  is  judicial
+notice,  the  issue  is  decided  and  the  jury  is  not  permitted  to
+weigh  the  evidence  in  order  to  come  to  its  own  conclusion.
+See FRE 201(f): In a civil case, “the court must instruct the
+jury to accept the noticed fact as conclusive.”
+
+(D)  is  wrong  because  in  a  civil  case  the  jury  is  required  to
+accept as conclusive the judicially noticed fact, as discussed
+in (C).
