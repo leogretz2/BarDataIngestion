@@ -38,6 +38,15 @@ def process_folder(base_folder):
                     f.write(combined_text)
                     print(f"Combined text with line numbers saved to {output_file_path}")
 
-# Usage
-base_folder = './working_folder'
-process_folder(base_folder)
+def add_line_numbers(text):
+    lines = text.split('\n')
+    numbered_lines = [(f"(Line_{index:04}): {line}" if line else line) for index, line in enumerate(lines, 1)]
+    return "\n".join(numbered_lines)
+
+def main():
+    # Usage
+    base_folder = './working_folder'
+    process_folder(base_folder)
+
+def main2():
+    

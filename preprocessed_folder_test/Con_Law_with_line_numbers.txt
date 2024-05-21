@@ -15,20 +15,13 @@
 
 
 (Line_0097):  
-(Line_0098): The owner of a milk container manufacturing firm sought to focus public attention on the milk packaging law of a certain state in order to have it repealed. On a weekday at 12:00 noon, he delivered an excited, animated, and loud harangue on the steps of the State Capitol in front of the main entryway. An audience of 200 onlookers, who gathered on the steps, heckled him and laughed as he delivered his tirade. The owner of the manufacturing firm repeatedly stated, gesturing expressively and making faces, that "the g-ddamned milk packaging law is stupid," and that "I will strangle every one of those g-ddamned legislators I can get hold of because this law they created proves they are all too dumb to live." After about fifteen minutes the owner of the manufacturing firm stopped speaking, and the amused crowd dispersed.
-
-(Line_0100): There is one relevant statute of the state which prohibits "all speech making, picketing, and public gatherings of every sort on the Capitol steps in front of the main entryway between 7:45 a.m.-8:15 a.m., 11:45 a.m.-12:15 p.m., 12:45 p.m.-1:15 p.m., and 4:45 p.m.-5:15 p.m. on Capitol working days."
 
 
-(Line_0108): The owner of a milk container manufacturing firm sought to focus public attention on the milk packaging law of a certain state in order to have it repealed. On a weekday at 12:00 noon, he delivered an excited, animated, and loud harangue on the steps of the State Capitol in front of the main entryway. An audience of 200 onlookers, who gathered on the steps, heckled him and laughed as he delivered his tirade. The owner of the manufacturing firm repeatedly stated, gesturing expressively and making faces, that "the g-ddamned milk packaging law is stupid," and that "I will strangle every one of those g-ddamned legislators I can get hold of because this law they created proves they are all too dumb to live." After about fifteen minutes the owner of the milk container manufacturing firm stopped speaking, and the amused crowd dispersed.
 
-(Line_0110): There is one relevant statute of the state which prohibits "all speech making, picketing, and public gatherings of every sort on the Capitol steps in front of the main entryway between 7:45 a.m.-8:15 a.m., 11:45 a.m.-12:15 p.m., 12:45 p.m.-1:15 p.m., and 4:45 p.m.-5:15 p.m. on Capitol working days."
 
-(Line_0122):  
-(Line_0123): X-- The owner of a milk container manufacturing firm sought to focus public attention on the milk packaging law of a certain state in order to have it repealed. On a weekday at 12:00 noon, he delivered an excited, animated, and loud harangue on the steps of the State Capitol in front of the main entryway. An audience of 200 onlookers, who gathered on the steps, heckled him and laughed as he delivered his tirade. The owner of the manufacturing firm repeatedly stated, gesturing expressively and making faces, that "the g-ddamned milk packaging law is stupid," and that "I will strangle every one of those g-ddamned legislators I can get hold of because this law they created proves they are all too dumb to live." After about fifteen minutes the owner of the milk container manufacturing firm stopped speaking, and the amused crowd dispersed.There are two relevant statutes of the state. The first statute prohibits "all speech making, picketing, and public gatherings of every sort on the Capitol steps in front of the main entryway between 7:45 a.m.-8:15 a.m., 11:45 a.m.-12:15 p.m., 12:45 p.m.-1:15 p.m., and 4:45 p.m.-5:15 p.m. on Capitol working days."
+
 
 (Line_0130):  
-(Line_0131): X-- The owner of a milk container manufacturing firm sought to focus public attention on the milk packaging law of a certain state in order to have it repealed. On a weekday at 12:00 noon, he delivered an excited, animated, and loud harangue on the steps of the State Capitol in front of the main entryway. An audience of 200 onlookers, who gathered on the steps, heckled him and laughed as he delivered his tirade. The owner of the manufacturing firm repeatedly stated, gesturing expressively and making faces, that "the g-ddamned milk packaging law is stupid," and that "I will strangle every one of those g-ddamned legislators I can get hold of because this law they created proves they are all too dumb to live." After about fifteen minutes the owner of the milk container manufacturing firm stopped speaking, and the amused crowd dispersed. There are three relevant statutes of the state. The first statute prohibits "all speech making, picketing, and public gatherings of every sort on the Capitol steps in front of the main entryway between 7:45 a.m.-8:15 a.m., 11:45 a.m.-12:15 p.m., 12:45 p.m.-1:15 p.m., and 4:45 p.m.-5:15 p.m. on Capitol working days."
 
 
 
@@ -44,607 +37,71 @@
 (Line_0194):  
 (Line_0201):  
 (Line_0207):  
-(Line_0209): A. the states ceded their authority over highways to the national government when the states accepted federal grants to help finance their highways.
-(Line_0210): B. the federal government can regulate the use of the state highways without limitation because the federal government paid for some of their construction costs.
-(Line_0212): D. a recent public opinion survey demonstrated that 90 percent of the people in this country support a 55 mile-an-hour speed limit.
 
-(Line_0219): D. constitutional on the basis of both the spending power and the commerce power.
 (Line_0220):  
 (Line_0226):  
-(Line_0227): X-- While the defendant was in jail on a pending charge, his landlord called the police because rent had not been paid and because he detected a disagreeable odor coming from the defendant's apartment into the hallways. The police officer who responded to the call knew that the defendant was in jail. He recognized the stench coming from the defendant's apartment as that of decomposing flesh and, without waiting to obtain a warrant and using the landlord's passkey, entered the apartment with the landlord's consent. The lease to these premises gave the landlord a right of entry, at any reasonable hour, for the purpose of making repairs. The police officer found a large trunk in the bedroom which seemed to be the source of the odor. Upon breaking it open, he found the remains of the defendant's former mistress.
-(Line_0228): If the defendant undertakes to challenge the search of his apartment, he has
-(Line_0229): A. standing, because the items seized in the search were incriminating in nature.
-(Line_0230): B. standing, because he still has a sufficient interest in the apartment even while in jail.
-(Line_0231): C. no standing, because his landlord authorized the search.
-(Line_0232): D. no standing, because he was out of the apartment when it occurred and had not paid his rent.
-(Line_0233):  
-(Line_0234): A high priest of a small cult of Satan worshippers lived in a small city. As a part of the practice of their religious beliefs, a cat was required to be sacrificed to the glory of Satan after a live dissection of the animal in which it endured frightful pain. In the course of such a religious sacrifice, the priest was arrested on the complaint of the local Humane Society and charged under a statute punishing cruelty to animals. On appeal, a conviction of the priest probably will be
 
-(Line_0236): A. sustained on the grounds that belief in or worship of Satan does not enjoy constitutional protection.
-(Line_0237): B. sustained on the grounds that sincere religious belief is not an adequate defense on these facts.
-(Line_0238): C. overturned on the grounds that the constitutionally guaranteed freedom of religion and its expression was violated.
-(Line_0239): D. overturned on the grounds that the beliefs of the cult members in the need for the sacrifice might be reasonable, and their act was religious.
-(Line_0240):  
-(Line_0241): An appropriations act passed by Congress over the President's veto directs that one billion dollars "shall be spent" by the federal government for the development of a new military weapons system, which is available only from the Arms Corporation. On the order of the President, the Secretary of Defense refuses to authorize a contract for purchase of the weapons system. The Arms Corporation sues the Secretary of Defense alleging an unlawful withholding of these federal funds. The strongest constitutional argument for the Arms Corporation is that
-(Line_0242): A. passage of an appropriation over a veto makes the spending mandatory.
-(Line_0243): B. Congress' power to appropriate funds includes the power to require that the funds will be spent as directed.
-(Line_0244): C. the President's independent constitutional powers do not specifically refer to spending.
-(Line_0245): D. the President's power to withhold such funds is limited to cases where foreign affairs are directly involved.
 
-(Line_0247): A state has enacted a new election code designed to increase voter responsibility in the exercise of the franchise and to enlarge citizen participation in the electoral process. None of its provisions conflicts with federal statutes. Which of the following is the strongest reason for finding unconstitutional a requirement in the state code that each voter must be literate in English?
-(Line_0248): A. The requirement violates Article I Section 2 of the Constitution, which provides that representatives to Congress be chosen "by the People of the several States."
-(Line_0249): B. The requirement violates Article I, Section 4 of the Constitution, which gives Congress the power to "make or alter" state regulations providing for the "Times" and "Manner" of holding elections for senators and representatives.
-(Line_0250): C. the requirement violates the due process clause of the Fourteenth Amendment.
-(Line_0251): D. The requirement violates the equal protection clause of the Fourteenth Amendment.
 
-(Line_0253): X-- A state has enacted a new election code designed to increase voter responsibility in the exercise of the franchise and to enlarge citizen participation in the electoral process. None of its provisions conflicts with federal statutes. The state election code provides that in a special-purpose election for directors of a state watershed improvement district, the franchise is limited to landowners within the district, because they are the only ones directly affected by the outcome. Each vote is weighted according to the proportion of the holding of that individual in relation to the total affected property. The best argument in support of the statute and against the application of the "one man, one vote" principle in this situation is that the principle
-(Line_0254): A. applies only to elections of individuals to statewide public office.
-(Line_0255): B. does not apply where property rights are involved.
-(Line_0256): C. does not apply, because the actions of such a district principally affect landowners.
-(Line_0257): D. does not apply, because of rights reserved to the states by the Tenth Amendment.
 
-(Line_0259): A state provides by statute, "No person may be awarded any state construction contract without agreeing to employ only citizens of the state and of the United States in performance of the contract."
 
-(Line_0261): If the state statute is attacked as violating the commerce clause, which of the following defenses is the WEAKEST?
-(Line_0262): A. The statute will help protect the workers of the state from competition by foreign workers.
-(Line_0263): B. The statute will help assure that workers with jobs directly affecting the performance of public contracts are dedicated to their jobs.
-(Line_0264): C. The statute will help assure a continuously available and stable work force for the execution of public contracts.
-(Line_0265): D. The statute will help assure that only the most qualified individuals work on public contracts.
 
-(Line_0267): A state provides by statute, "No person may be awarded any state construction contract without agreeing to employ only citizens of the state and of the United States in performance of the contract. "Suppose the state supreme court declares the statute to be unconstitutional on the grounds that it violates the privileges and immunities clause of the Fourteenth Amendment to the federal constitution and the equal protection clause of the state constitution. If the state seeks review in the United States Supreme Court, which of the following statements is most accurate?
-(Line_0268): A. The United States Supreme Court may properly review that decision by certiorari only.
-(Line_0269): B. The United States Supreme Court may properly review the decision by appeal only.
-(Line_0270): C. The United States Supreme Court may properly review that decision by appeal or certiorari.
-(Line_0271): D. The United States Supreme Court may not properly review that decision.
-(Line_0272):  
-(Line_0273): X-- As part of a comprehensive federal aid-to-education program, Congress included the following provisions as conditions for state receipt of federal funds: (1) Whenever textbooks are provided to students without charge, they must include no religious instruction and must be made available on the same terms to students in all public and private schools accredited by the state educational authority. (2) Salary supplements can be paid to teachers in public and private schools, up to ten percent of existing salary schedules, where present compensation is less than the average salary for persons of comparable training and experience, provided that no such supplement is paid to any teacher who instructs in religious subjects. (3) Construction grants can be made toward the cost of physical plant at private colleges and universities, provided that no part of the grant is used for buildings in which instruction in religious subject matters is offered. A federal taxpayer challenges the provision that allows the distribution of free textbooks to students in a private school where religious instruction is included in the curriculum. On the question of the adequacy of the taxpayer's standing to raise the constitutional question, the most likely result is that standing will be
-(Line_0274): A. sustained, because any congressional spending authorization can be challenged by any taxpayer.
-(Line_0275): B. sustained, because the challenge to the exercise of congressional spending power is based on a claimed violation of specific constitutional limitations on the exercise of such power.
-(Line_0276): C. denied, because there is insufficient nexus between the taxpayer and the challenged expenditures.
-(Line_0277): D. denied, because, in the case of private schools, no state action is involved.
 (Line_0278):  
-(Line_0279): X-- As part of a comprehensive federal aid-to-education program, Congress included the following provisions as conditions for state receipt of federal funds: (1) Whenever textbooks are provided to students without charge, they must include no religious instruction and must be made available on the same terms to students in all public and private schools accredited by the state educational authority. (2) Salary supplements can be paid to teachers in public and private schools, up to ten percent of existing salary schedules, where present compensation is less than the average salary for persons of comparable training and experience, provided that no such supplement is paid to any teacher who instructs in religious subjects. (3) Construction grants can be made toward the cost of physical plant at private colleges and universities, provided that no part of the grant is used for buildings in which instruction in religious subject matters is offered.
 
-(Line_0281): A federal taxpayer challenges the salary supplements for teachers in private schools where religious instruction is included in the curriculum. On the substantive constitutional issue, the most likely result is that the salary supplements will be
-(Line_0282): A. sustained, because the statute provides that no supplements will be made to teachers who are engaged in any religious instruction.
-(Line_0283): B. sustained, because to distinguish between private and public school teachers would violate the religious freedom clause of the First Amendment.
-(Line_0284): C. held unconstitutional, because some religions would benefit disproportionately.
-(Line_0285): D. held unconstitutional, because the policing of the restriction would amount to an excessive entanglement with religion.
-(Line_0286):  
-(Line_0287): X-- As part of a comprehensive federal aid-to-education program, Congress included the following provisions as conditions for state receipt of federal funds: (1) Whenever textbooks are provided to students without charge, they must include no religious instruction and must be made available on the same terms to students in all public and private schools accredited by the state educational authority. (2) Salary supplements can be paid to teachers in public and private schools, up to ten percent of existing salary schedules, where present compensation is less than the average salary for persons of comparable training and experience, provided that no such supplement is paid to any teacher who instructs in religious subjects. (3) Construction grants can be made toward the cost of physical plant at private colleges and universities, provided that no part of the grant is used for buildings in which instruction in religious subject matters is offered.
-(Line_0288): A federal taxpayer also challenges the construction grants to church-operated private colleges and universities. The most likely result is that the construction grants will be
-(Line_0289): A. sustained, because aid to one aspect of an institution of higher education not shown to be pervasively sectarian does not necessarily free it to spend its other resources for religious purposes.
-(Line_0290): B. sustained, because bricks and mortar do not aid religion in a way forbidden by the establishment clause of the First Amendment.
-(Line_0291): C. held unconstitutional, because any financial aid to a church-operated school strengthens the religious purposes of the institution.
-(Line_0292): D. held unconstitutional, because the grants involve or cause an excessive entanglement with religion.
 
-(Line_0294): A state accredits both public and private schools, licenses their teachers, and supplies textbooks on secular subjects to all such schools. A private school that offers elementary and secondary education in the state denies admission to all non-Caucasians. In a suit to enjoin as unconstitutional the continued racially exclusionary admissions policy of the school, which of the following is the strongest argument AGAINST the school?
-(Line_0295): A. Because education is a public function, the school may not discriminate on racial grounds.
-(Line_0296): B. The state is so involved in school regulation and support that the equal protection clause of the Fourteenth Amendment is applicable to the school.
-(Line_0297): C. The state is constitutionally obligated to eliminate segregation in all public and private educational institutions within the state.
-(Line_0298): D. Any school with teachers who are licensed by the state is forbidden to discriminate on racial grounds.
 
-(Line_0300): A state statute requires that all buses which operate as common carriers on the highways of the state shall be equipped with seat belts for passengers. An interstate carrier challenges the validity of the statute and the right of the state to make the requirement. What is the best basis for a constitutional challenge by the carrier?
 
-(Line_0302): A. Violation of the due process clause of the Fourteenth Amendment
-(Line_0303): B. Violation of the equal protection clause of the Fourteenth Amendment
-(Line_0304): C. Unreasonable burden on interstate commerce
-(Line_0305): D. Difficulty of enforcement
-(Line_0306):  
-(Line_0307): X-- A state college instructor was discharged because of her refusal to comply with a state statute requiring public employees to swear or affirm that they will (1) "uphold and defend" the state and federal constitutions and (2) "oppose the overthrow" of the state or federal governments "by force, violence, or by any improper method." The statute had previously been held constitutional by the state supreme court. The instructor filed a complaint in federal district court alleging the unconstitutionality of the statute and seeking an injunction and damages.
-(Line_0308): Which of the following is the state's strongest argument for sustaining the validity of the statute?
-(Line_0309): A. Government employment is a privilege, not a right.
-(Line_0310): B. The oath as a whole is only a commitment to abide by constitutional processes.
-(Line_0311): C. The First and Fourteenth Amendments permit a state to fix the conditions of state employment.
-(Line_0312): D. The state has a compelling need to keep disloyal persons out of governmental positions of trust.
-(Line_0313):  
-(Line_0314): All lawyers practicing in a particular state must be members of the State Bar Association, by order of the state supreme court. Several state officials serve on the Bar Association's Board of Bar Governors. The Board of Bar Governors authorizes the payment of dues for two staff members to the Cosmopolitan Club, a private dining club licensed to sell alcoholic beverages. The Cosmopolitan Club is frequented by affluent businessmen and professionals and by legislators. It is generally known that the purpose of the membership of the Bar Association staff is to enable them to go where members of the "elite" meet and to lobby for legislation in which the Bar Association is interested. The State Bar Association has numerous committees and subcommittees concerned with family law, real estate law, unauthorized practice, etc., and its recommendations often influence state policy. Some committee meetings are held at the Cosmopolitan Club. The club is known to have rules which restrict membership by race, religion, and sex.
 
-(Line_0316): The plaintiffs, husband and wife, who are members of the State Bar Association, petition the Board of Bar Governors to adopt a resolution prohibiting the payment of club dues to and the holding of meetings of the Bar Association or its committees at places which discriminate on the basis of race, religion, or sex. After substantial public discussion, the Board of Bar Governors, by close vote, fails to pass such a resolution. These events receive extensive coverage in the local newspapers. The plaintiffs bring an action in federal court seeking an injunction against such payments and the holding of meetings in such places as the Cosmopolitan Club.
-(Line_0317): The strongest argument for the plaintiffs is
-(Line_0318): A. private rights to discriminate and associate freely must defer to a public interest against discrimination on the basis of race, religion, or sex.
-(Line_0319): B. the failure of the State Bar Association to pass a resolution forbidding discrimination on the basis of race, religion, or sex constitutes a denial of equal protection.
-(Line_0320): C. the State Bar Association is an agency of the state and its payment of dues to such private clubs promotes discrimination on the basis of race, religion, and sex.
-(Line_0321): D. the State Bar Association's payment of dues to such private clubs promotes discrimination on the basis of race, religion, and sex.
 (Line_0322):  
-(Line_0323): All lawyers practicing in a particular state must be members of the State Bar Association, by order of the state supreme court. Several state officials serve on the Bar Association's Board of Bar Governors. The Board of Bar Governors authorizes the payment of dues for two staff members to the Cosmopolitan Club, a private dining club licensed to sell alcoholic beverages. The Cosmopolitan Club is frequented by affluent businessmen and professionals and by legislators. It is generally known that the purpose of the membership of the Bar Association staff is to enable them to go where members of the "elite" meet and to lobby for legislation in which the Bar Association is interested. The State Bar Association has numerous committees and subcommittees concerned with family law, real estate law, unauthorized practice, etc., and its recommendations often influence state policy. Some committee meetings are held at the Cosmopolitan Club. The club is known to have rules which restrict membership by race, religion, and sex.
 
-(Line_0325): The plaintiffs, husband and wife, who are members of the State Bar Association, petition the Board of Bar Governors to adopt a resolution prohibiting the payment of club dues to and the holding of meetings of the Bar Association or its committees at places which discriminate on the basis of race, religion, or sex. After substantial public discussion, the Board of Bar Governors, by close vote, fails to pass such a resolution. These events receive extensive coverage in the local newspapers. The plaintiffs bring an action in federal court seeking an injunction against such payments and the holding of meetings in such places as the Cosmopolitan Club.
-(Line_0326): Which of the following actions should a federal district court take with respect to jurisdiction?
-(Line_0327): A. Hear the case on the merits, because a federal claim is presented.
-(Line_0328): B. Hear the case on the merits, because the expenditure of state funds in support of segregation is forbidden by the Fifth Amendment.
-(Line_0329): C. Abstain from jurisdiction, because the constitutional issue should be litigated first in a state court.
-(Line_0330): D. Dismiss the case for lack of jurisdiction, because the issue of Bar Association activities is solely within the domain of state law.
-(Line_0331):  
-(Line_0332): X-- A state enacts the Young Adult Marriage Counseling Act, which provides that, before any persons less than 30 years of age may be issued a marriage license, they must receive at least five hours of marriage counseling from a state-licensed social worker. This counseling is designed to assure that applicants for marriage licenses know their legal rights and duties in relation to marriage and parenthood, understand the "true nature" of the marriage relationship, and understand the procedures for obtaining divorces. A man, aged 25, contemplated marrying a woman, aged 25. Both are residents of the state. The man has not yet proposed to the woman because he is offended by the counseling requirement.The man sues in court seeking a declaratory judgment that the Young Adult Marriage Counseling Act is unconstitutional. Which of the following is the clearest ground for dismissal of this action by the court?
-(Line_0333): A. The man and woman are residents of the same state.
-(Line_0334): B. No substantial federal question is presented.
-(Line_0335): C. The suit presents a nonjusticiable political question.
-(Line_0336): D. The suit is unripe.
-(Line_0337):  
-(Line_0338): A state enacts the Young Adult Marriage Counseling Act, which provides that, before any persons less than 30 years of age may be issued a marriage license, they must receive at least five hours of marriage counseling from a state-licensed social worker. This counseling is designed to assure that applicants for marriage licenses know their legal rights and duties in relation to marriage and parenthood, understand the "true nature" of the marriage relationship, and understand the procedures for obtaining divorces.
 
-(Line_0340): In a case in which the constitutionality of the Young Adult Marriage Counseling Act is in issue, the burden of persuasion will probably be on the
-(Line_0341): A. person challenging the law, because there is a strong presumption that elected state legislators acted properly.
-(Line_0342): B. person challenging the law, because the Tenth Amendment authorized states to determine the conditions on which they issue marriage licenses.
-(Line_0343): C. state, because there is a substantial impact on the right to marry, and that right is fundamental.
-(Line_0344): D. state, because there is a substantial impact in the discrete and insular class of young adults.
-(Line_0345):  
-(Line_0346): X-- A state statute made it a misdemeanor to construct any building of more than five stories without an automatic fire sprinkler system. A local construction company built in the state a ten-story federal office building. It constructed the building according to the precise specifications of a federal contract authorized by federal statutes. Because the building was built without the automatic fire sprinkler system required by state law, the state prosecuted the private contractor.
-(Line_0347): Which of the following is the company's strongest defense to that prosecution?
-(Line_0348): A. The state sprinkler requirement denies the company property or liberty without due process.
-(Line_0349): B. The state sprinkler requirement denies the company equal protection of the laws.
-(Line_0350): C. As applied, the state sprinkler requirement violates the supremacy clause.
-(Line_0351): D. As applied, the state sprinkler requirement violates the obligation of contracts clause.
 
-(Line_0353): X-- A federal statute requires United States civil service employees to retire at age 75. However, that statute also states that civil service employees of the armed forces must retire at age 65.
-(Line_0354): The plaintiff, a 65-year-old service employee of the Department of the Army, seeks a declaratory judgment that would forbid his mandatory retirement until age 75.The strongest argument that the plaintiff can make to invalidate the requirement that he retire at age 65 is that the law
-(Line_0355): A. denies him a privilege or immunity of national citizenship.
-(Line_0356): B. deprives him of a property right without just compensation.
-(Line_0357): C. is not within the scope of any of the enumerated powers of Congress in Article I, Section 8.
-(Line_0358): D. invidiously discriminates against him on the basis of age in violation of the Fifth Amendment.
-(Line_0359):  
-(Line_0360): Congress passes a law regulating the wholesale and retail prices of "every purchase or sale of oil, natural gas, and electric power made in the United States." The strongest argument in support of the constitutionality of this statute is that
-(Line_0361): A. the Constitution expressly empowers Congress to enact laws for "the general welfare."
-(Line_0362): B. Congress has the authority to regulate such products' interstate transportation and importation from abroad.
-(Line_0363): C. Congress may regulate the prices of every purchase and sale of goods and services made in this country, because commerce includes buying and selling.
-(Line_0364): D. in inseverable aggregates, the domestic purchases or sales of such products affect interstate or foreign commerce.
-(Line_0365): Congress enacted a statute providing that persons may challenge a state energy law on the ground that it is in conflict with the federal Constitution in either federal or state court. According to this federal statute, any decision by a lower state court upholding a state energy law against a challenge based on the federal constitution may be appealed directly to the United States Supreme Court. The provisions of this statute that authorize direct United States Supreme Court review of specified decisions rendered by lower state courts are
-(Line_0366): A. constitutional, because congressional control over questions of energy usage is plenary.
-(Line_0367): B. constitutional, because Congress may establish the manner in which the appellate jurisdiction of the United States Supreme Court is exercised.
-(Line_0368): C. unconstitutional, because they infringe on the sovereign right of states to have their supreme courts review decisions of their lower state courts.
-(Line_0369): D. unconstitutional, because under Article III of the Constitution the United States Supreme Court does not have authority to review directly decisions of lower state courts.
-(Line_0370):  
-(Line_0371): Congress enacts a criminal statute prohibiting "any person from interfering in any way with any right conferred on another person by the equal protection clause of the Fourteenth Amendment."
-(Line_0372): Application of this statute to a private citizen, would be most clearly constitutional if the citizen, with threats of violence, coerces
-(Line_0373): A. a public school teacher to exclude black pupils from her class, solely because of their race.
-(Line_0374): B. black pupils, solely because of their race, to refrain from attending a privately owned and operated school licensed by the state.
-(Line_0375): C. the bus driver operating a free school bus service under the sponsorship of a local church to refuse to allow black pupils on the bus, solely because of their race.
-(Line_0376): D. the federal official in charge of distributing certain federal benefits directly to students to refrain from distributing them to black pupils, solely because of their race.
-(Line_0377):  
-(Line_0378): A federal statute sets up a program of dental education. The statute provides that the Secretary of Health and Human Services "shall, on a current basis, spend all of the money appropriated for this purpose" and "shall distribute the appropriated funds" by a specified formula to state health departments that agree to participate in the program. In the current year Congress has appropriated $100 million for expenditure on this program. In order to ensure a budget surplus in the current fiscal year, the President issued an executive order directing the various cabinet secretaries to cut expenditures in this year by 10 percent in all categories. He also orders certain programs to be cut more drastically because he believes that "they are not as important to the general welfare as other programs." The President identifies the dental education program as such a program and orders it to be cut by 50 percent. Assume that no other federal statutes are relevant. To satisfy constitutional requirements, how much money must the Secretary of Health and Human Services distribute for the dental education program this year?
-(Line_0379): A. $50 million, because the President could reasonably determine that this program is not as important to the general welfare as other programs.
-(Line_0380): B. $50 million, because as chief executive the President has the constitutional authority to control the actions of all of his subordinates by executive order.
-(Line_0381): C. $90 million, because any more drastic cut for the program would be a denial of equal protection to beneficiaries of this program as compared to beneficiaries of other programs.
-(Line_0382): D. $100 million, because the President may not unilaterally suspend the effect of a valid federal statute imposing a duty to spend appropriated monies.
-(Line_0383): X-- A state statute provides that persons moving into a community to attend a college on a full-time basis may not vote in any elections for local or state officials that are held in that community. Instead, the statute provides that for voting purposes all such persons shall retain their residence in the community from which they came. In that state the age of majority is 18.
-(Line_0384): Which of the following is the strongest argument to demonstrate the unconstitutionality of this state statute?
-(Line_0385): A. A state does not have an interest that is sufficiently compelling to justify the exclusion from voting of an entire class of persons.
-(Line_0386): B. There are less restrictive means by which the state could assure that only actual residents of a community vote in its elections.
-(Line_0387): C. Most persons moving to a community to attend college full-time are likely to have attained the age of majority under the laws of this state.
-(Line_0388): D. On its face this statute impermissibly discriminates against interstate commerce.
 
-(Line_0390):  Congress enacts a statute punishing "each and every conspiracy entered into by any two or more persons for the purpose of denying black persons housing, employment, or education, solely because of their race." Under which of the following constitutional provisions is the authority of Congress to pass such a statute most clearly and easily justifiable?
-(Line_0391): A. The obligation of contracts clause
-(Line_0392): B. The general welfare clause of Article I, Section 8
-(Line_0393): C. The Thirteenth Amendment
-(Line_0394): D. The Fourteenth Amendment
-(Line_0395):  
-(Line_0396): X-- A federal criminal law makes it a crime for any citizen of the United States not specially authorized by the President to negotiate with a foreign government for the purpose of influencing the foreign government in relation to a dispute with the United States. The strongest constitutional ground for the validity of this law is that
-(Line_0397): A. under several of its enumerated powers, Congress may legislate to preserve the monopoly of the national government over the conduct of United States foreign affairs.
-(Line_0398): B. the President's inherent power to negotiate for the United States with foreign countries authorizes the President, even in the absence of statutory authorization, to punish citizens who engage in such negotiations without permission.
-(Line_0399): C. the law deals with foreign relations and therefore is not governed by the First Amendment.
-(Line_0400): D. federal criminal laws dealing with international affairs need not be as specific as those dealing with domestic affairs.
-(Line_0401):  
-(Line_0402): Pursuant to a state statute, a student applied for tuition assistance to attend the Institute of Liberal Arts. He was qualified for such assistance in every way except that he was a resident alien who did not intend to become a United States citizen. The state's restriction of such grants to United States citizens or resident aliens seeking such citizenship is probably
-(Line_0403): A. valid, because aliens are not per se "a discrete and insular minority" specially protected by the Fourteenth Amendment.
-(Line_0404): B. valid, because the line drawn by the state for extending aid was reasonably related to a legitimate state interest.
-(Line_0405): C. invalid, because the justifications for this restriction are insufficient to overcome the burden imposed on a state when it uses such an alienage classification.
-(Line_0406): D. invalid, because the privileges and immunities clause of Article IV does not permit such an arbitrary classification.
-(Line_0407): Congress passes an act requiring that all owners of bicycles in the United States register them with a federal bicycle registry. The purpose of the law is to provide reliable evidence of ownership to reduce bicycle theft. No fee is charged for the registration. Although most stolen bicycles are kept or resold by the thieves in the same cities in which the bicycles were stolen, an increasing number of bicycles are being taken to cities in other states for resale.
-(Line_0408): Is this act of Congress constitutional?
-(Line_0409): A. Yes, because Congress has the power to regulate property for the general welfare.
-(Line_0410): B. Yes, because Congress could determine that in inseverable aggregates bicycle thefts affect interstate commerce.
-(Line_0411): C. No, because most stolen bicycles remain within the state in which they were stolen.
-(Line_0412): D. No, because the registration of vehicles is a matter reserved to the states by the Tenth Amendment.
-(Line_0413):  
-(Line_0414): X-- A state statute flatly bans the sale or distribution of contraceptive devices to minors. A national retailer of drugs and related items is charged with violating the statute. Which of the following is the strongest constitutional argument the retailer could make in defending itself against prosecution for violation of this statute?
-(Line_0415): A. The statute constitutes an undue burden on interstate commerce.
-(Line_0416): B. The statute denies minors one of their fundamental rights without due process.
-(Line_0417): C. The statute denies the retailer a privilege or immunity of state citizenship.
-(Line_0418): D. The statute violates the First Amendment right to freedom of religion because it regulates morals.
-(Line_0419):  
-(Line_0420): Congress enacted a law prohibiting the killing, capture, or removal of any form of wildlife upon or from any federally owned land. Which of the following is the most easily justifiable source of national authority for this federal law?
-(Line_0421): A. The commerce clause of Article I, Section 8
-(Line_0422): B. The privileges and immunities clause of Article IV
-(Line_0423): C. The enforcement clause of the Fourteenth Amendment
-(Line_0424): D. The property clause of Article IV, Section 3
-(Line_0425):  
-(Line_0426): X-- Congress enacts a law providing that all disagreements between the United States and a state over federal grant-in-aid funds shall be settled by the filing of a suit in the federal district court in the affected state. "The judgment of that federal court shall be transmitted to the head of the federal agency dispensing such funds who, if satisfied that the judgment is fair and lawful, shall execute the judgment according to its terms." This law is
-(Line_0427): A. constitutional, because disagreements over federal grant-in-aid funds necessarily involve federal questions within the judicial power of the United States.
-(Line_0428): B. constitutional, because the spending of federal monies necessarily includes the authority to provide for the effective settlement of disputes involving them.
-(Line_0429): C. unconstitutional, because it vests authority in the federal court to determine a matter prohibited to it by the Eleventh Amendment.
-(Line_0430): D. unconstitutional, because it vests authority in a federal court to render an advisory opinion.
-(Line_0431):  
-(Line_0432): The President of the United States recognizes the country of Ruritania and undertakes diplomatic relations with its government through the Secretary of State. Ruritania is governed by a repressive totalitarian government. In an appropriate federal court, a citizen brings a suit against the President and Secretary of State to set aside this action on the ground that it is inconsistent with the principles of our constitutional form of government. The citizen has a lucrative contract with the United States Department of Commerce to provide commercial information about Ruritania. The contract expressly terminates, however, "when the President recognizes the country of Ruritania and undertakes diplomatic relations with its government."
-(Line_0433): Which of the following is the most proper disposition of the citizen's suit by the federal court?
-(Line_0434): A. Suit dismissed, because the citizen does not have standing to bring this action.
-(Line_0435): B. Suit dismissed, because there is not diversity between the citizen and the defendants.
-(Line_0436): C. Suit dismissed, because it presents a nonjusticiable political question.
-(Line_0437): D. Suit decided on the merits.
-(Line_0438):  
-(Line_0439): A state statute requires the permanent removal from parental custody of any child who has suffered "child abuse." That term is defined to include "corporal punishment of any sort." A father very gently spanks his six-year-old son on the buttocks whenever he believes that spanking is necessary to enforce discipline on him. Such a spanking occurs not more than once a month and has never physically harmed the child. The state files suit under the statute to terminate the father's parental rights solely because of these spankings. The father defends only on the ground that the statute in question is unconstitutional as applied to his admitted conduct. In light of the nature of the rights involved, which of the following is the most probable burden of persuasion on this constitutional use?
-(Line_0440): A. The state has the burden of persuading the court that the application of this statute to the father is necessary to accomplish a compelling state interest.
-(Line_0441): B. The state has the burden of persuading the court that the application of this statute to the father is rationally related to a legitimate state interest.
-(Line_0442): C. The father has the burden of persuading the court that the application of this statute to him is not necessary to accomplish a compelling state interest.
-(Line_0443): D. The father has the burden of persuading the court that the application of this statute to him is not rationally related to a legitimate state interest.
-(Line_0444):  
-(Line_0445): According to a state statute, a candidate for state office may have his name placed on the official election ballot only if he files a petition with the appropriate state official containing a specified number of voter signatures. A politician failed to get his name placed on the state ballot as an independent candidate for governor because he failed to file a petition with the number of voter signatures required by state statute. In a suit against the appropriate state official in federal district court, the politician sought an injunction against signature requirement on the ground that it was unconstitutional.
-(Line_0446): Which of the following, if established, constitutes the strongest argument for the politician?
-(Line_0447): A. Compliance with the petition signature requirement is burdensome.
-(Line_0448): B. The objectives of the statute could be satisfactorily achieved by less burdensome means.
-(Line_0449): C. Because of the petition signature requirement, very few independent candidates have ever succeeded in getting on the ballot.
-(Line_0450): D. The motivation for the statute was a desire to keep candidates off the ballot if they did not have strong support among voters.
-(Line_0451):  
-(Line_0452): Congress passes an Energy Conservation Act. The act requires all users of energy in this country to reduce their consumption by a specified percentage, to be set by a presidential executive order. The act sets forth specific standards the President must use in setting the percentage and detailed procedures to be followed.
-(Line_0453): The provision that allows the President to set the exact percentage is probably
-(Line_0454): A. constitutional, because it creates a limited administrative power to implement the statute.
-(Line_0455): B. constitutional, because inherent executive powers permit such action even without statutory authorization.
-(Line_0456): C. unconstitutional as an undue delegation of legislative power to the executive.
-(Line_0457): D. unconstitutional, because it violates the due process clause of the Fifth Amendment.
-(Line_0458):  
-(Line_0459): The federal government has complete jurisdiction over certain park land located within the state. To conserve the wildlife that inhabits that land, the federal government enacts a statute forbidding all hunting of animals in the federal park. That statute also forbids the hunting of animals that have left the federal park and have entered the state.
-(Line_0460): A hunter has a hunting license from the state authorizing him to hunt deer anywhere in the state. On land within the state located adjacent to the federal park, the hunter shoots a deer he knows has recently left the federal land.
-(Line_0461): The hunter is prosecuted for violating the federal hunting law. The strongest ground supporting the constitutionality of the federal law forbidding the hunting of wild animals that wander off federal property is that
-(Line_0462): A. this law is a necessary and proper means of protecting United States property.
-(Line_0463): B. the animals are moving in the stream of interstate commerce.
-(Line_0464): C. the police powers of the federal government encompass protection of wild animals.
-(Line_0465): D. shooting wild animals is a privilege, not a right.
-(Line_0466):  
-(Line_0467): Three states, East Winnetka, Midland, and West Hampton, are located next to one another in that order. The states of East Winnetka and West Hampton permit the hunting and trapping of snipe, but the state of Midland strictly forbids it in order to protect snipe, a rare species of animal, from extinction. The state of Midland has a state statute that provides "Possession of snipe traps is prohibited. Any game warden finding a snipe trap within the state shall seize and destroy it." Snipe traps cost about $15 each.
-(Line_0468): An ardent snipe trapper is a resident of West Hampton. She drove her car to East Winnetka to purchase a new snipe trap from a manufacturer there. In the course of her trip back across Midland with the trap in her car, the snipe trapper stopped in a Midland state park to camp for a few nights. While she was in that park, a Midland game warden saw the trap, which was visible on the front seat of her car. The warden seized the trap and destroyed it in accordance with the Midland statute after the trapper admitted that the seized item was a prohibited snipe trap. No federal statutes or federal administrative regulations apply.
-(Line_0469): The snipe trapper can demonstrate that common carriers are permitted to transport snipe traps as cargo across Midland for delivery to another state and that in practice the Midland statute is enforced only against private individuals transporting those traps in private vehicles. If the trapper challenges the application of the Midland statute to her on the basis only of a denial of equal protection, the application of the statute will probably be found
-(Line_0470): A. constitutional, because the traps constitute contraband in which the snipe trapper could have no protected property interest.
-(Line_0471): B . constitutional, because there is a rational basis for differentiating between the possession of snipe traps as interstate cargo by common carriers and the possession of snipe traps by private individuals.
-(Line_0472): C. unconstitutional, because the state cannot demonstrate a compelling public purpose for making this differentiation between common carriers and such private individuals.
-(Line_0473): D. unconstitutional, because interstate travel is a fundamental right that may not be burdened by state law.
-(Line_0474):  
-(Line_0475): Three states, East Winnetka, Midland, and West Hampton, are located next to one another in that order. The states of East Winnetka and West Hampton permit the hunting and trapping of snipe, but the state of Midland strictly forbids it in order to protect snipe, a rare species of animal, from extinction. The state of Midland has a state statute that provides "Possession of snipe traps is prohibited. Any game warden finding a snipe trap within the state shall seize and destroy it." Snipe traps cost about $15 each.
-(Line_0476): An ardent snipe trapper is a resident of West Hampton. She drove her car to East Winnetka to purchase a new snipe trap from a manufacturer there. In the course of her trip back across Midland with the trap in her car, the snipe trapper stopped in a Midland state park to camp for a few nights. While she was in that park, a Midland game warden saw the trap, which was visible on the front seat of her car. The warden seized the trap and destroyed it in accordance with the Midland statute after the trapper admitted that the seized item was a prohibited snipe trap. No federal statutes or federal administrative regulations apply.
-(Line_0477): A valid federal administrative rule, adopted under a federal consumer product safety act, regulates the design of snipe traps. The rule was issued to prevent traps from causing injury to human beings, e.g. by pinching fingers while persons were setting the traps. No other federal law applies. Which of the following best states the effect on the Midland state statute?
-(Line_0478): A. The federal rule preempts the Midland state statute, because the federal rule regulates the same subject matter, snipe traps.
-(Line_0479): B. The federal rule preempts the Midland state statute, because the federal rule does not contain affirmative authorization for continued state regulation.
-(Line_0480): C. The federal rule does not preempt the Midland state statute, because the Midland state statute regulates wild animals, a field of exclusive state power.
-(Line_0481): D. The federal rule does not preempt the Midland state statute, because the purposes of the federal rule and the Midland state statute are different.
-(Line_0482):  
-(Line_0483): X-- There is a high and persistent unemployment in the industrialized state of Green. Its legislature therefore enacted a statute requiring every business with annual sales in Green of over $1 million to purchase each year goods and/or services in Green equal in value to at least half of its sales in Green.
-(Line_0484): Which of the following parties most clearly has standing to contest the constitutionality of this statute of Green in federal court?
-(Line_0485): A. A business in another state that supplies from that other state 95 percent of the goods and services bought by a corporation that has annual sales in Green of $20 million.
-(Line_0486): B. A corporation selling $300,000 worth of goods in Green but presently purchasing only $10,000 in goods and services in Green.
-(Line_0487): C. The governor of an adjacent state on the behalf of the state and its residents.
-(Line_0488): D. The owner of high-grade, secured bonds issued by a corporation with sales in Green of $10 million that currently purchases only $1 million in goods and services in Green.
 
-(Line_0490): A state statute makes fraud for personal financial gain a crime. The defendant was convicted of violating this statute on three separate occasions. Following his most recent conviction, he professed to have undergone a religious conversion and proclaimed himself to be the divine minister of "St. Rockport," an alleged messiah who would shortly be making his appearance on earth. The defendant solicited cash donations from the public to support his efforts to spread the word of St. Rockport and his coming appearance on earth.
-(Line_0491): Following complaints by several contributors who claimed he defrauded them, the defendant was again charged with fraud under this state statute. The charge was that the defendant "should have known that his representations about St. Rockport were false and, therefore, that he made them solely to collect cash donations for his personal gain." A witness for the prosecution in the defendant's trial stated that the defendant had admitted that, at times, he had doubts about the existence of St. Rockport. The defendant was the only religious minister prosecuted for fraud under this state statute.
-(Line_0492): The strongest constitutional defense that the defendant could assert would be that this prosecution
-(Line_0493): A. deprived him of the equal protection of the laws because other religious ministers have not been charged under this statute.
-(Line_0494): B. denied him procedural due process because it placed upon the defendant the burden of rebutting evidence, submitted by the state of his bad faith in raising this money.
-(Line_0495): C. denied him rights conferred by the obligation of contracts clause by preventing him from taking money from persons who wished to contract with him to spread the word of St. Rockport.
-(Line_0496): D. denied him the free exercise of religion in violation of the First and Fourteenth Amendments because it required the state to determine the truth or falsity of the content of his religious beliefs.
-(Line_0497):  
-(Line_0498): A major corporation is privately owned and incorporated in State A. It contracted with the United States to construct a dam across a river in State B. State B imposed a gross receipts tax on all business conducted within the state. State B sued the corporation to collect that tax on the receipts the corporation received under this federal contract. No federal statutes or administrative rules are applicable, and the contract between the United States and the corporation does not mention state taxation. The court should hold the state tax, as applied here, to be
-(Line_0499): A. constitutional, because a state has exclusive jurisdiction over all commercial transactions executed wholly within its borders.
-(Line_0500): B. constitutional, because private contractors performing work under a federal contract are not immune in these circumstances from nondiscriminatory state taxation.
-(Line_0501): C. unconstitutional, because it violates the supremacy clause.
-(Line_0502): D. unconstitutional, because it imposes an undue burden on interstate commerce.
-(Line_0503):  
-(Line_0504): X--On a wholly random basis, a state agency has given a few probationary employees who were not rehired at the end of their probationary period a statement of reasons and an opportunity for a hearing; but the agency has very rarely done so. No statute or rule of the agency required such a statement of reasons or a hearing.
-(Line_0505): The employment of a probationary employee was terminated without a statement of reasons or an opportunity for a hearing. The agency did not even consider whether it should give him either.
-(Line_0506): A suit by the employee requesting a statement of reasons and a hearing will probably be
-(Line_0507): A. successful on the grounds that failure to give the employee reasons and an opportunity for a hearing constituted a bill of attainder.
-(Line_0508): B. successful on the grounds that an agency's inconsistent practices, even if unintentional, deny adversely affected persons the equal protection of the laws.
-(Line_0509): C. unsuccessful, because the employee does not have a right to be rehired that is protected by procedural due process.
-(Line_0510): D. unsuccessful, because the conditions of state employment are matters reserved to the states by the Tenth Amendment.
-(Line_0511): A state statute provides that only citizens of the United States may be employed by that state. In an action brought in a federal court, a resident alien who was prevented from obtaining state employment as a garbage collector solely because of his alien status challenged the statute's constitutionality as applied to his circumstances.
-(Line_0512): Which of the following statements concerning the burden of persuasion applicable to this suit is correct?
-(Line_0513): A. The alien must demonstrate that there is no rational relationship between the citizenship requirement and any legitimate state interest.
-(Line_0514): B. The alien must demonstrate that the citizenship requirement is not necessary to advance a compelling state interest.
-(Line_0515): C. The state must demonstrate that there is a rational relationship between the citizenship requirement and a legitimate state interest.
-(Line_0516): D. The state must demonstrate that the citizenship requirement is necessary to advance a compelling state interest.
-(Line_0517):  
-(Line_0518): The High National Grasslands is owned by the United States and is located in the center of a large western state. Acting pursuant to a federal statute authorizing such action, the United States Bureau of Land Management leased the grazing rights in the High National Grasslands to ranchers located nearby. A large company owns a vast amount of rangeland adjacent to the High National Grasslands and leases its land for livestock grazing purposes to the same ranchers, but at prices higher than those charged by the Bureau. The company sued the Bureau in an appropriate federal district court to restrain the Bureau from competing with that company by leasing the High National Grasslands.
-(Line_0519): Which of the following constitutional provisions may most easily and directly be used to justify the federal statute authorizing this leasing program of the Bureau of Land Management?
-(Line_0520): A. The general welfare clause of Article I, Section 8
-(Line_0521): B. The federal property clause of Article IV, Section 3
-(Line_0522): C. The commerce clause of Article I, Section 8
-(Line_0523): D. The supremacy clause of Article VI
 
-(Line_0525):  A resident of a state brought suit in federal district court against a corporation of that state. The resident seeks recovery of $12,000 actual and $12,000 punitive damages arising from the corporation's sale to him of a defective automobile. The resident's suit is based only on a common law contract theory. From a constitutional standpoint, should the federal district court hear this suit on its merits?
-(Line_0526): A. Yes, because Article III vests federal courts with jurisdiction over cases involving the obligation of contracts.
-(Line_0527): B. Yes, because it is an action affecting interstate commerce.
-(Line_0528): C. No, because this suit is not within the jurisdiction of an Article III court.
-(Line_0529): D. No, because there is no case or controversy within the meaning of Article III.
 
-(Line_0531): A statute authorizes a specified federal administrative agency to issue rules governing the distribution of federal grant funds for scientific research. The statute provides that, in issuing those rules, the agency must follow procedures and substantive standards contained in the statute. In a severable provision, the statute also provides the otherwise valid rules issued by the agency under authority delegated to it by this statute may be set aside by a majority vote of a designated standing joint committee of Congress.
 
-(Line_0533): The provision of this statute relating to the power of the designated standing joint committee of Congress is
-(Line_0534): A. constitutional, because it is a necessary and proper means of ensuring that the rules issued by this agency are actually consistent with the will of Congress.
-(Line_0535): B. constitutional, because discretionary money grants authorized by statute are privileges, not rights, and, therefore, Congress has greater freedom to intervene in their administration than it has to intervene in the administration of regulatory laws.
-(Line_0536): C. unconstitutional, because it denies equal protection of the laws to members of Congress who are not appointed to the joint legislative committee authorized to set aside rules of this agency.
-(Line_0537): D. unconstitutional, because it authorizes a congressional change of legal rights and obligations by means other than those specified in the Constitution for the enactment of laws.
-(Line_0538):  
-(Line_0539): X-- A federal statute enacted pursuant to the powers of Congress to enforce the Fourteenth Amendment and to regulate commerce among the states prohibits any state from requiring any of its employees to retire from state employment solely because of their age. The statute expressly authorized employees required by a state to retire from state employment solely because of their age to sue the state government in federal district court for any damages resulting from that state action. On the basis of this federal statute, a retiree sues State X in federal district court. State X moves to dismiss the suit on the ground that Congress lacks authority to authorize such suits against a state.
-(Line_0540): Which of the following is the strongest argument that the retiree can offer in opposition to the state's motion to dismiss this suit?
-(Line_0541): A. When Congress exercises power vested in it by the Fourteenth Amendment, Congress may enact appropriate remedial legislation expressly subjecting the state to private suits for damages in federal court.
-(Line_0542): B. When Congress exercises power vested in it by any provision of the Constitution, Congress has unlimited authority to authorize private actions for damages against a state.
-(Line_0543): C. While the Eleventh Amendment restrains the federal judiciary, that amendment does not limit the power of Congress to modify the sovereign immunity of the states.
-(Line_0544): D. While the Eleventh Amendment applies to suits in federal court by citizens of one state against another state, it does not apply to such suits by citizens against their own state.
 
-(Line_0546): Small retailers located in the state of Yellow are concerned about the loss of business to certain large retailers located nearby in bordering states. In an effort to deal with this concern, the legislature of Yellow enacted a statute requiring all manufacturers and wholesalers who sell goods to retailers in Yellow to do so at prices that are no higher than the lowest prices at which they sell them to retailers in any of the states that border Yellow. Several manufacturers and wholesalers who are located in states bordering Yellow and who sell their goods to retailers in those states and in Yellow bring an action in federal court to challenge the constitutionality of this statute.
-(Line_0547): Which of the following arguments offered by these plaintiffs is likely to be most persuasive in light of applicable precedent?
-(Line_0548): The state statute
-(Line_0549): A. deprives them of their property or liberty without due process of law.
-(Line_0550): B. imposes an unreasonable burden on interstate commerce.
-(Line_0551): C. deprives them of a privilege or immunity of national citizenship.
-(Line_0552): D. denies them the equal protection of the laws.
-(Line_0553):  
-(Line_0554): X-- An interstate bus company operates in a five-state area. A federal statute authorizes the Interstate Commerce Commission (ICC) to permit interstate carriers to discontinue entirely any unprofitable route. The interstate bus company applied to the ICC for permission to drop a very unprofitable route through the sparsely populated Shaley Mountains. The ICC granted that permission even though the interstate bus company provided the only public transportation into the region.
-(Line_0555): A man is the owner of a mountain resort in the Shaley Mountains, whose customers usually arrived on vehicles operated by the interstate bus company. After exhausting all available federal administrative remedies, the man filed suit against the interstate bus company in the trial court of the state in which the Shaley Mountains are located to enjoin the discontinuance by the interstate bus company of its service to that area. The man alleged that the discontinuance of service by the interstate bus company would violate a statute of that state prohibiting common carriers of persons from abandoning service to communities having no alternate form of public transportation.
-(Line_0556): The state court should
-(Line_0557): A. dismiss the action, because the man lacks standing to sue.
-(Line_0558): B. direct the removal of the case to federal court, because this suit involves a substantial federal question.
-(Line_0559): C. hear the case on its merits and decide for the man because, on these facts, a federal agency is interfering with essential state functions.
-(Line_0560): D. hear the case on its merits and decide for the interstate bus company, because a valid federal law preempts the state statute on which the man relies.
-(Line_0561):  
-(Line_0562): A plaintiff challenged the constitutionality of a state tax law, alleging that it violated the equal protection clauses of both the United States Constitution and the state constitution. The state supreme court agreed and held the tax law to be invalid. It said: "We hold that this state tax law violates the equal protection clause of the United States Constitution and also the equal protection clause of the state constitution because we interpret that provision of the state constitution to contain exactly the same prohibition against discriminatory legislation as is contained in the equal protection clause of the Fourteenth Amendment to the United States Constitution."
-(Line_0563): The state sought review of this decision in the United States Supreme Court, alleging that the state supreme court's determination of the federal constitutional issue was incorrect.
-(Line_0564): How should the United States Supreme Court dispose of the case if it believes that this interpretation of the federal Constitution by the state supreme court raises an important federal question and is incorrect on the merits?
-(Line_0565): A. Reverse the state supreme court decision, because the equal protection clause of a state constitution must be construed by the state supreme court in a manner that is congruent with the meaning of the equal protection clause of the federal Constitution.
-(Line_0566): B. Reverse the state supreme court decision with respect to the equal protection clause of the federal Constitution and remand the case to the state supreme court for further proceedings, because the state and federal constitutional issues are so intertwined that the federal issue must be decided so that this case may be disposed of properly.
-(Line_0567): C. Refuse to review the decision of the state supreme court, because it is based on an adequate and independent ground of state law.
-(Line_0568): D. Refuse to review the decision of the state supreme court, because a state government may not seek review of the decisions of its own courts in the United States Supreme Court.
-(Line_0569): X-- A federal statute prohibits the construction of nuclear energy plants without a license from the Federal Nuclear Plant Siting Commission. The statute provides that the Commission may issue a license authorizing the construction of a proposed nuclear energy plant 30 days after the Commission makes a finding that the plant will comply with specified standards of safety, technological and commercial feasibility, and public convenience. In a severable provision, the Commission's enabling statute also provides that the Congress, by simple majorities in each house, may veto the issuance of a particular license by the Commission if such a veto occurs within 30 days following the required Commission finding.
 
-(Line_0571): Early last year, the Commission found that a particular energy company, met all statutory requirements and, therefore, voted to issue the energy company a license authorizing it to construct a nuclear energy plant. Because they believed that the issuance of a license to the energy company was not in accord with the applicable statutory criteria, a majority of each of the two houses of Congress voted, within the specified 30-day period, to veto the license. On the basis of that veto, the Commission refused to issue the license. Subsequently, the energy company sued the Commission in an appropriate federal district court, challenging the constitutionality of the Commission's refusal to issue the license.
-(Line_0572): In this suit, the court should hold the congressional veto of the license of the energy company to be
-(Line_0573): A. invalid, because any determination by Congress that particular agency action does not satisfy statutory criteria violates Article III, Section 1 of the Constitution because it constitutes the performance of a judicial function by the legislative branch.
-(Line_0574): B. invalid, because Article I, Section 7 of the Constitution has been interpreted to mean that any action of Congress purporting to alter the legal rights of persons outside of the legislative branch must be presented to the President for his signature or veto.
-(Line_0575): C. valid, because Congress has authority under the commerce clause to regulate the construction of nuclear energy plants.
-(Line_0576): D. valid, because there is a compelling national interest in the close congressional supervision of nuclear plant siting in light of the grave dangers to the public health and safety that are associated with the operation of such plants.
 
-(Line_0578): Congressional hearings determined that the use of mechanical power hammers is very dangerous to the persons using them and to persons in the vicinity of the persons using them. As a result, Congress enacted a statute prohibiting the use of mechanical power hammers on all construction projects in the United States. Subsequently, a study conducted by a private research firm concluded that nails driven by mechanical power hammers have longer-lasting joining power than hand-driven nails. After learning about this study, a city council enacted an amendment to its building safety code requiring the use of mechanical power hammers in the construction of all buildings intended for human habitation.
-(Line_0579): This amendment to the city's building safety code is
-(Line_0580): A. unconstitutional, because it was enacted subsequent to the federal statute.
-(Line_0581): B. unconstitutional, because it conflicts with the provisions of the federal statute.
-(Line_0582): C. constitutional, because the federal statute does not expressly indicate that it supersedes inconsistent state or local laws.
-(Line_0583): D. constitutional, because the long-term safety of human habitation justifies some additional risk to the people engaged in their construction.
 
-(Line_0585): X--A city has had a severe traffic problem on its streets. As a result, it enacted an ordinance prohibiting all sales to the public of food or other items by persons selling directly from trucks, cars, or other vehicles located on city streets. The ordinance included an inseverable grandfather provision exempting from its prohibition vendors who, for 20 years or more, have continuously sold food or other items from such vehicles located on the streets of the city.
-(Line_0586): A retail vendor of ice cream products qualifies for this exemption and is the only food vendor that does. A yogurt retailer has a business similar to the ice cream vendor, but the yogurt vendor has been selling to the public directly from trucks located on the streets of the city only for the past ten years. The yogurt vendor filed suit in an appropriate federal district court to enjoin the enforcement of this ordinance on the ground that it denies the yogurt vendor the equal protection of the laws.
-(Line_0587): In this case, the court will probably rule that the ordinance is
 
-(Line_0589): A. constitutional, because it is narrowly tailored to implement the city's compelling interest in reducing traffic congestion and, therefore, satisfies the strict scrutiny test applicable to such cases.
-(Line_0590): B. constitutional, because its validity is governed by the rational basis test, and the courts consistently defer to economic choices embodied in such legislation if they are even plausibly justifiable.
-(Line_0591): C. unconstitutional, because the nexus between the legitimate purpose of the ordinance and the conduct it prohibits is so tenuous and its provisions are so under inclusive that the ordinance fails to satisfy the substantial relationship test applicable to such cases.
-(Line_0592): D. unconstitutional, because economic benefits or burdens imposed by legislatures on the basis of grandfather provisions have consistently been declared invalid by courts as per se violations of the equal protection clause of the Fourteenth Amendment.
 (Line_0593):  
-(Line_0594): A federal statute prohibits the sale or resale, in any place in this country, of any product intended for human consumption or ingestion into the human body that contains designated chemicals known to cause cancer, unless the product is clearly labeled as dangerous. The constitutionality of this federal statute may most easily be justified on the basis of the power of Congress to
-(Line_0595): A. regulate commerce among the states.
-(Line_0596): B. enforce the Fourteenth Amendment.
-(Line_0597): C. provide for the general welfare.
-(Line_0598): D. promote science and the useful arts.
 (Line_0599):  
-(Line_0600): X-- A federal law provides that all motor vehicle tires discarded in this country must be disposed of in facilities licensed by the federal Environmental Protection Agency. Pursuant to this federal law and all proper federal procedural requirements, that agency has adopted very strict standards for the licensing of such facilities. As a result, the cost of disposing of tires in licensed facilities is substantial.
-(Line_0601): A particular state has a very large fleet of motor vehicles, including trucks used to support state-owned commercial activities and police cars. The state disposes of used tires from both kinds of state motor vehicles in a stated-owned and -operated facility. This state facility is unlicensed, but its operation in actual practice meets most of the standards imposed by the federal Environmental Protection Agency on facilities it licenses to dispose of tires.
-(Line_0602): Consistent with United States Supreme Court precedent, may the state continue to dispose of its used tires in this manner?
-(Line_0603): A. No, because a state must comply with valid federal laws that regulate matters affecting interstate commerce.
-(Line_0604): B. No, because some of the tires come from vehicles that are used by the state solely in its commercial activities.
-(Line_0605): C. Yes, because some of the tires come from vehicles that are used by the state in the performance of core state governmental functions such as law enforcement.
-(Line_0606): D. Yes, because the legitimate needs of the federal government are satisfied by the fact that the unlicensed state disposal scheme meets, in actual practice, most of the federal standards for the licensing of such facilities.
 
-(Line_0608): Congress enacted a statute providing grants of federal funds for the restoration and preservation of courthouses that were built before 1900 and are still in use. The statute contains an inseverable condition requiring that any courthouse restored with the aid of such a grant must be equipped with ramps and other facilities necessary to accommodate physically handicapped people.
 
-(Line_0610): A law of a particular state requires public buildings in the state to have ramps and other facilities for handicapped people. It exempts from those requirements any building that is more than 70 years old if the State Board of Architects finds that the installation of such facilities would destroy the architectural integrity of the building.
-(Line_0611): The county courthouse in the state was built in 1895 and is still in use. It does not contain ramps or other special facilities for handicapped people. The State Board of Architects has determined that the installation of those facilities would destroy the architectural integrity of the building. The county board applies for a federal grant to restore and preserve that county's courthouse.
-(Line_0612): If the county board restores the courthouse with the aid of a federal restoration and preservation grant, is the board bound to install ramps and other facilities for handicapped people in that building?
 
-(Line_0614): A. Yes, because Congress may impose reasonable conditions related to the public welfare on grants of federal funds to public bodies when the public bodies are free to accept or reject the grants.
-(Line_0615): B. Yes, because the rights of handicapped and disabled people are fundamental rights that take precedence, as a constitutional matter, over considerations of architectual integrity.
-(Line_0616): C. No, because the Constitution does not authorize the federal government to direct the actions of the states or any of their political subdivisions with respect to matters affecting their own governmental buildings.
-(Line_0617): D. No, because any acceptance of this condition by the county board of supervisors would, as a matter of law, be considered to be under duress.
 (Line_0618):  
-(Line_0619): "Look-alike drugs" is the term used to describe nonprescription drugs that look like narcotic drugs and are sold on the streets as narcotic drugs. After extensive hearings, Congress concluded that the sale of look-alike drugs was widespread in this country and was creating severe health and law enforcement problems. To combat these problems, Congress enacted a comprehensive statute that regulates the manufacture, distribution, and sale of all nonprescription drugs in the United States.
-(Line_0620): Which of the following sources of constitutional authority can most easily be used to justify the authority of Congress to enact this statute?
-(Line_0621): A. The spending power
-(Line_0622): B. The commerce clause
-(Line_0623): C. The general welfare clause
-(Line_0624): D. The enforcement powers of the Fourteenth Amendment
 (Line_0625):  
-(Line_0626): X--After several well-publicized deaths caused by fires in products made from highly flammable fabrics, a state enacted a statute prohibiting "the manufacture or assembly of any product in this state which contains any fabric that has not been tested and approved for flame retardancy by the Zetest Testing Company." The Zetest Testing Company is a privately owned and operated business located the state.
-(Line_0627): For many years, a fabric mill, located in the state has had its fabrics tested for flame retardancy by a competing testing company, located in a different state. The competitor is a reliable organization that uses a process for testing and approving fabrics for flame retardancy identical in all respects to that used by the Zetest Testing Company.
-(Line_0628): Because the fabric mill wishes to continue to have its fabric tested solely by the competing testing company, the fabric mill files an action its state court challenging the constitutionality of the statute as applied to its circumstances.
 
-(Line_0630): In this suit, the court should hold the statute to be
 
-(Line_0632): A. constitutional, because it is reasonably related to the protection of the reputation of the fabric industry located in the state.
-(Line_0633): B. constitutional, because it is a legitimate means of protecting the safety of the public.
-(Line_0634): C. unconstitutional, because it denies to the fabric mill the equal protection of the laws.
-(Line_0635): D. unconstitutional, because it imposes an unreasonable burden on interstate commerce.
 (Line_0636):  
-(Line_0637): Public schools in a state are financed, in large part, by revenue derived from real estate taxes imposed by each school district on the taxable real property located in that district. Public schools also receive other revenue from private gifts, federal grants, student fees, and local sales taxes. For many years, the state has distributed additional funds, which come from the state treasury, to local school districts in order to equalize the funds available on a per-student basis for each public school district. These additional funds are distributed on the basis of a state statutory formula that considers only the number of students in each public school district and the real estate tax revenue raised by that district. The formula does not consider other revenue received by a school district from different sources.
-(Line_0638): The school boards of two school districts, together with parents and schoolchildren in those districts, bring suit in federal court to enjoin the state from allocating the additional funds from the state treasury to this formula. They allege that the failure of the state, in allocating this additional money, to take into account a school district's sources of revenue other than revenue derived from taxes levied on real estate located there violates the Fourteenth Amendment. The complaint does not allege that the allocation of the additional state funds based on the current statutory formula has resulted in a failure to provide minimally adequate education to any child.
-(Line_0639): Which of the following best describes the appropriate standard by which the court should review the constitutionality of the state statutory funding formula?
-(Line_0640): A. Because classifications based on wealth are inherently suspect, the state must demonstrate that the statutory formula is necessary to vindicate a compelling state interest.
-(Line_0641): B. Because the statutory funding formula burdens the fundamental right to education, the state must demonstrate that the formula is necessary to vindicate a compelling state interest.
-(Line_0642): C. Because no fundamental right or suspect classification is implicated in this case, the plaintiffs must demonstrate that the funding allocation formula bears no rational relationship to any legitimate state interest.
-(Line_0643): D. Because the funding formula inevitably leads to disparities among the school districts in their levels of total funding, the plaintiffs must only demonstrate that the funding formula is not substantially related to the furtherance of an important state interest.
 (Line_0644):  
-(Line_0645): The constitution of a state authorizes a five-member state reapportionment board to redraw state legislative districts every ten years. In the last state legislative reapportionment, the board, by a unanimous vote, divided the greater metropolitan area, composed of a large city and several contiguous townships, into three equally populated state legislative districts. The result of that districting was that 40% of the area's total black population resided in one of those districts, 45% of the area's total black population resided in the second of those districts, and 15% resided in the third district.
-(Line_0646): A registered voter, who is black and is a resident of the city, brings suit in an appropriate court against the members of the state reapportionment board, seeking declaratory and injunctive relief that would require the boundary lines of the state legislative districts in the greater metropolitan area be redrawn. His only claim is that the current reapportionment violates the Fifteenth Amendment because it improperly dilutes the voting power of the blacks who reside in that area.
 
-(Line_0648): If no federal statute is applicable, which of the following facts, if proven, would most strongly support the validity of the action of the state reapportionment board?
-(Line_0649): A. In drawing the current district lines, the reapportionment board precisely complied with state constitutional requirements that state legislative districts be compact and follow political subdivision boundaries to the maximum extent feasible.
-(Line_0650): B. The reapportionment board was composed of three white members and two black members and both of the board's black members were satisfied that its plan did not improperly dilute the voting power of the blacks who reside in that area.
-(Line_0651): C. Although the rate of voter registration among blacks is below that of voter registrations among whites in the greater metropolitan area, two black legislators have been elected from that area during the last 15 years.
-(Line_0652): D. The total black population of the greater metropolitan area amounts to only 15% of the population that is required to comprise a single legislative district.
 
-(Line_0654): Which of the following acts by the United States Senate would be constitutionally IMPROPER?
-(Line_0655): A. The Senate decides, with the House of Representatives, that a disputed state ratification of a proposed constitutional amendment is valid.
-(Line_0656): B. The Senate determines the eligibility of a person to serve as a senator.
-(Line_0657): C. The Senate appoints a commission to adjudicate finally a boundary dispute between two states.
-(Line_0658): D. The Senate passes a resolution calling on the President to pursue a certain foreign policy.
 (Line_0659):  
-(Line_0660): The Federal Family Film Enhancement Act assesses an excise tax of 10% on the price of admission to public movie theaters when they show films that contain actual or simulated scenes of human sexual intercourse.
-(Line_0661): Which of the following is the strongest argument against the constitutionality of this federal act?
-(Line_0662): A. The act imposes a prior restraint on the freedom of speech protected by the First Amendment.
-(Line_0663): B. The act is not rationally related to any legitimate national interest.
-(Line_0664): C. The act violates the equal protection concepts embodied in the due process clause of the Fifth Amendment because it imposes a tax on the price of admission to view certain films and not on the price of admission to view comparable live performances.
-(Line_0665): D. The act imposes a tax solely on the basis of the content of speech without adequate justification and, therefore, it is prohibited by the freedom of speech clause of the First Amendment.
 (Line_0666):  
-(Line_0667): X--A city ordinance makes the city building inspector responsible for ensuring that all buildings in that city are kept up to the building code standards, and requires the inspector to refer for prosecution all known building code violations. Another ordinance provides that the city building inspector may be discharged for "good cause." The building inspector took a newspaper reporter through a number of run-down buildings in a slum neighborhood. After using various epithets and slurs to describe the occupants of these buildings, the building inspector stated to the reporter: "I do not even try to get these buildings up to code or to have their owners prosecuted for code violations because if these buildings are repaired, the people who live in them will just wreck them again." The reporter published these statements in a story in the local newspaper. The building inspector admitted he made the statements.
-(Line_0668): On the basis of these statements, the city council discharged the building inspector.
 
-(Line_0670): Is the action of the city council constitutional?
-(Line_0671): A. Yes, because the statements demonstrate that the building inspector has an attitude toward a certain class of persons that interferes with the proper performance of the obligations of his job.
-(Line_0672): B. Yes, because the building inspector is a government employee and a person holding such a position may not make public comments inconsistent with current governmental policy.
-(Line_0673): C. No, because the statements were lawful comments on a matter of public concern.
-(Line_0674): D. No, because the statements were published in a newspaper that is protected by the Fourteenth Amendment.
 (Line_0675):  
-(Line_0676): Insurance is provided in a particular state only by private companies. Although the state insurance commissioner inspects insurance companies for solvency, the state does not regulate their rates or policies. An insurance company charges higher rates for burglary insurance to residents of one part of a county in the state than to residents of another section of the same county because of the different crime rates in those areas.
-(Line_0677): The plaintiff is a resident of the county who was charged the higher rate by the insurance company because of the location of her residence. The plaintiff sues the insurance company, alleging that the differential in insurance rates unconstitutionally denies her the equal protection of the law.
-(Line_0678): Will the plaintiff's suit succeed?
-(Line_0679): A. Yes, because the higher crime rate in the plaintiff's neighborhood demonstrates that the county police are not giving persons who reside there the equal protection of the laws.
-(Line_0680): B. Yes, because the insurance rate differential is inherently discriminatory.
-(Line_0681): C. No, because the constitutional guarantee of equal protection of the law is not applicable to the actions of these insurance companies.
-(Line_0682): D. No, because there is a rational basis for the differential in insurance rates.
 
-(Line_0684): The National AIDS Prevention and Control Act is a new, comprehensive federal statute that was enacted to deal with the public health crisis caused by the AIDS virus. Congress and the President were concerned that inconsistent lower court rulings with respect to the constitutionality, interpretation, and application of the statute might adversely affect or delay its enforcement and, thereby, jeopardize the public health. As a result, they included a provision in the statute providing that all legal challenges concerning those matters may be initiated only by filing suit directly in the United States Supreme Court.
-(Line_0685): The provision authorizing direct review of the constitutionality, interpretation, or application of this statute only in the United States Supreme Court is
-(Line_0686): A. constitutional, because it is authorized by the Article I power of Congress to enact all laws that are "necessary and proper" to implement the general welfare.
-(Line_0687): B. constitutional, because Article III provides that the jurisdiction of the United States Supreme Court is subject to such exceptions and such regulations as Congress shall make.
-(Line_0688): C. unconstitutional, because it denies persons who wish to challenge this statute the equal protection of the laws by requiring them to file suit in a court different from that in which persons who wish to challenge other statutes may file.
-(Line_0689): D. unconstitutional, because it is inconsistent with the specification in Article III of the original jurisdiction of the United States Supreme Court.
-(Line_0690):  
 
-(Line_0692): X--A state has a statute providing that an unsuccessful candidate in a primary election for a party's nomination for elected public office may not become a candidate for the same office at the following general election by nominating petition or by write-in votes. A woman sought her party's nomination for governor in the May primary election. After losing in the primary, the woman filed nominating petitions containing the requisite number of signatures to become a candidate for the office of governor in the following general election. The chief elections officer of the state refused to certify the woman's petitions solely because of the above statute. The woman then filed suit in federal district court challenging the constitutionality of this state statute.
-(Line_0693): As a matter of constitutional law, which of the following is the proper burden of persuasion in this suit?
-(Line_0694): A. The woman must demonstrate that the statute is not necessary to achieve a compelling state interest.
-(Line_0695): B. The woman must demonstrate that the statute is not rationally related to a legitimate state interest.
-(Line_0696): C. The state must demonstrate that the statute is the least restrictive means of achieving a compelling state interest.
-(Line_0697): D. The state must demonstrate that the statute is rationally related to a legitimate state interest.
 (Line_0698):  
-(Line_0699): In order to provide funds for a system of new major airports near the ten largest cities in the United States, Congress levies a tax of $25 on each airline ticket issued in the United States. The tax applies to every airline ticket, even those for travel that does not originate in, terminate at, or pass through any of those ten large cities. As applied to the issuance in the United States of an airline ticket for travel between two cities that will not be served by any of the new airports, this tax is
-(Line_0700): A. constitutional, because Congress has broad discretion in choosing the subjects of its taxation and may impose taxes on subjects that have no relation to the purpose for which those tax funds will be expended.
-(Line_0701): B. constitutional, because an exemption for the issuance of tickets for travel between cities that will not be served by the new airports would deny the purchasers of all other tickets the equal protection of the laws.
-(Line_0702): C. unconstitutional, because the burden of the tax outweighs its benefits for passengers whose travel does not originate in, terminate at, or pass through any of the ten largest cities.
-(Line_0703): D. unconstitutional, because the tax adversely affects the fundamental right to travel.
 (Line_0704):  
-(Line_0705):  To encourage the growth of its population, a state established a program that awarded $1,000 to the parents of each child born within the state, provided that at the time of the child's birth the mother and father of the newborn were citizens of the United States. A family are aliens who are permanent residents of the United States and have resided in the state for three years. When their first child was born two months ago, they applied for and were denied the $1,000 award by state officials on the sole ground that they are not citizens of the United States. The family filed suit in federal court contending that their exclusion from the award program was unconstitutional. Assume no federal statute addresses this question.
-(Line_0706): In this case, the court should hold that the exclusion of aliens from the state award program is
-(Line_0707): A. constitutional, because the Tenth Amendment reserves to the states plenary authority over the spending of state funds.
-(Line_0708): B. constitutional, because the state has a legitimate interest in encouraging the growth of its population, and a rational legislature could believe that families in which both parents are United States citizens are more likely to stay in the state and contribute to its future prosperity than those in which one or both of the parents are aliens.
-(Line_0709): C. unconstitutional, because strict scrutiny governs judicial review of such state classifications based on alienage, and the state cannot demonstrate that this classification is necessary to advance a compelling state interest.
-(Line_0710): D. unconstitutional, because state classifications based on alienage are impermissible unless explicitly authorized by an act of Congress.
-(Line_0711): A city's police officers shot and killed a plaintiff's friend as he attempted to escape arrest for an armed robbery he had committed. The plaintiff brought suit in federal district court against the police department and the city police officers involved, seeking only a judgment declaring unconstitutional the state statute under which the police acted. That newly enacted statute authorized the police to use deadly force when necessary to apprehend a person who has committed a felony. In his suit, the plaintiff alleged that the police would not have killed his friend if the use of deadly force had not been authorized by the statute.
-(Line_0712): The federal district court should
-(Line_0713): A. decide the case on its merits, because it raises a substantial federal question.
-(Line_0714): B. dismiss the action, because it involves a nonjusticiable political question.
-(Line_0715): C. dismiss the action, because it does not present a case or controversy.
-(Line_0716): D. dismiss the action, because the Eleventh Amendment prohibits federal courts from deciding cases of this type.
 (Line_0717):  
-(Line_0718): X--A shipper contracted with an interstate carrier to ship household goods from the state of Green to his new home in the state of Pink. A federal statute provides that all liability of an interstate mover to a shipper for loss of or damage to the shipper's goods in transit is governed exclusively by the contract between them. The statute also requires the interstate carrier to offer a shipper at least two contracts with different levels of liability. In full compliance with that federal statute, the interstate carrier offered the shipper a choice between two shipping agreements that provided different levels of liability on the part of the interstate carrier. The less expensive contract limited the interstate carrier's liability in case of loss or damage to less than full value. The shipper voluntarily signed the less expensive contract with the the interstate carrier, fixing the interstate carrier's liability at less than the full value of the shipment. The interstate carrier's truck was involved in an accident in the state of Pink. The accident was entirely a product of the negligence of the interstate carrier's driver. The shipper's household goods were totally destroyed. In accordance with the contract, the interstate carrier reimbursed the shipper for less than the full value of the goods. The shipper then brought suit against the interstate carrier under the tort law of the state of Pink claiming that he was entitled to be reimbursed for the full value of the goods. The interstate carrier filed a motion to dismiss.
-(Line_0719): In this suit, the court should
-(Line_0720): A. dismiss the case, because the federal statute governing liability of interstate carriers is the supreme law of the land and preempts state tort law.
-(Line_0721): B. dismiss the case, because the contractual relationship between the shipper and the interstate carrier is governed by the obligation of contracts clause of the Constitution.
-(Line_0722): C. deny the motion to dismiss, because the full faith and credit clause of the Constitution requires that state tort law be given effect.
-(Line_0723): D. deny the motion to dismiss, because it is unconstitutional for a federal statute to authorize the interstate carrier to contract out of any degree of liability for its own negligence.
 
-(Line_0725):  A city operates a cemetery pursuant to a city ordinance. The ordinance requires the operation of the city cemetery to be supported primarily by revenues derived from the sale of cemetery lots to individuals. The ordinance further provides that the purchase of a cemetery lot entitles the owner to perpetual care of the lot and entitles the owner to erect on the lot, at the owner's expense, a memorial monument or marker of the owner's choice, subject to certain size restrictions. The city ordinance requires the city to maintain the cemetery, including mowing the grass, watering flowers, and plowing snow, and provides for the expenditure of city tax funds for such maintenance if revenues from the sale of cemetery lots are insufficient. Although cemetery lots are sold at full fair market value, which includes the current value of perpetual care, the revenue from the sale of such lots has been insufficient in recent years to maintain the cemetery. As a result, a small amount of city tax funds has also been used for that purpose.
 
-(Line_0727): A group of city taxpayers brings suit against the city challenging the constitutionality of the city ordinance insofar as it permits the owner of a cemetery lot to erect a religious memorial monument or marker on his or her lot.
-(Line_0728): Is this suit likely to be successful?
-(Line_0729): A. No, because only a small amount of city tax funds has been used to maintain the cemetery.
-(Line_0730): B. No, because the purpose of the ordinance is entirely secular, its primary effect neither advances nor inhibits religion, and it does not foster an excessive entanglement with religion.
-(Line_0731): C. Yes, because city maintenance of any religious object is a violation of the establishment clause of the First Amendment as incorporated into the Fourteenth Amendment.
-(Line_0732): D. Yes, because no compelling governmental interest justifies authorizing private persons to erect religious monuments or markers in a city-operated cemetery.
 (Line_0733):  
-(Line_0734): X--  A school board in a small city issued a rule authorizing public school principals to punish, after a hearing, students who engage in violations of the board's student behavior code. According to the rule, violators of the behavior code may be punished in a variety of ways including being required to sit in designated school confinement rooms during all school hours, with their hands clasped in front of them, for a period of up to 15 school days.
 
-(Line_0736): A fifth grade student in the city's elementary school was charged with placing chewed bubble gum on a classmate's chair, a violation of the student behavior code. He had never violated the code before and was otherwise an attentive and well-behaved student. After a hearing on the charges, the student's principal determined that the student had violated the behavior code in the manner charged, and ordered the student to spend the next 15 school days in the school confinement room with his hands clasped in front of him. The student's parents filed suit in federal court challenging, solely on constitutional grounds, the principal's action in ordering the student to spend the next 15 school days in the school confinement room with his hands clasped in front of him.
-(Line_0737): Which of the following arguments would be most helpful to the student's parents in this suit?
-(Line_0738): A. Because the school board rule limits the freedom of movement of students and subjects them to bodily restraint, it denies them a privilege and immunity of citizenship guaranteed them by Article IV, Section 2.
-(Line_0739): B. Because the school board rule is substantially overbroad in relation to any legitimate purpose, it constitutes a facial violation of the equal protection clause of the Fourteenth Amendment.
-(Line_0740): C. Because application of the school board rule in this case denies the student freedom of movement and subjects him to bodily restraint in a manner grossly disproportionate to his offense and circumstances, it violates the due process clause of the Fourteenth Amendment.
-(Line_0741): D. Because the school board rule is enforced initially by administrative rather than judicial proceedings, it constitutes a prohibited bill of attainder.
-(Line_0742):  
-(Line_0743): X--A state statute declares that after five years of continuous service in their positions, all state employees, including faculty members at the state university, are entitled to retain their positions during "good behavior." The statute also contains a number of procedural provisions. Any state employee who is dismissed after that five-year period must be given reasons for the dismissal before it takes effect. In addition, such an employee must, upon request, be granted a post-dismissal hearing before an administrative board to seek reinstatement and back pay. The statute precludes any other hearing or opportunity to respond to the charges. That post-dismissal hearing must occur within six months after the dismissal takes effect. The burden of proof at such a hearing is on the state, and the board may uphold the dismissal only if it is supported by a preponderance of the evidence. An employee who is dissatisfied with a decision of the board after a hearing may appeal its decision to the state courts. The provisions of this statute are inseverable.
 
-(Line_0745): A teacher who had been employed continuously for seven years as a faculty member at the state university was dismissed. A week before the dismissal took effect, she was informed that she was being dismissed because of a charge that she accepted a bribe from a student in return for raising the student's final grade in her course. At that time she requested an immediate hearing to contest the propriety of her dismissal.
-(Line_0746): Three months after her dismissal, she was granted a hearing before the state administrative board. The board upheld her dismissal, finding that the charge against her was supported by a preponderance of the evidence presented at the hearing.
-(Line_0747): The faculty member did not appeal the decision of the state administrative board to the state courts. Instead, she sought a declaratory judgment in federal district court to the effect that the state statute prescribing the procedures for her dismissal is unconstitutional.
-(Line_0748): In this case, the federal district court should
-(Line_0749): A. dismiss the suit, because a claim that a state statute is unconstitutional is not ripe for adjudication by a federal court until all judicial remedies in state courts provided for by state law have been exhausted.
-(Line_0750): B. hold the statute unconstitutional because the due process clause of the Fourteenth Amendment requires a state to demonstrate beyond a reasonable doubt the facts constituting good cause for termination of a state employee.
-(Line_0751): C. hold the statute unconstitutional, because a state may not ordinarily deprive an employee of a property interest in a job without giving the employee an opportunity for some kind of a predismissal hearing to respond to the charges against that employee.
-(Line_0752): D. hold the statute constitutional, because the due process clause of the Fourteenth Amendment entitles state employees who have a right to their jobs during good behavior only to a statement of reasons for their dismissal and an opportunity for a post-dismissal hearing.
-(Line_0753):  
-(Line_0754): 108.X--A professional motorcycle rider put on a performance in a privately owned stadium during which he leaped his motorcycle over 21 automobiles. Spectators were charged $5 each to view the jump and were prohibited from using cameras. However, the local television station filmed the whole event from within the stadium without the knowledge or consent of the rider and showed the film in its entirety on the evening newscast that day. The rider thereafter brought suit to recover damages from the station for the admittedly unauthorized filming and broadcasting of the act. The television station raised only constitutional defenses.
-(Line_0755): The court should
-(Line_0756): A. hold against the rider, because the First and Fourteenth Amendments authorize press coverage of newsworthy entertainment events.
-(Line_0757): B. hold against the rider, because under the First and Fourteenth Amendments news broadcasts are absolutely privileged.
-(Line_0758): C. find the station liable, because its action deprives the rider of his property without due process.
-(Line_0759): D. find the station liable, because the First and Fourteenth Amendments do not deprive an entertainer of the commercial value of his or her performances.
-(Line_0760):  
-(Line_0761): Congress passed a bill prohibiting the President from granting a pardon to any person who had not served at least one-third of the sentence imposed by the court which convicted that person. The President vetoed the bill, claiming that it was unconstitutional. Nevertheless, Congress passed it over his veto by a two-thirds vote of each house.
-(Line_0762): This act of Congress is
-(Line_0763): A. constitutional, because it was enacted over the President's veto by a two-thirds vote of each house.
-(Line_0764): B. constitutional, because it is a necessary and proper means of carrying out the powers of Congress.
-(Line_0765): C. unconstitutional, because it interferes with the plenary power of the President to grant pardons.
-(Line_0766): D. unconstitutional, because a Presidential veto based upon constitutional grounds may be overridden only with the concurrence of three-fourths of the state legislatures.
 
-(Line_0768): Small retailers located in a particular state are concerned about the loss of business to certain large retailers located nearby in bordering states. In an effort to deal with this concern, the legislature of the state enacted a statute requiring all manufacturers and wholesalers who sell goods to retailers in the state to do so at prices that are no higher than the lowest prices at which they sell them to retailers in any of the states that border that state. Several manufacturers and wholesalers who are located in states bordering the state and who sell their goods to retailers in those states and in the state bring an action in federal court to challenge the constitutionality of this statute.
-(Line_0769): Which of the following arguments offered by these plaintiffs is likely to be most persuasive in light of applicable precedent?
-(Line_0770): The state statute
-(Line_0771): A. deprives them of their property or liberty without due process of law.
-(Line_0772): B. imposes an unreasonable burden on interstate commerce.
-(Line_0773): C. deprives them of a privilege or immunity of national citizenship.
-(Line_0774): D. denies them the equal protection of the laws.
 (Line_0775):  
-(Line_0776): A federally owned and operated office building in a particular state is heated with a new, pollution-free heating system. However, in the coldest season of the year, this new system is sometimes insufficient to supply adequate heat to the building. The appropriation statute providing the money for construction of the new heating system permitted use of the old, pollution-generating system when necessary to supply additional heat. When the old heating system operates (only about two days in any year), the smokestack of the building emits smoke that exceeds the state's pollution-control standards.
-(Line_0777): May the operators of the federal office building be prosecuted successfully by state authorities for violating that state's pollution control standards?
-(Line_0778): A. Yes, because the regulation of pollution is a legitimate state police power concern.
-(Line_0779): B. Yes, because the regulation of pollution is a joint concern of the federal government and the state and, therefore, both of them may regulate conduct causing pollution.
-(Line_0780): C. No, because the operations of the federal government are immune from state regulation in the absence of federal consent.
-(Line_0781): D. No, because the violations of the state pollution-control standards involved here are so de minimis that they are beyond the legitimate reach of state law.
 (Line_0782):  
-(Line_0783): X-- A state statute requires each insurance company that offers burglary insurance policies in the state to charge a uniform rate for such insurance to all of its customers residing within the same county in that state. So long as it complies with this requirement, a company is free to charge whatever rate the market will bear for its burglary insurance policies.
-(Line_0784): An insurance company located in the state files suit in federal district court against appropriate state officials to challenge this statute on constitutional grounds. The insurance company wishes to charge customers residing within the same county in the state rates for burglary insurance policies that will vary because they would be based on the specific nature of the customer's business, on its precise location, and on its past claims.
-(Line_0785): In this suit, the court should
-(Line_0786): 	
-(Line_0787): A. hold the statute unconstitutional, because the statute deprives the insurance company of its liberty or property without due process of law.
-(Line_0788): B. hold the statute unconstitutional, because the statute imposes an undue burden on interstate commerce.
-(Line_0789): C. hold the statute constitutional, because the statute is a reasonable exercise of the state's police power.
-(Line_0790): D. abstain from ruling on the merits of this case until the state courts have had an opportunity to pass on the constitutionality of this state statute.
 (Line_0791):  
-(Line_0792): X--Widgets are manufactured wholly from raw materials mined and processed in a particular state. The only two manufacturers of widgets in the United States are also located in that state. However, their widgets are purchased by retailers located in every state. The state's legislature is considering the adoption of a statute that would impose a tax solely on the manufacture of widgets. The tax is to be calculated at 3% of their wholesale value.
-(Line_0793): Which of the following arguments would be LEAST helpful to the state in defending the constitutionality of this proposed state tax on widgets?
-(Line_0794): A. At the time widgets are manufactured and taxed they have not yet entered the channels of interstate commerce.
-(Line_0795): B. The economic impact of this tax will be passed on to both in-state and out-of-state purchasers of widgets and, therefore, it is wholly nondiscriminatory in its effect.
-(Line_0796): C. Because of the powers reserved to them by the Tenth Amendment, states have plenary authority to construct their tax system in any manner they choose.
-(Line_0797): D. A tax on the manufacturer of widgets may be imposed only by the state in which the manufacturing occurs and, therefore, it is not likely to create the danger of a multiple tax burden on interstate commerce.
 (Line_0798):  
-(Line_0799): X--Twenty percent of the residents of Green City are members of minority racial groups. These residents are evenly distributed among the many different residential areas of the city. The five city council members of Green City are elected from five single-member electoral districts that are nearly equally populated. No candidate has ever been elected to the city council who was a member of a minority racial group. A group of citizens who are members of minority racial groups file suit in federal district court seeking a declaratory judgment that the single-member districts in Green City are unconstitutional. They claim that the city diminishes the ability of voters who are members of minority racial groups to affect the outcome of the city elections. They seek an order from the court forcing the city to adopt an at-large election system in which the five candidates with the greatest vote totals would be elected to the city council. No state or federal statutes are applicable to the resolution of this suit.
-(Line_0800): Which of the following constitutional provisions provides the most obvious basis of plaintiff's claim in this suit?
-(Line_0801): A. The Thirteenth Amendment.
-(Line_0802): B. The due process clause of the Fourteenth Amendment.
-(Line_0803): C. The privileges and immunities clause of the Fourteenth Amendment.
-(Line_0804): D. The Fifteenth Amendment.
 (Line_0805):  
-(Line_0806): The Sports Championship Revenue Enhancement Act is a federal statute that was enacted as part of a comprehensive program to eliminate the federal budget deficit. That act imposed, for a period of five years, a 50% excise tax on the price of tickets to championship sporting events. Such events included the World Series, the Super Bowl, major college bowl games, and similar championship sports events. This federal tax is probably
-(Line_0807): A. constitutional, because the compelling national interest in reducing the federal budget deficit justifies this tax as a temporary emergency measure.
-(Line_0808): B. constitutional, because an act of Congress that appears to be a revenue raising measure on its face is not rendered invalid because it may have adverse economic consequences for the activity taxed.
-(Line_0809): C. unconstitutional, because a 50% tax is likely to reduce attendance at championship sporting events and, therefore, is not rationally related to the legitimate interest of Congress in eliminating the budget deficit.
-(Line_0810): D. unconstitutional, because Congress violates the equal protection component of the Fifth Amendment by singling out championship sporting events for this tax while failing to tax other major sporting events to which tickets are sold.
 
-(Line_0812): The Federal Computer Abuse Act establishes the Federal Computer Abuse Commission, authorizes the Commission to issue licenses for the possession of computers on terms that are consistent with the purposes of the act, and makes the unlicensed possession of a computer a crime. The provisions of the Federal Computer Abuse Act are inseverable.
 
-(Line_0814): A user applied to the Federal Computer Abuse Commission for a license to possess a computer. The Commission held, and the user participated in, a trial-type proceeding on the user's license application. In that proceeding it was demonstrated that the user repeatedly and intentionally used computers to introduce secret destructive computer programs (computer viruses) into electronic data banks without the consent of their owners. As a result, the Commission denied the user's application for a license. The license denial was based on a Commission rule authorized by the Computer Abuse Act that prohibited the issuance of computer licenses to persons who had engaged in such conduct. Nevertheless, the user retained and continued to use his computer. He was subsequently convicted of the crime of unlicensed possession of a computer. On appeal, he challenges the constitutionality of the licensing provision of the Federal Computer Abuse Act.
 
-(Line_0816): In this case, the reviewing court would probably hold that act to be
-(Line_0817): A. constitutional, because the Constitution generally authorizes Congress to enact all laws that are necessary and proper to advance the general welfare, and Congress could reasonably believe that possession of computers by people like the user constitutes a threat to the general welfare.
-(Line_0818): B. constitutional, because Congress may use the authority vested in it by the commerce clause to regulate the possession of computers and the provisions of this act do not violate any prohibitory provision of the Constitution.
-(Line_0819): C. unconstitutional, because Congress may not impose a criminal penalty on action that is improper merely because it is inconsistent with an agency rule.
-(Line_0820): D. unconstitutional, because the mere possession of a computer is a wholly local matter that is beyond the regulatory authority of Congress.
 (Line_0821):  
 (Line_0822): The United States Department of Energy regularly transports nuclear materials through a particular city on the way to a nuclear weapons processing plant it operates in a nearby state. The city recently adopted an ordinance prohibiting the transportation of any nuclear materials in or through the city. The ordinance declares that its purpose is to protect the health and safety of the residents of that city.
 (Line_0823): May the Department of Energy continue to transport these nuclear materials through the city?
@@ -796,41 +253,15 @@
 
 (Line_0970): In this case, the court will probably hold that the state statute is
 (Line_0971): A. unconstitutional, because a limit on the availability of abortions performed by the state employees or in state-owned or state-operated facilities to situations in which it is necessary to save the life of the mother impermissibly interferes with the fundamental right of the citizen to decide whether to have a child.
-(Line_0972): B. unconstitutional, because it impermissibly discriminates against poor persons who cannot afford to pay for abortions in privately owned and operated facilities and against persons who live far away from privately owned and operated abortion clinics.
-(Line_0973): C. constitutional, because it does not prohibit a woman from having an abortion or penalize her for doing so, it is rationally related to the legitimate governmental goal of encouraging childbirth, and it does not interfere with the voluntary performance of abortions by private physicians in private facilities.
-(Line_0974): D. constitutional, because the use of state-owned or state-operated facilties and access to the services of state employees are privileges and not rights and, therefore, a state may condition them on any basis it chooses.
-(Line_0975):  
-(Line_0976): X--Radon is a harmful gas found in the soil of certain regions of the United States. A state statute requires occupants of residences with basements susceptible to the intrusion of radon to have their residences tested for the presence of radon and to take specified remedial steps if the test indicates the presence of radon above specified levels. The statute also provides that the testing for radon may be done only by testers licensed by a state agency. According to the statute, a firm may be licensed to test for radon only if it meets specified rigorous standards relating to the accuracy of its testing. These standards may easily be achieved with current technology; but the technology required to meet them is 50% more expensive than the technology required to measure radon accumulations in a slightly less accurate manner.
 
-(Line_0978): The United States Environmental Protection Agency (EPA) does not license radon testers. However, a federal statute authorizes the EPA to advise on the accuracy of various methods of radon testing and to provide to the general public a list of testers that use methods it believes to be reasonably accurate.
 
-(Line_0980): A recently established state firm uses a testing method that the EPA has stated is reasonably accurate. The firm is also included by the EPA on a list of testers using methods of testing it believes to be reasonably accurate. The firm applies for a state radon testing license, but its application is denied because the firm cannot demonstrate that the method of testing for radon it uses is sufficiently accurate to meet the rigorous state statutory standards. The firm sues appropriate state officials in federal court claiming that the state may not constitutionally exclude the firm from performing the required radon tests in the state. In this suit, the court will probably rule in favor of
 
-(Line_0982): A. the firm, because the full faith and credit clause of the Constitution requires the state to respect and give effect to the action of the EPA in including the firm on its list of testers that use reasonably accurate methods.
-(Line_0983): B. the firm, because the supremacy clause of the Constitution requires the state to respect and give effect to the action of the EPA in including the firm on its list of testers that use reasonably accurate methods.
-(Line_0984): C. The state, because the federal statute and the action of the EPA in including the firm on its list of testers that use reasonably accurate methods are not inconsistent with the more rigorous state licensing requirement, and that requirement is reasonably related to a legitimate public interest.
-(Line_0985): D. The state, because radon exposure is limited to basement areas, which, by their very nature, cannot move in interstate commerce.
 (Line_0986):  
 (Line_0987): A state legislature recently enacted a statute forbidding public utilities regulated by the state's public service commission to increase their rates more than once every two years. A power company, a public utility regulated by that commission, has just obtained approval of the commission for a general rate increase. The power company has routinely filed for a rate increase every ten to 14 months during the last 20 years. Because of uncertainties about future fuel prices, the power company cannot ascertain with any certainty the date when it will need a further rate increase; but it thinks it may need such an increase sometime within the next 18 months. The power company files an action in the federal district court in the state requesting a declaratory judgment that this new state statute forbidding public utility rate increases more often than once every two years is unconstitutional. Assume no federal statute is relevant.
 
-(Line_0989): In this case, the court should
-(Line_0990): A. hold the statute unconstitutional, because such a moratorium on rate increases deprives utilities of their property without due process of law.
-(Line_0991): B. hold the statute constitutional, because the judgment of a legislature on a matter involving economic regulation is entitled to great deference.
-(Line_0992): C. dismiss the complaint, because this action is not ripe for decision.
-(Line_0993): D. dismiss the complaint, because controversies over state-regulated utility rates are outside of the jurisdiction conferred on federal courts by Article III of the Constitution.
-(Line_0994):  
-(Line_0995): X-- A clerical worker has been employed for the past two years in a permanent position in the County Public Records Office in a particular state. The clerk has been responsible for copying and filing records of real estate transactions in that office. The clerk works in a nonpublic part of the office and has no contact with members of the public. However, state law provides that all real estate records in that office are to be made available for public inspection. On the day an attempted assassination of the governor of the state was reported on the radio, the clerk remarked to a coworker, "Our governor is such an evil man, I am sorry they did not get him." The clerk's coworker reported this remark to the clerk's employer, the county recorder. After the clerk admitted to making the remark, the county recorder dismissed him stating that "there is no room in this office for a person who hates the governor so much." The clerk sued for reinstatement and back pay. His only claim is that the dismissal violated his constitutional rights. In this case, the court should hold that the county recorder's dismissal of the clerk was
-(Line_0996): A. unconstitutional, because it constitutes a taking without just compensation of the clerk's property interest in his permanent position with the county.
-(Line_0997): B. unconstitutional, because in light of the clerk's particular employment duties his right to express himself on a matter of public concern outweighed any legitimate interest the state might have had in discharging him.
-(Line_0998): C. constitutional, because the compelling interest of the state in having loyal and supportive employees outweighs the interest of any state employee in his or her job or in free speech on a matter of public concern.
 (Line_0999): D. no justiciable, because public employment is a privilege rather than a right and, therefore, the clerk lacked standing to bring this suit.
 (Line_1000):  
-(Line_1001): A city has an ordinance that prohibits the location of "adult theaters and bookstores" (theaters and bookstores presenting sexually explicit performances or materials) in residential or commercial zones within the city. The ordinance was intended to protect surrounding property from the likely adverse secondary effects of such establishments. "Adult theaters and bookstores" are freely permitted in the areas of the city zoned industrial, where those adverse secondary effects are not as likely. A storekeeper is denied a zoning permit to open an adult theater and bookstore in a building owned by him in an area zoned commercial. As a result, the storekeeper brings suit in an appropriate court challenging the constitutionality of the zoning ordinance. Which of the following statements regarding the constitutionality of this ordinance is most accurate?
 
-(Line_1003): A. The ordinance is valid, because a city may enforce zoning restrictions on speech-related businesses to ensure that the messages they disseminate are acceptable to the residents of adjacent property.
-(Line_1004): B. The ordinance is valid, because a city may enforce this type of time, place, and manner regulation on speech-related businesses, so long as this type of regulation is designed to serve a substantial governmental interest and does not unreasonably limit alternative avenues of communication.
-(Line_1005): C. The ordinance is invalid, because a city may not enforce zoning regulations that deprive potential operators of adult theatres and bookstores of their freedom to choose the location of their businesses.
-(Line_1006): D. The ordinance is invalid, because a city may not zone property in a manner calculated to protect property from the likely adverse secondary effects of adult theaters and bookstores.
 (Line_1007):  
 (Line_1008): A state statute provides that assessments of real property for tax purposes must represent the "actual value" of the property. The County Tax Commission, in making its assessments, has uniformly and consistently determined the "actual value" of real property solely by reference to the price at which the particular property was last sold. In recent years, the market values of real property in the county have been rising at the rate of 15% per year. 
 
@@ -880,23 +311,11 @@
 (Line_1053): C. No, because the plaintiffs do not have an interest in the invalidation of this statute that is adequate to ensure that the suit presents an Article III controversy.
 (Line_1054): D. No, because a suit for an injunction against enforcement of a criminal statute may not be brought in federal court at any time prior to a bona fide effort to enforce that statute.
 (Line_1055):  
-(Line_1056): A city enacted an ordinance banning from its public sidewalks all machines dispensing publications consisting wholly of commercial advertisements. The ordinance was enacted because of a concern about the adverse aesthetic effects of litter from publications distributed on the public sidewalks and streets. However, the city continued to allow machines dispensing other types of publications on the public sidewalks. As a result of the city ordinance, 30 of the 300 sidewalk machines that were dispensing publications in the city were removed. Is this city ordinance constitutional?
-(Line_1057): A. Yes, because regulations of commercial speech are subject only to the requirement that they be rationally related to a legitimate state goal, and that requirement is satisfied here.
-(Line_1058): B. Yes, because the city has a compelling interest in protecting the aesthetics of its sidewalks and streets, and such a ban is necessary to vindicate this interest.
-(Line_1059): C. No, because it does not constitute the least restrictive means with which to protect the aesthetics of the city's sidewalks and streets.
-(Line_1060): D. No, because there is not a reasonable fit between the legitimate interest of the city in preserving the aesthetics of its sidewalks and streets and the means it chose to advance that interest.
 (Line_1061):  
-(Line_1062): A state enacted a statute providing for the closure of the official state records of arrest and prosecution of all persons acquitted of a crime by a court or against whom criminal charges were filed and subsequently dropped or dismissed. The purpose of this statute is to protect these persons from further publicity or embarrassment relating to those state proceedings. However, this statute does not prohibit the publication of such information that is in the possession of private persons
 
-(Line_1064): A prominent businessman in the state was arrested and charged with rape. Prior to trial, the prosecutor announced that new information indicated that the charges should be dropped. He then dropped the charges without further explanation, and the records relating thereto were closed to the public pursuant to the state statute.
 
-(Line_1066): The newspaper in the state conducted an investigation to determine why the businessman was not prosecuted, but was refused access to the closed official state records. In an effort to determine whether the law enforcement agencies involved were properly doing their duty, the newspaper filed suit against appropriate state officials to force opening of the records and to invalidate the statute on constitutional grounds.
 
-(Line_1068): Which of the following would be most helpful to the state in defending the constitutionality of this statute?
 (Line_1069): A. The fact that the statute treats in an identical manner the arrest and prosecution records of all persons who have been acquitted of a crime by a court or against whom criminal charges were filed and subsequently dropped or dismissed.
-(Line_1070): B. The argument that the rights of the press are no greater than those of citizens generally.
-(Line_1071): C. The fact that the statute only prohibits public access to these official state records and does not prohibit the publication of information they contain that is in the possession of private persons.
-(Line_1072): D. The argument that the state may seal official records owned by the state on any basis its legislature chooses.
 (Line_1073):  
 (Line_1074): A federal statute appropriated $7 million for a nationwide essay contest on "How the United States Can Best Stop Drug Abuse." The statute indicates that its purpose is to generate new, practical ideas for eliminating drug abuse in the United States. Contest rules set forth in the statute provide that winning essays are to be selected on the basis of the "originality, aptness, and feasibility of their ideas." The statute expressly authorizes a first prize of $1 million, 50 second prizes of $100,000 each, and 100 third prizes of $10,000 each. It also states that judges for the contest are to be appointed by the President of the United States with the advice and consent of the Senate, and that all residents of the United States who are not employees of the federal government are eligible to enter and win the contest. A provision of the statute authorizes any taxpayer of the United States to challenge its constitutionality. In a suit by a federal taxpayer to challenge the constitutionality of the statute, the court should
 (Line_1075): A. refuse to decide its merits, because the suit involves policy questions that are inherently political and, therefore, non justiciable.
@@ -1024,9 +443,7 @@
 (Line_1197): The state of Red sent three of its employees to a city located in the state of Blue to consult with a chemical laboratory there about matters of state business. While in the course of their employment, the three employees of Red negligently released into local Blue waterways some of the chemical samples they had received from the laboratory in Blue.
 
 (Line_1199): Persons in Blue injured by the release of the chemicals sued the three Red state employees and the state of Red in Blue state courts for the damages they suffered. After a trial in which all of the defendants admitted jurisdiction of the Blue state court and fully participated, plaintiffs received a judgment against all of the defendants for $5 million, which became final.
-(Line_1200): Subsequently, plaintiffs sought to enforce their Blue state court judgment by commencing a proper proceeding in an appropriate court of Red. In that enforcement proceeding, the state of Red argued, as it had done unsuccessfully in the earlier action in Blue state court, that its liability is limited by a law of Red to $100,000 in any tort case. Because the three individual employees of Red are able to pay only $50,000 of the judgment, the only way the injured persons can fully satisfy their Blue state court judgment is from the funds of the state of Red.
 (Line_1201): Can the injured persons recover the full balance of their Blue state court judgment from the state of Red in the enforcement proceeding they filed in a court of Red?
-(Line_1202): A. Yes, because the final judgment of the Blue court is entitled to full faith and credit in the courts of Red.
 (Line_1203): B. Yes, because a limitation on damage awards against Red for tortious actions of its agents would violate the equal protection clause of the Fourteenth Amendment.
 (Line_1204): C. No, because the Tenth Amendment preserves the right of a state to have its courts enforce the state's public policy limiting its tort liability.
 (Line_1205): D. No, because the employees of Red were negligent and, therefore, their actions were not authorized by the state of Red.
@@ -1050,7 +467,6 @@
 (Line_1223): The governor of a state proposes to place a Christmas nativity scene, the components of which would be permanently donated to the state by private citizens, in the city's Capitol Building rotunda where the state's legislature meets annually. The governor further proposes to display this state-owned nativity scene annually from December 1 to December 31, next to permanent displays that depict the various products manufactured in the state. The governor's proposal is supported by all members of both houses of the legislature. If challenged in a lawsuit on establishment clause grounds, the proposed nativity scene display would be held
 (Line_1224): A. unconstitutional, because the components of the nativity scene would be owned by the state rather than by private persons.
 (Line_1225): B. unconstitutional, because the nativity scene would not be displayed in a context that appeared to depict and commemorate the Christmas season as a primarily secular holiday.
-(Line_1226): C. constitutional, because the components of the nativity scene would be donated to the state by private citizens rather than purchased with state funds.
 (Line_1227): D. constitutional, because the nativity scene would be displayed alongside an exhibit of various products manufactured in the state.
 (Line_1228):  
 (Line_1229): Congress wishes to enact legislation prohibiting discrimination in the sale or rental of housing on the basis of the affectional preference or sexual preference or sexual orientation of the potential purchaser or renter. Congress wishes this statute to apply to all public and private vendors and lessors of residential property in this country, with a few narrowly drawn exceptions. The most credible argument for congressional authority to enact such a statute would be based upon the
@@ -1060,48 +476,17 @@
 (Line_1233): D. enforcement clause of the Fourteenth Amendment, because that amendment prohibits all public and private actors from engaging in irrational discrimination.
 (Line_1234):  
 (Line_1235): A city owns and operates a large public auditorium. It leases the auditorium to any group that wishes to use it for a meeting, lecture, concert, or contest. Each user must post a damage deposit and pay rent, which is calculated only for the actual time the building is used by the lessee. Reservations are made on a first-come, first-served basis. A private organization that permits only males to serve in its highest offices rented the auditorium for its national convention. The organization planned to install its new officers at that convention. It broadly publicized the event, inviting members of the general public to attend the installation ceremony at the city auditorium. No statute or administrative rule prohibits the organization from restricting its highest offices to men. An appropriate plaintiff sues the private organization seeking to enjoin it from using the city auditorium for the installation of its new officers. The sole claim of the plaintiff is that the use of this auditorium by the organization for the installation ceremony is unconstitutional because the organization disqualifies women from serving in its highest offices. Will the plaintiff prevail?
-(Line_1236): A. Yes, because the Fourteenth Amendment prohibits such an organization from discriminating against women in any of its activities to which it has invited members of the general public.
 (Line_1237): B. Yes, because the organization's use of the city auditorium for this purpose subjects its conduct to the provisions of the Fourteenth Amendment.
 (Line_1238): C. No, because the freedom of association protected by the Fourteenth Amendment prohibits the city from interfering in any way with the organization's use of city facilities.
 (Line_1239): D. No, because the organization is not a state actor and, therefore, its activities are not subject to the provisions of the Fourteenth Amendment.
 (Line_1240):  
-(Line_1241): X-- A particular state has a state employee grievance system that requires any state employee who wishes to file a grievance against the state to submit that grievance for final resolution to a panel of three arbitrators chosen by the parties from a statewide board of 13 arbitrators. In any given case, the grievant and the state alternate in exercising the right of each party to eliminate five members of the board, leaving a panel of three members to decide their case. At the present time, the full board is composed of seven male arbitrators and six female arbitrators.
 
-(Line_1243): A female state employee filed a sexual harassment grievance against her male supervisor and the state. The state's attorney exercised all of her five strikes to eliminate five of the female arbitrators. At the time she did so, the state's attorney stated that she struck the five female arbitrators solely because she believed women, as a group, would necessarily be biased in favor of another woman who was claiming sexual harassment. Counsel for the state employee eliminated four males and one female arbitrator, all solely on the grounds of specific bias or conflicts of interest. As a result, the panel was all male.
 
-(Line_1245): When the panel ruled against the state employee on the merits of her case, she filed an action in an appropriate state court, challenging the panel selection process as a gender-based denial of equal protection of the laws.
-(Line_1246): In this case, the court should hold that the panel selection process is
-(Line_1247): A. unconstitutional, because the gender classification used by the state's attorney in this case does not satisfy the requirements of intermediate scrutiny.
-(Line_1248): B. unconstitutional, because the gender classification used by the state's attorney in this case denies the grievant the right to a jury made up of her peers.
-(Line_1249): C. constitutional, because the gender classification used by the state's attorney in this case satisfies the requirements of the strict scrutiny test.
-(Line_1250): D. constitutional, because the gender classification used by the state's attorney in this case satisfies the requirements of the rational basis test.
-(Line_1251):  
 
-(Line_1253): A senator makes a speech on the floor of the United States Senate in which she asserts that William, a federal civil servant with minor responsibilities, was twice convicted of fraud by the courts of a particular state. In making this assertion, the senator relied wholly on research done by her chief legislative assistant. In fact, it was a different man named William and not William the civil servant, who was convicted of these crimes in the state court proceedings. This mistake was the result of carelessness on the legislative assistant's part.
 
-(Line_1255): No legislation affecting the appointment or discipline of civil servants or the program of the federal agency for which the federal civil servant works was under consideration at the time the senator made her speech about him on the floor of the Senate.
 
-(Line_1257): The federal civil servant sues the senator and the legislative assistant for defamation. Both defendants move to dismiss the complaint.
 
-(Line_1259): As a matter of constitutional law, the court hearing this motion should
-(Line_1260): A. grant it as to the legislative assistant, because he is protected by the freedom of speech guarantee against defamation actions by government officials based on his mere carelessness; but deny it as to the senator, because, as an officer of the United States, she is a constituent part of the government and, therefore, has no freedom of speech rights in that capacity.
-(Line_1261): B. grant it as to both defendants, because the senator is immune from suit for any speech she makes in the Senate under the speech or debate clause of Article I, Section 6, and the legislative assistant may assert the senator's immunity for his assistance to her in preparing the speech.
-(Line_1262): C. deny it as to both defendants, because any immunity of the senator under the speech or debate clause does not attach to a speech that is not germane to pending legislative business, and the legislative assistant is entitled to no greater immunity than the legislator he was assisting.
-(Line_1263): D. deny it as to the legislative assistant, because he is not a legislator protected by the speech or debate clause; but grant it as to the senator, because she is immune from suit for her speech by virtue of that clause.
-(Line_1264):  
-(Line_1265): A doctor, who resides in the city of Greenville in the state of Green, is a physician licensed to practice in both Green and the neighboring state of Red. The doctor finds that the most convenient place to treat her patients who need hospital care is in the publicly owned and operated Redville Municipal Hospital of the city of Redville in the state of Red, which is located just across the state line from Greenville. For many years the doctor had successfully treated her patients in that hospital. Early this year she was notified that she could no longer treat patients in the Redville hospital because she was not a resident of Red, and a newly adopted rule of Redville Municipal Hospital, which was adopted in conformance with all required procedures, stated that every physician who practices in that hospital must be a resident of Red.
 
-(Line_1267): Which of the following constitutional provisions would be most helpful to the doctor in an action to challenge her exclusion from the Redville hospital solely on the basis of this hospital rule?
-(Line_1268): A. The bill of attainder clause.
-(Line_1269): B. The privileges and immunities clause of Article IV.
-(Line_1270): C. The due process clause of the Fourteenth Amendment.
-(Line_1271): D. The ex post facto clause.
-(Line_1272):  
-(Line_1273): A state statute prohibits any retailer of books, magazines, pictures, or posters from "publicly displaying or selling to any person any material that may be harmful to minors because of the violent or sexually explicit nature of its pictorial content." Violation of this statute is a misdemeanor. A corner store displays publicly and sells magazines containing violent and sexually explicit pictures. The owner of this store is prosecuted under the above statute for these actions.
-(Line_1274): In defending against this prosecution in a state trial court, the argument that would be the best defense for the corner store is that the statute violates the
-(Line_1275): A. First Amendment as it is incorporated into the Fourteenth Amendment, because the statute is excessively vague and overbroad.
-(Line_1276): B. First Amendment as it is incorporated into the Fourteenth Amendment, because a state may not prohibit the sale of violent or sexually explicit material in the absence of proof that the material is utterly without any redeeming value in the marketplace of ideas.
-(Line_1277): C. equal protection of the laws clause, because the statute irrationally treats violent and sexually explicit material that is pictorial differently from such material that is composed wholly of printed words.
 (Line_1278): D. equal protection of the laws clause, because the statute irrationally distinguishes between violent and sexually explicit pictorial material that may harm minors and such material that may harm only adults.
 (Line_1279):  
 (Line_1280): A federal statute imposes an excise tax of $100 on each new computer sold in the United States. It also appropriates the entire proceeds of that tax to a special fund, which is required to be used to purchase licenses for computer software that will be made available for use, free of charge, to any resident of the United States.
@@ -1112,7 +497,6 @@
 (Line_1285): D. Yes, because the patent power authorizes Congress to impose reasonable charges on the sale of technology and to spend the proceeds of those charges to advance the use of technology in the United States.
 (Line_1286):  
 (Line_1287): A toy manufacturer that has its headquarters and sole manufacturing plant in a particular state developed a "Martian" toy that simulates the exploration of Mars by a remote-controlled vehicle. It accurately depicts the Martian landscape and the unmanned exploratory vehicle traversing it. The toy is of high quality, safe, durable, and has sold very well. Other toy manufacturers, all located outside the state, developed similar toys that are lower in price. These manufacturers have contracts to sell their Martian toys to outlets in the state. Although these toys are safe and durable, they depict the Martian landscape less realistically than the toys manufactured in the state. Nevertheless, because of the price difference, sales of these toys have cut severely into the sales of the Martian toys manufactured in the state. The state legislature subsequently enacted a law "to protect the children of the state from faulty science and to protect in-state toy manufacturers from unfair competition." This law forbids the sale in the state of any toy that purports to represent extraterrestrial objects and does not satisfy specified scientific criteria. The Martian toy manufactured in the state satisfies all of these criteria; none of the Martian toys of the competing manufacturers meets the requirements. 
-(Line_1288): Is the state law constitutional?
 (Line_1289): A. No, because it abrogates the obligations of the contracts between the other toy manufacturers and the in-state outlets who have agreed to sell their Martian toys.
 (Line_1290): B. No, because it imposes an undue burden on interstate commerce.
 (Line_1291): C. Yes, because it deals only with a local matter, the sale of toys in this particular state's stores.
@@ -1138,7 +522,6 @@
 (Line_1311): B. The decision of the state supreme court was based on an adequate and independent state ground.
 (Line_1312): C. The Sixth Amendment to the United States Constitution does not require that a witness against a criminal defendant be able to see the defendant while the witness testifies.
 (Line_1313): D. The state supreme court's decision requires a new trial, and therefore it is not a final judgment.
-(Line_1314): Several public high school students asked the superintendent of the public school district whether the minister of a local church could deliver an interdenominational prayer at their graduation ceremony in the school auditorium. None of the students or their guests at graduation would be required to pray while the minister delivered the prayer.
 (Line_1315): Would the minister's delivery of such a prayer at the public high school graduation be constitutional?
 (Line_1316): A. No, because it would be an unconstitutional establishment of religion.
 (Line_1317): B. No, because it would deny attendees who are not members of the minister's denomination the right to freely exercise their religion.
@@ -1239,13 +622,6 @@
 (Line_1412): B. Yes, because the traffic accident was a noncommercial transaction outside interstate commerce.
 (Line_1413): C. No, because the case falls within the federal question jurisdiction of the court.
 (Line_1414): D. No, because the treaty power is plenary and not subject to judicial review.
-(Line_1415):  
-(Line_1416): A state legislature received complaints from accident victims who, in the days immediately following their accidents, had received unwelcome and occasionally misleading telephone calls on behalf of medical care providers. The callers warned of the risks of not obtaining prompt medical evaluation to detect injuries resulting from accidents and offered free examinations to determine whether the victims had suffered any injuries.
-(Line_1417): In response to these complaints, the legislature enacted a law prohibiting medical care providers from soliciting any accident victim by telephone within 30 days of his or her accident.
-(Line_1418): Which of the following is the most useful argument for the state to use in defending the constitutionality of the law?
-(Line_1419): A. Because the commercial speech that is the subject of this law includes some speech that is misleading, the First Amendment does not limit the power of the state to regulate that speech.
-(Line_1420): B. Because the law regulates only commercial speech, the state need only demonstrate that the restriction is rationally related to achieving the state's legitimate interests in protecting the privacy of accident victims and in regulating the medical profession.
-(Line_1421): C. The state has substantial interests in protecting the privacy of accident victims and in regulating the practice of medical care providers, and the law is narrowly tailored to achieve the state's objectives.
 (Line_1422): D. The law is a reasonable time, place, and manner regulation.
 (Line_1423):  
 (Line_1424): A report released by a Senate investigating committee named three U.S. citizens as helping to organize support for terrorist activities. All three were employed by the U.S. government as park rangers.
@@ -1431,7 +807,6 @@
 (Line_1614): C. The need of the state for this particular statute.
 (Line_1615): D. The number of aliens currently residing in the state.
 (Line_1616):  
-(Line_1617): 225.	The President of the United States recognizes the country of Ruritania and undertakes diplomatic relations with its government through the Secretary of State. Ruritania is governed by a repressive totalitarian government.In an appropriate federal court, a citizen brings a suit against the President and Secretary of State to set aside this action on the ground that it is inconsistent with the principles of our constitutional form of government. The citizen has a lucrative contract with the United States Department of Commerce to provide commercial information about Ruritania. The contract expressly terminates, however, "when the President recognizes the country of Ruritania and undertakes diplomatic relations with its government."
 (Line_1623):  
 (Line_1624): 226.	Congress passed a statute providing that parties could no longer seek review in the U.S. Supreme Court of final judgments in criminal matters made by the highest court in each state. What is the best argument supporting the constitutionality of the statute?
 (Line_1625): A. Congress has the power to make exceptions to the appellate jurisdiction of the Supreme Court.
@@ -1526,7 +901,9 @@
 
 
 
+_______________________
 
+answers:
 
 
 
@@ -1870,39 +1247,22 @@
 
 (Line_2059): A is the correct answer. A state court is required to give full faith and credit to judgments of sister states. Here, the state employees and the state submitted to the jurisdiction of the other state court, and raised the defense they raise now in their own state courts. There is no fundamental unfairness to the proceedings that would warrant not giving the judgment full faith and credit, and it would be enforced in full in the current proceedings.
 
-(Line_2061): C is the correct answer. Article III limits the exercise of federal court jurisdiction to cases and controversies, and once the injury that gave rise to the case is incapable of remedy, the case becomes moot and no longer justiciable. Here, once the trial was over, the relief the student sought-–televising the trial-–was no longer possible, and his case became moot. Moreover, it is unlikely that the controversy will be revived because the case is on appeal now, and there were no obvious errors in the proceedings. Therefore, the federal court should grant the motion to dismiss.
 
-(Line_2063): D is the correct answer. The requirement that the company construct an addition and create a child care center in it is governed by the takings clause of the Constitution. In order to justify a condition on a building permit, there must be a nexus between a legitimate state interest, here the availability of childcare facilities, and the condition. If there is a nexus, there must also be a rough proportionality between the required dedication and the impact it will have on the community. And the city bears the burden of meeting this higher test. Here the city failed to demonstrate the rough proportionality between the requirement and the impact on the residents. The requirement would be a very large burden on the supermarket, since it would at least double the cost of the addition and would doubly reduce the amount of parking available. The addition of one daycare center, however, would have a smaller impact on the community which has a general lack of child care facilities.
 
-(Line_2065): B is the correct answer. A state cannot display a nativity scene unless it is displayed in a context that commemorates the Christmas season as a primarily secular holiday. If a display includes religious symbols as well as other holiday decorations, the display will be deemed to have a secular purpose; however, if it is only the religious symbol in a display, it will be deemed to have a religious effect. Although this scene will be set up with other non-religious displays, those displays are not related to Christmas as a secular holiday and those displays are also permanent, rather than related to the particular Christmas season.
 
-(Line_2067): B is the correct answer. The commerce clause would provide the most credible support for a statute prohibiting sexual orientation discrimination in sale or rental of housing. The rent or purchase of housing could reasonably be found to affect interstate commerce.
 
-(Line_2069): D is the correct answer. The Fourteenth Amendment prohibits state action but not private action. Therefore, the prohibition of women from serving as officers in this organization is not unconstitutional. A is incorrect both because the Fourteenth Amendment does not reach this private actor, and also because the private actor does not become a state actor merely by inviting the public to an activity. B is incorrect because the use of the auditorium does not discriminate on the basis of gender; women can come to the installation of new officers, and the use of the auditorium does not make the organization a state actor. C is incorrect because the city could regulate who would be allowed to use its facilities, although some regulations might have to pass strict scrutiny.
 
-(Line_2071): A is the correct answer. The state's attorney in this case intentionally struck jurors based upon their gender. These decisions would have to satisfy intermediate scrutiny, and they can't because they were based on the assumption that women as a group would be biased in favor of a woman claiming sexual harassment. Without proof of actual bias, this belief cannot be narrowly tailored to an important governmental interest.
 
-(Line_2073): B is the correct answer. The speech and debate clause of Article I provides that anything said in the course of the federal legislative process is immune from prosecution. Speeches outside the Senate are not covered, nor are statement made as the result of bribes. Thus, the Senator would be immune from suit for any speech she makes in the Senate and her assistant would be cloaked with immunity for his assistance to her in preparing the speech. A, C, and D are all incorrect because they misstate the law and how it would protect the Senator and her assistant.
 
-(Line_2075): B is the correct answer. A state or municipality may not discriminate against citizens of other states under the privileges and immunities clause of Article IV. Such classifications must meet strict scrutiny, and there is no indication here that the state could meet that burden. A is incorrect because a bill of attainder is legislatively-imposed punishment, which is not present in this issue. C is not correct because the doctor was not deprived of a fundamental right. D is not correct because the rule did not make illegal something that was legal when it was done.
 
-(Line_2077): A is the correct answer. The best defense for the corner store is that the statute is excessively vague and overbroad. It is vague because the terms "harmful" and "violent or sexually explicit nature" are terms that are not concrete enough to allow most people to understand what is prohibited. The statute is overbroad because it may prohibit material that is not shown to harm minors, but would not prohibit written material describing violent and sexually explicit acts, which would be harmful to minors.
 
-(Line_2079): C is correct because Article I, Section 8, Clause 1 of the Constitution gives Congress broad power to tax and to spend for the general welfare. Courts defer to reasonable congressional taxing measures, such as the statute at issue in this case, as well as to expenditures that reasonably further the general welfare.
 
-(Line_2081): B is correct. The commerce clause (Article I, Section 8, Clause 3 of the Constitution) gives Congress the power to regulate commerce among the states and, by negative implication, restricts the regulatory power of the states with respect to interstate commerce. Any state law that has a substantial effect on interstate commerce must not be protectionist or otherwise impose an undue burden on interstate commerce. A protectionist law benefits in-state interests at the expense of out-of-state interests. A state law that discriminates against interstate commerce is protectionist unless it serves a legitimate local interest that cannot be served by nondiscriminatory legislation. By barring the sale in the state of the Martian toys manufactured in other states, the state law has a substantial effect on interstate commerce. Although the law does not explicitly discriminate against the out-of-state toy manufacturers, it has a purely discriminatory effect against them, and the state has less discriminatory alternatives available to protect the legitimate interests cited in the law. The state law therefore violates the negative implications of the commerce clause.
 
-(Line_2083): Answer B is correct. The privileges and immunities clause of Article IV, Section 2, Clause 1 of the Constitution does not apply on these facts. The clause only reaches actions by a state that discriminate against citizens of other states. The woman is a citizen of the state that employed her because she was a resident of that state (Fourteenth Amendment, Section 1).
 
-(Line_2085): Answer A is correct. The provision is a bill of attainder in violation of Article I, Section 10, Clause 1 of the Constitution. A bill of attainder is a law that provides for the punishment of a particular person without trial. The challenged provision satisfies this definition because it deprives two named professors of their salaries, and thus, their employment.
 
-(Line_2087): Answer B is correct. The Supreme Court may not review a judgment by the highest court of a state if that judgment is supported entirely by state law and is wholly independent of the interpretation and application of federal law. In this case, although the defendant claimed a violation of the Sixth Amendment of the U.S. Constitution, the state supreme court based its decision entirely on the state constitution without addressing the federal constitutional issue.
 
-(Line_2089): Answer A is correct. Prayer and Bible readings in public schools violate the Establishment Clause. It does not matter whether participation is voluntary or involuntary. The Supreme Court has held that officially sponsored prayers as part of public high school commencement ceremonies, like the prayer at issue in this case, violate the establishment clause of the First Amendment.
 
-(Line_2091): Answer B is correct. Congress may delegate rule-making authority to federal agencies through statutes that provide an intelligible principle governing the exercise of that authority. The Supreme Court has been very deferential in applying the intelligible principle requirement, and the statute's provision of authority to the Forest Service to issue regulations controlling campfires and establishing a penalty schedule likely satisfies the requirement.
 
-(Line_2093): Answer D is correct. The zoning board's denial of the permit discriminated against neither a suspect class nor a quasi-suspect class. Nor did it unduly burden the exercise of a fundamental right. The denial therefore triggers rational basis scrutiny.
 
 (Line_2095): Answer D is correct. A government regulation that eliminates the investment-backed expectation and economic value of an individual's property is a taking within the meaning of the Fifth Amendment, as applied to the county by the Fourteenth Amendment. Because the regulation has this effect, it constitutes a taking of the purchaser's property, for which the county must pay just compensation. Because the county did not compensate the purchaser for the land, the county has violated the takings clause.
 

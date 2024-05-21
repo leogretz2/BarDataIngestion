@@ -11,7 +11,7 @@ function runService(workerData) {
     });
 
     // Send the file path to the worker
-    worker.postMessage('pre-processed_folder_test/con_law_questions_answers.txt');
+    worker.postMessage('preprocessed_folder_test/con_law_questions_answers.txt');
   });
 }
 

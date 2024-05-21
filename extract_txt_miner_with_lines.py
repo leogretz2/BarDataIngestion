@@ -66,6 +66,8 @@ def add_line_numbers(text):
 
 def main():
     # If doc is docx, separate question and answer in folder
+    extracted_text = ''
+    txt_path = './txt_folder/Contract1.txt'
     if False:
         docx_path_question = './working_folder/Con_Law/Con_law_answers.docx'
         docx_path_answer = './working_folder/Con_Law/Con_law_questions.docx'
@@ -78,10 +80,14 @@ def main():
         extracted_text = add_line_numbers(extract_text_from_pdf(pdf_path))
     # If doc is  pdf and word count < 50 (aka has minimal selectable text) use OCR
     else:
-        pdf_path = ''
-        extracted_text = add_line_numbers(extract_text_from_images_pdf(pdf_path))
+        with open(txt_path, 'r') as filer:
+            extracted_text = add_line_numbers(filer.read())
+
+    filename = txt_path.split('/')[-1].split('.')[0]
     
-    txt_path = './txt_folder/Con_Law_w_numbered_lines.txt'
-    with open(txt_path, 'w') as f:
+    lined_txt_path = f'./preprocessed_folder_test/{filename}_lined.txt'
+    with open(lined_txt_path, 'w') as f:
         f.write(extracted_text)
-        print(f"Combined text saved to {txt_path}")
+        print(f"Combined text saved to {lined_txt_path}")
+
+main()

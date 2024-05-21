@@ -1,15 +1,15 @@
-import { createClient } from '@supabase/supabase-js';
+import { createClient } from "@supabase/supabase-js";
 import { deleteProcessedContent, cleanUpNewlines } from "./helperFunctions.js";
 
-const SUPABASE_PROJECT_URL = process.env.SUPABASE_PROJECT_URL
-const SUPABASE_API_KEY = process.env.SUPABASE_API_KEY
+const SUPABASE_PROJECT_URL = process.env.SUPABASE_PROJECT_URL;
+const SUPABASE_API_KEY = process.env.SUPABASE_API_KEY;
 const supabase = createClient(SUPABASE_PROJECT_URL, SUPABASE_API_KEY);
 
-
+// timestamp insertion is in UTC (4 hours ahead of NY time)
 export async function insertMBEQuestion(args, filePath) {
   try {
-    console.log('Inserting MBE question with args:', args);
-    const parsedArgs = typeof args === 'string' ? JSON.parse(args) : args;
+    console.log("Inserting MBE question with args:", args);
+    const parsedArgs = typeof args === "string" ? JSON.parse(args) : args;
 
     const {
       Document_title,
@@ -50,28 +50,29 @@ export async function insertMBEQuestion(args, filePath) {
       _topic: topic,
     };
 
-    console.log('Calling Supabase function with payload:', payload);
+    console.log("Calling Supabase function with payload:", payload);
 
-    const { data, error } = await supabase.rpc('insert_mbe_question', payload);
+    const { data, error } = await supabase.rpc("insert_mbe_question", payload);
 
     if (error) {
-      console.error('Error inserting MBE question:', error);
+      console.error("Error inserting MBE question:", error);
       throw error;
     }
 
-    console.log('MBE question inserted successfully');
+    console.log(
+      `MBE question inserted successfully: ${payload._question.split(" ").slice(0, 5).join(" ")}...`,
+    );
     return data;
   } catch (error) {
-    console.error('Error processing MBE question args:', error);
+    console.error("Error processing MBE question args:", error);
     throw error;
   }
 }
 
-
 export async function insertMEEQuestion(args, filePath) {
   try {
-    console.log('Inserting MEE question with args:', args);
-    const parsedArgs = typeof args === 'string' ? JSON.parse(args) : args;
+    console.log("Inserting MEE question with args:", args);
+    const parsedArgs = typeof args === "string" ? JSON.parse(args) : args;
 
     const {
       Document_title,
@@ -96,7 +97,7 @@ export async function insertMEEQuestion(args, filePath) {
     deleteProcessedContent(filePath, Doc_Lines_to_Delete);
 
     // Call the Supabase function
-    console.log('Calling Supabase function with:', {
+    console.log("Calling Supabase function with:", {
       _answer_origin: answer_origin,
       _answers: possible_answers,
       _correct_answer: answer,
@@ -112,7 +113,7 @@ export async function insertMEEQuestion(args, filePath) {
       _topic: topic,
     });
 
-    const { data, error } = await supabase.rpc('insert_mee_question', {
+    const { data, error } = await supabase.rpc("insert_mee_question", {
       _answer_origin: answer_origin,
       _answers: possible_answers,
       _correct_answer: answer,
@@ -129,22 +130,22 @@ export async function insertMEEQuestion(args, filePath) {
     });
 
     if (error) {
-      console.error('Error inserting MEE question:', error);
+      console.error("Error inserting MEE question:", error);
       throw error;
     }
 
-    console.log('MEE question inserted successfully');
+    console.log("MEE question inserted successfully");
     return data;
   } catch (error) {
-    console.error('Error processing MEE question args:', error);
+    console.error("Error processing MEE question args:", error);
     throw error;
   }
 }
 
 export async function insertMPTQuestion(args, filePath) {
   try {
-    console.log('Inserting MPT question with args:', args);
-    const parsedArgs = typeof args === 'string' ? JSON.parse(args) : args;
+    console.log("Inserting MPT question with args:", args);
+    const parsedArgs = typeof args === "string" ? JSON.parse(args) : args;
 
     const {
       Document_title,
@@ -169,7 +170,7 @@ export async function insertMPTQuestion(args, filePath) {
     deleteProcessedContent(filePath, Doc_Lines_to_Delete);
 
     // Call the Supabase function
-    console.log('Calling Supabase function with:', {
+    console.log("Calling Supabase function with:", {
       _answer_origin: answer_origin,
       _answers: possible_answers,
       _correct_answer: answer,
@@ -185,7 +186,7 @@ export async function insertMPTQuestion(args, filePath) {
       _topic: topic,
     });
 
-    const { data, error } = await supabase.rpc('insert_mpt_question', {
+    const { data, error } = await supabase.rpc("insert_mpt_question", {
       _answer_origin: answer_origin,
       _answers: possible_answers,
       _correct_answer: answer,
@@ -202,29 +203,31 @@ export async function insertMPTQuestion(args, filePath) {
     });
 
     if (error) {
-      console.error('Error inserting MPT question:', error);
+      console.error("Error inserting MPT question:", error);
       throw error;
     }
 
-    console.log('MPT question inserted successfully');
+    console.log("MPT question inserted successfully");
     return data;
   } catch (error) {
-    console.error('Error processing MPT question args:', error);
+    console.error("Error processing MPT question args:", error);
     throw error;
   }
 }
 
 export async function end_document_processing({ end_document_processing }) {
-    try {
-        if (!end_document_processing) {
-            throw new Error("Invalid argument: end_document_processing must be true to signify the end of document processing.");
-        }
-
-        console.log("Document processing completed.");
-        console.log('Document processing logged successfully');
-        return "Document processing logged successfully";
-    } catch (error) {
-        console.error("Error in end_document_processing:", error);
-        throw error;
+  try {
+    if (!end_document_processing) {
+      throw new Error(
+        "Invalid argument: end_document_processing must be true to signify the end of document processing.",
+      );
     }
+
+    console.log("Document processing completed.");
+    console.log("Document processing logged successfully");
+    return "Document processing logged successfully";
+  } catch (error) {
+    console.error("Error in end_document_processing:", error);
+    throw error;
+  }
 }
