@@ -3,7 +3,7 @@ Notes on formats for pdf/docx/txt files:
 - 300_MBE_QAs.pdf - Each page has Question then Answer; 300 questions; 301 pages -> split into 2
 - Barbri_Released_Questions_MBE_2007.pdf - images, needs OCR; 309 pages -> split into 2
 - Civil_notes.pdf - images, needs OCR, two pages of notes, so probably useless
-- Con_Law.txt (from docx) - ~2000lines, 80,000 tokens -> keep one file
+- Con_Law.txt (from docx) - ~230 questions; ~2000lines, 80,000 tokens -> keep one file
 - Contract.txt (from docx) - ~2600 lines, 126,000 tokens, 287 questions -> integrate into 2 (140 questions each)
 - Con_Law_Adaptibar.pdf - 309 questions; one question then explanations for each option per page; split into 2
 - Contracts_Adaptibar.pdf - 304 questions; one question then explanations for each option per page; split into 3

@@ -28,10 +28,10 @@ export async function insertMBEQuestion(args, filePath) {
       topic,
     } = parsedArgs;
 
-    cleanUpNewlines(parsedArgs);
-
-    // Remove processed content from the file
-    deleteProcessedContent(filePath, Doc_Lines_to_Delete);
+    // cleanUpNewlines(parsedArgs);
+    // // Remove processed content from the file and abort if nothing significant removed
+    // if (!deleteProcessedContent(filePath, Doc_Lines_to_Delete))
+    //   return "Duplicate detected and diverted";
 
     // Construct the payload as a single JSON object
     const payload = {
@@ -49,6 +49,29 @@ export async function insertMBEQuestion(args, filePath) {
       _question_type: question_type,
       _topic: topic,
     };
+
+    // CHANGED DATABASE TO GENERALIZED QUESTIONS:
+    // const payload = {
+    //   _answer_origin: answer_origin,
+    //   _possible_answers: answers,
+    //   _correct_answer: correct_answer,
+    //   _difficulty_level: difficulty_level,
+    //   _document_date: Document_Date,
+    //   _document_title: Document_title,
+    //   _explanation: explanation,
+    //   _explanation_origin: explanation_origin,
+    //   _law_category_tags: law_category_tags,
+    //   _publisher: Publisher,
+    //   _question_text: question,
+    //   _question_type: question_type,
+    //   _topic: topic,
+    // };
+
+    // console.log("Calling Supabase function with payload:", payload);
+
+    // const { data, error } = await supabase.rpc("insert_question", payload);
+    // Thinking about returning something from insert_question so data isn't void
+    
 
     console.log("Calling Supabase function with payload:", payload);
 
