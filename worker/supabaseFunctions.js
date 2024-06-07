@@ -71,7 +71,6 @@ export async function insertMBEQuestion(args, filePath) {
 
     // const { data, error } = await supabase.rpc("insert_question", payload);
     // Thinking about returning something from insert_question so data isn't void
-    
 
     console.log("Calling Supabase function with payload:", payload);
 

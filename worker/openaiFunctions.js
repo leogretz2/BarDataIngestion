@@ -100,8 +100,6 @@ export async function processFile(filePath, parentPort) {
             "topic",
           ],
         },
-      },
-    },
     {
       type: "function",
       function: {
